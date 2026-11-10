@@ -1,0 +1,118 @@
+
+ '''JoJo's Bizarre Adventure, Part 3 - Stardust Crusaders'''
+{{Quote|''"Yes, you may drive my Hierophant Green mad...mad from joy, that is. For you see, my Stand loves nothing more...than to rip things to shreds!"''|~Noriaki Kakyoin}}
+
+{{Character|name = Hierophant Green|image = <tabber>
+Current Model=[[File:NEW HG IMAGE PAGE.png]]
+|-|Old=[[File:Screenshot_2021-03-04_at_16.45.53.png]]
+</tabber>|birthDate = 1971|birthPlace = Japan|deathDate =1989 |deathPlace =Cairo, Egypt |aliases = HG
+Tentacle Green (YBA Namesake)|affiliation = [https://jojo.fandom.com/wiki/Noriaki_Kakyoin Noriaki Kakyoin (Stand Master)]|species = Long-distance Stand|gender = |height = |eyes = Yellow}}
+
+== Overview ==
+Hierophant Green is the [[Stands|Stand]] of Noriaki Kakyoin, one of the Stardust Crusaders within JoJo's Bizarre Adventure Part 3. Hierophant Green is a long-ranged Stand. It is best known for its ability to use the Emerald Splash and remains one of the most recognizable Stands in the series. You can get this Stand from a [[Mysterious Arrow]] with a 5% chance to obtain it. This Stand has previously been renamed "Tentacle Green" in-game in order to avoid [[YBA Renames|copyright issues]].
+
+This Stand can be very effective when paired with [[Hamon (Joseph Joestar)|Joseph's Hamon]] or [[Spin]] due to the amount of ranged options both specs have, or Hamon's Damage and Defence bonuses.
+
+On paper, Hierophant Green is a weak Stand. Its base power and speed are among the worst in the game and its moveset is incredibly small, consisting of a meager three attacks, not including Pilot. However, Hierophant Green's moves are powerful enough to give it serious tournament play, despite the fact that it isn't blatantly overpowered.
+
+Emerald Splash is Hierophant Green's most consistent and it deals 1.8 damage. It breaks block, can be charged to allow the player to properly aim and has infinite range, though is best used up close allowing emerald barrage. 20 Meter Emerald Splash is an invisible hitbox where the user can stand in it without consequence, and if any one player touches the barrier, they will be stunned as they take damage. Marionette Control prevents the opponent from moving away, in addition to blinding them. It's best used when the opponent is in the Hierophant's Field, when they are stunned by the move. Pilot is the last of Hierophant Green's attacks and is where players will be spending the most time using it thanks to its long ranged, versatile Pilot. Finally, Hierophant Green is relatively mid cost Stand, usually leaving the player with 20+ Skill Points to put into either their character or their specialty of choice.
+
+Hierophant Green is not without its flaws, however. As stated before, Hierophant Green is a slow, weak Stand, meaning that it's M1s and barrage are almost useless offensively. In Pilot, if it is ragdolled, its attacks will be cancelled (a common reality when you realize Emerald Splash has small moments where stun doesn't apply), meaning that it relies on long combos and Emerald Splash chip damage to get things done. Finally, outside of small moments of Emerald Barrier stun, Hierophant Green is almost useless in the face of Time Stop, at least with its 20 meter emerald splash on cooldown.
+
+To sum it up, Hierophant Green is a defensive Stand that requires a slightly adept hand to get the most out of. Its low cost, Pilot capabilities and chipping ability give it a genuine niche, but its flaws hold it back from being a truly dominant Stand.
+ Total Skill Points: 60 Points
+
+==Skills==
+'''LMB - Punch:''' Hierophant Green throws a regular punch that deals 5 damage, comboing for 25 per 5 hits.
+
+'''RMB - Heavy punch:''' Hierophant Green flashes before sending a heavy punch with animation similar to barrage finisher, dealing 7 damage (Block breaking, Parriable, Cancelable, 6s Cooldown)
+
+'''E - Emerald Barrage:''' Hierophant Green performs a special stand barrage throwing emeralds in front of the user dealing 1.3 damage per hit on max clarity. During the barrage, screaming (emerarudo sprashye) in continuous fashion, note this barrage is toggled unlike other barrages which require holding. it can be used during stuns but be aware your barrage lasts shorter than most barrages. (Blockable, superarmour, 10s Cooldown)
+
+'''R - Stand Barrage Finisher:''' Hierophant Green throws a heavy punch dealing 10 damage. (Block Breaking, Parriable, Superarmour, 7s Cooldown)
+
+'''Y - Marionette Control:''' Hierophant Green throws a heavy punch dealing 20 damage, attaching its tentacles to the opponent, Restricting enemy movements to you for 7 Seconds on max puppet master. You can still attack while your strings are attached to the opponent, and so can they, whether NPC or Player. The advantages this move gives are forced close encounters and heavily depends on availability of spec and emerald moves, for maximum advantage, Hierophant's Field may be advisable. As of Version 1.0, victims can not have their stands forced away while under control, however, this was revoked on later rework. (Block Breaking, Parriable, Cancelable, 15s Cooldown) 
+
+'''T - Emerald Splash:''' Hierophant Green charges a barrage of quick emerald projectiles to fire at opponents, dealing 1.8 damage per hit. The button can be held down for revving it up, but this does not change the move damage or duration, only makes your windup longer, on expense of readiness, so it's advised to start it from afar or while the enemy is ragdolled. It's basically a second ranged barrage but it breaks block and does not take up a barrage cooldown. When the attack ends, there is a great amount of endlag. If the user is knocked down at all, Emerald Splash will be cancelled. (10s Cooldown, Block Breaking, Not Parriable, Cancelable during charge up, superarmour during the splash)
+
+'''H - Pilot:''' Allows you to manually control Hierophant Green's position. Unlike most other piloted Stands, Hierophant Green can fly around freely while being piloted, and, as opposed to Aerosmith, is not unsummoned when colliding with terrain. 
+
+'''Z - Hierophant's Field:''' Hierophant Green places a large visible amount of its tentacles in front of the user to stun those who touch them, rendering them helpless for 4 seconds on max tentacles. (28s Cooldown, Block Bypass, Cancelable, not Parriable)
+
+'''X - 20 Meter Emerald Splash:''' Hierophant green lifts its arms surrounding a large area with invisible Tentacles which upon contact shoot a barrage of emeralds towards the enemy, each dealing 4.8 on max clarity, This move renders Hierophant green useful for both NPC farming and against teams When the barrier is not touched, it remains invisible, however when touched is shown to everyone. This move also works in Time Stop, making it a reliable counter to TS stands, though the damaging projectiles only move at the Time Stop's end. (60s Cooldown, Blockable, Not Parriable, cancelable during the startup) 
+
+== Skill Tree ==
+<tabber>
+|-|Skills=
+*Emerald splash: 2 points
+*20-Meter Emerald Splash: 4 points 
+*Hierophant's Field: 1 point
+*Marionette's control: 2 points
+*Pilot: 1 point
+|-|Passive=
+Clarity: Increases emerald splash, barrage and 20-meter splash by 0.1 per hit per upgrade
+* Clarity I: 2 points
+* Clarity II: 1 point
+* Clarity III: 2 points 
+* Clarity IV: 3 points 
+* Clarity V: 3 points 
+Emeralds: Increases the amount of emeralds for emerald splash and barrage while increasing 20-meter splash damage by 0.6 per upgrade
+* Emeralds I: 2 points 
+* Emeralds II: 2 points 
+* Emeralds III: 3 points 
+Tentacles: Increases the duration of 20-meter splash and Hierophant's Field by 1 second per upgrade
+* Tentacles I: 2 points 
+* Tentacles II: 2 points 
+* Tentacles III: 3 points 
+Puppet Master: Increases the duration of Marionette control by 1 second per upgrade
+* Tentacles I: 3 points 
+* Tentacles II: 3 points 
+* Tentacles III: 4 points 
+Stand Speed: Increases pilot mode speed
+*Stand Speed I: 1 point
+*Stand Speed II: 1 point
+*Stand Speed III: 1 point
+*Stand Speed IV: 1 point
+*Stand Range: Increases pilot mode maximum range
+*Stand Range I: 1 point
+*Stand Range II: 1 point
+*Stand Range III: 1 point
+*Stand Range IV: 1 point
+</tabber>
+
+== Combos and Tips ==
+[[Hierophant Green/Combos and Tips]]
+
+==Trivia==
+
+*Mobile users are able to control their character while under the effect of marionette control, although they can’t use moves.
+*Hierophant Green was one of the first Stands introduced in the entire JoJo's Bizarre Adventure series.
+*It was stated that Noriaki Kakyoin had his Stand from birth.
+*Within the ''dub'' of Stardust Crusaders, Noriaki Kakyoin states that "No one can deflect the Emerald Splash", which became a meme within the Jojo community due to its ineffectiveness against Jotaro Kujo. This is referenced in YBA with how Emerald Splash is unblockable and unparriable.
+*You can increase Hierophant Green's pilot speed with an FPS Unlocker.
+
+== Gallery==
+<gallery widths="185">
+File:Black Hierophant.PNG|Hierophant Black, Based on the Death 13 fight (Common)
+File:Hg skin.png|Hierophant Purple originating from Kakyoin first battle against Jotaro and Star Platinum.
+File:Фафывфывфывф.png|Hierophant Yellow, Based on the Tower of gray fight.
+File:NEW HG IMAGE PAGE-removebg-preview.png|A transparent image of HG.
+File:Eldritch Hierophant.png|Eldritch Hierophant Shiny (Uncommon)
+File:Heirophant Frost.png|Heirophant Frost, A limited Christmas skin
+File:Muffet (Epic).png|Muffet (Epic)
+File:HP Heavy.gif|HG's Heavy Punch
+File:HG Barrage.gif|HG's Barrage
+File:HG Marionette Control.gif|HG's Marionette Control
+File:HG Emerald Splash.gif|HG's Emerald Splash
+File:Hg Emerald Barrier.gif|HG's Emerald Barrier
+</gallery>
+
+<br />    
+
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:Long-Ranged]]
+[[Category:Pilot]]
+[[Category:Part 3]]
+
+{{NavigationBox}}

@@ -1,0 +1,69 @@
+{{tab2|link1=Killer Queen|tab1=Killer Queen|link2=Killer Queen: Bites the Dust|tab2=Killer Queen: Bites the Dust}}
+ '''JoJo's Bizarre Adventure, Part 4 - Diamond Is Unbreakable'''
+
+
+{{NewestStandTemplate|image1=<gallery>
+Killer_Queen_YBA_remodel.png|New
+RobloxScreenShot20210925 145717790.png|Old
+Image 2021-04-15 170615.png|Older
+Screenshot_2021-02-12_at_15.11.24.png|Oldest
+</gallery>|aliases=KQ
+
+Deadly Queen (localized name)|namesake=[https://en.wikipedia.org/wiki/Killer_Queen Killer Queen]|stand_type=Close-Ranged|abilities=Sheer Heart Attack, Bomb planting, Strong Block and Power|stand_cry=Shibo/Shiba|user=Yoshikage Kira|stand_appearance=Pink; Cat-like features|title1=Killer Queen|affiliation=|height=|eye_color=Red and white|skill_tree=41 points}}{{Quote|"I told you. My Killer Queen can turn anything it touches into a bomb. I turned this 100-yen coin into a bomb. I can push the switch whenever I want, and my opponent is blown to bits from the inside out."|-Yoshikage Kira to Shigekiyo Yangu}}<br />
+== Overview ==
+Killer Queen is the [[Stands|Stand]] of Yoshikage Kira in Jojo's Bizarre Adventure''. ''Its most notable feature is being able to transform anything into a bomb with a touch of its finger and detonating it by pressing its thumb on its index finger, similar to activating a detonator (note that Roblox characters don't have thumbs, so Killer Queen just moves its hand similar to detonating it in the anime/manga). It has a 2.5% chance of being obtained from a Stand arrow. It is primarily a close-range Stand but uses some ranged attacks. 
+ Total Skill Points: 42 Points
+
+==Skills==
+E - '''Barrage:''' Killer Queen does a flurry of slow punches. Damage depends on the upgrade of Destructive Power. 1 damage at max upgrade.
+
+R - '''Barrage Finisher:''' Pressing R will allow you to do a heavy punch dealing meh damage and sending your opponent flying back.
+
+T - '''Primary Bomb:''' Killer Queen plants a bomb on players, NPCs, and surfaces. Press the key again to detonate the Bomb instead of pressing Y.
+
+Y - '''Detonate Bomb''': If you have a bomb planted, Killer Queen will detonate it. You can now choose which bomb to detonate as of the update on March 29th. 
+
+G - '''Impale''': Killer Queen throws a punch, and if this lands, Killer Queen will impale the person that gets hit by it. 
+
+H - '''Bomb Leap:''' Killer Queen will put the bomb in the ground. then automatically detonate the bomb and launch the user and Killer Queen to the air, The Bomb also deal 12.6 damage (at max upgrade) if someone near the user when using bomb leap. This is blockable (Note: This only work on the ground, you can't use this on air). 
+
+X - '''Scattered Coin Bombs:''' The user will throw coins at the enemy and automatically detonate them.  Damage depends on the upgrade of Destructive Power. It will deal 1.6 damage at max Destructive Power. 
+
+C - '''Sheer Heart Attack:  '''Release Sheer Heart Attack. SHA is indestructible and will track the closest player or hostile NPC until it comes in contact with its target. Upon doing so, SHA will detonate. It will change targets if another player is standing nearby. As of the new update on March 29th, Sheer Heart Attack can be detonated early, but it destroys Sheer Heart Attack and the explosion is blockable. Press the key again to detonate the Bomb instead of pressing Y.
+
+Z - '''Explosive Coin Throw:''' The user throws single coin at the enemy. Any player or hostile NPC that comes close to the coin will detonate it, and the coin will despawn. Press the key again to detonate the Bomb instead of pressing Y.
+[[File:Detonate bomb screen for regular kq.png|alt=|thumb|KQ now possesses this new ability.]]
+<br />
+== Combos and Tips ==
+[[Killer Queen/Combos and Tips]]
+
+==Trivia==
+
+*Killer Queen resembles a cat because they are said to want to lead quiet lives, which perfectly mirrors Yoshikage Kira's personality.
+*Coin Bombs represent when Kira used Killer Queen to turn a coin into a bomb so Shigekiyo would pick it up with his Harvest and take damage.
+*Sheer Heart Attack is a sub-Stand released from Killer Queen's left hand and thus, in the series, only Yoshikage Kira's left hand is affected by a Stand ability if it was used on SHA. This is seen with Echoes Act 3.
+*It is widely believed that Killer Queen shouts "Shibaba," but it's actually "Shibobo" or "Shibon," which roughly translates to "death."
+*This Stand has an evolution, [[Killer Queen: Bites the Dust|Killer Queen: Bites The Dust]].
+*To obtain [[Soft & Wet: Go Beyond]], Killer Queen and [[Rokakaka Fruit|Rokakaka]] is needed. Also, it is worth noting that this also applies to skins, so it is not recommended as you may lose your KQ skin.
+*Before the rework, Killer Queen used to throw multiple coins when the Coin bomb skill was used. Now he'll only throw one coin.
+
+== Gallery ==
+<tabber>
+|-|Skins=
+<gallery>
+Kqskeleton.png|Killer Queen's first skin, Killer Reveal.
+Kqmegumin.png|Killer Queen's second skin, Megumin.
+Creeper Queen.png|Killer Queen's third skin, Creeper Queen.
+Deimos Queen.png|Killer Queen's fourth skin, Deimos Queen.
+ShadowKQ.png|Killer Queen's fifth skin, Shadow Killer Queen. (Legendary)
+Frostbite KQ.png|Killer Queen's most recent and limited skin, Frostbite.
+</gallery>
+</tabber>
+
+[[Category:Stands]]
+[[Category:Close-Ranged]]
+[[Category:Part 4]]
+[[Category:Pink]]
+
+{{NavigationBox}}
+[[Category:Evil]]

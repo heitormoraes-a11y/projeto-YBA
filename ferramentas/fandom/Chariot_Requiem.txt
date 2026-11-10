@@ -1,0 +1,115 @@
+
+{{tab2|link1=Silver Chariot|tab1=Silver Chariot|link2=Chariot Requiem|tab2=Chariot Requiem}}
+
+
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo'''
+
+
+{{NewestStandTemplate|image1 = <gallery>
+Scr new.png|Current
+Chariot Requiem New Image.png|Old
+</gallery>|||aliases = SCR/CR
+(Silver) Chariot Requiem|namesake = [https://en.wikipedia.org/wiki/The_Chariot_(Tarot_card) The Chariot (tarot card)]
+[https://en.wikipedia.org/wiki/Requiem_(Mozart) Requiem]|stand_type = Long-Range Stand
+Evolved Stand|abilities = Damage Reflection, Self-Buffing, Sleep effect|user = Jean Pierre Polnareff|stand_appearance = Shadow-like humanoid appearance|eye_color = |title1=Chariot Requiem}}{{Quote|"The power to dominate souls...? Is that what it is?"|-Guido Mista}}<br />
+== Overview ==
+Chariot Requiem is a Requiem Stand obtained with the [[Requiem Arrow]], much like [[King Crimson Requiem]], [[Gold Experience Requiem]], [[Killer Queen: Bites the Dust|Killer Queen: Bites The Dust]] and [[Star Platinum: The World]]. The Stand was first formed when Polnareff's [[Silver Chariot]] pricked itself against a [[Requiem Arrow]], turning into Chariot Requiem for a brief moment. Chariot Requiem was permanently formed when Diavolo killed Polnareff in Rome, Italy, before the remaining members of [[Bruno Bucciarati|Bucciarati's]] gang could reach him. Before Polnareff's physical death, he stabbed Silver Chariot with the arrow with the intent of never letting [[Diavolo (Boss)|Diavolo]] obtain the arrow. Though, the community will almost always call it SCR (Silver Chariot Requiem), when really, it should be abbreviated to CR (Chariot Requiem). This could be because players feel more used to it, since that's how it had been for a long time since it was added.
+
+In the early days, Chariot Requiem was seen as a low damage, patience rewarding stance, as Helping Hand used to heal, along with the ability to pose in Your Own Shadow, and generally having much shorter cooldowns. These, combined with the ability to use Pilot and Barrage while in stun to make an unpunishable barrage made it an incredibly defensive powerhouse, but as the stand got nerfed and more powerful stands got added, the stand slowly fell out of favour for [[D4C: Love Train]], [[The World Over Heaven]], and other newer "powercreep" stands.
+
+Conqueror's Will is a '''''very''''' good move to use, and unlike time stop, there is no way to resist the stun. The after-effects are also powerful, as the opponents' hitbox gets bigger in size, which leads to moves being able to hit their target more accurately.
+
+Chariot Requiem's main appeal compared to other Requiem Stands is its viability within the [[Steel Ball Run]] gamemode, due to Conqueror's Will, which allows the user to put everyone within a radius to sleep for a period of time. This gives the user a moment to kill people while they are immobile. [[Pilot|Pilot Mode]] also allows for combat with the Stand user being a safe distance away.
+ Total Skill Points: 57
+
+==Appearance==
+Chariot takes the form of man wearing an old 17th century Musketeer hat and wide boots, alongside shoulder armor and a belt with what appears to be Shark teeth. This is very hard to determine, due to it taking the form of a silhouette rather than an actual being. Although it does hold some facial features, they are shown briefly and are hard to see. In the game, if you look hard enough it is possible to see a mouth on Chariot Requiem. Its design is based on a myth of how Death appeared in dark robes to take Mozart to the afterlife before he could finish his Requiem, tying in to the fact of how Chariot Requiem is an incomplete Requiem Stand.
+
+When Silver Chariot transformed, his silver armor dropped off, which is why his requiem form is named Chariot Requiem, rather than Silver Chariot Requiem.
+
+==Skills==
+'''Shadow Atmosphere (Passive):''' When the stand is in Pilot, all players around the stand get slowed and their screens blurred.
+
+LMB - '''Punch:''' This short move with a short cooldown deals 6.5 damage, can be combo'd 5 times, ultimately dealing 32.5 damage if all hit.
+
+RMB - '''Heavy Punch:''' 
+
+E - '''Stand Barrage: '''Chariot Requiem releases a flurry of punches to the opponent, dealing 1.1 damage per punch of the barrage.
+
+R - '''Stand Barrage''' '''Finisher:''' Sends a finisher punch, knocking back the opponent and dealing around 14.7 damage. 
+
+Y - '''Your Own Shadow:''' Negates all damage actively inflicted on the Stand user back at the attacker. Damage reflected to opponents is 50% less than what it would usually be. Your Own Shadow will be deactivated if your stand is not summoned. This lasts up to 8 seconds (the duration of a full barrage). Though the damage for them is significantly worse, it can also deflect the beatdowns of Gold Experience and Star Platinum: The World. Although with Tusk Act 4's Infinite Rotation ability of going through deflecting moves, it cannot deflect the beatdown of Tusk Act 4. While active, the user can not pose. (37s cooldown)
+
+G - '''A Helping Hand: '''Makes the user run faster (slightly faster than [[Gold Experience Requiem]]'s awakening.) This also gives damage reduction and jump height buffs. If you activate this near a member of your gang, then you will see chains connecting you together. This means that both of you are getting the benefits of Helping Hand. (72s cooldown)
+
+T - '''Arrow Barrage:''' Chariot barrages the opponent with a [[Requiem Arrow]] for 3 seconds, dealing 1.8 damage per hit alongside poision damage. Places Stand Barrage on cooldown on use for 3 seconds, making the user totally vulnerable for barraging back if started with (toggle, user can't cancel, super armor, 20s cooldown)
+
+Z - '''[[Pilot]]:''' Detaches the Stand from the user, allowing it to walk slowly. This ability also allows you to approach dealing damage and annoying the opponent because it is difficult to know where your true self is. If you have purchased an upgrade to pilot mode, it will slow nearby players and blur their screens. 
+
+X - '''Chariot Run: '''During Pilot mode, the Stand will sprint for 4-5 seconds while holding X. The Stand will run in the direction the camera is facing. It has no unlock, the only requirement is having pilot.
+
+H - '''Conqueror's Will:''' Due to the overwhelming presence of Chariot Requiem, all lifeforms (including NPCs) will fall asleep for 8 seconds (This assumes Conqueror's Will is fully upgraded.) Those affected will have 1 limb removed, and have their body parts randomized in size (Must have Soul Altercation for this to take effect.) This ability is a move that GER's Return To Zero cannot revert. It is great for initiating fights or stopping opponents from running away from you. Note that players holding block before it activates while have their blocks broken, and stunned targets will wake up early if they are ragdolled. Can not be used while Your Own Shadow is active and victims have 1 second of iFrames before waking up. It has a cooldown of 2 minutes. 
+
+==Skill Tree ==
+<tabber>
+|-|Passive=
+Your Own Shadow: 1 point (5 seconds)
+* I Am You I: 2 points (5.4 seconds)
+* I Am You II: 2 points (5.9 seconds)
+* I Am You III: 3 points (6.4 seconds)
+* I Am You IV: 4 points (7 seconds)
+* I Am You V: 5 points (7.6 seconds)
+A Helping Hand: 3 points (13 seconds)
+* Soul Bound I: 2 points (16 seconds)
+* Soul Bound II: 2 points (17 seconds)
+* Soul Bound III: 3 points (20 seconds)
+* Soul Bound IV: 4 points (22 seconds)
+* Soul bound V: 5 points (25 seconds)
+Pilot: 1 point
+Shadow Atmosphere: 3 points
+|-|Active=
+Conqueror's Will: 1 point.
+* Will of Requiem I: 2 points
+* Will of Requiem II: 2 points
+* Will of Requiem: III 3 points
+* Will of Requiem IV: 4 points
+* Will of Requiem V: 5 points
+</tabber>
+
+== Combos and Tips ==
+[[Chariot Requiem/Combos and Tips]]
+
+== Trivia ==
+* During Helping Hand, you jump high enough so that the jump cooldown is less than half a second by the time you hit the ground, allowing you jump almost an endless amount of times until Helping Hand is over.
+*During Your Own Shadow if someone hits you with a beatdown move (e.g. Star Platinum: The World's Ora Beatdown) the role of the person doing the beating will be reversed meaning the entire beatdown is redirected to them. Note that this does not apply to [[Tusk (Act 4)|Tusk Act 4]], as it has Infinite Rotation, which cancels out all damage reflecting attacks.
+* Conqueror's Will is most likely a reference to Haoshoku Haki (Conqueror's Haki) from One Piece.
+*Whitesnake had the same pilot and idle animation as Chariot Requiem in a shadow update, which was soon changed.
+*Your Own Shadow cannot reflect damage that has been reflected by Love Train, a Tusk Act 4 user with Infinite Rotation, or another Chariot.
+* Chariot Requiem is able to counter time stop by using a correctly timed Conqueror's Will.
+*Speaking of Time Stop, if you are in pilot mode during timestop, and you exit pilot mode, your stand becomes invisible/you become the stand.
+*You are unable to counter King Crimson Requiem's Counter with Conqueror's Will.
+*Shadow Atmosphere is extremely good against runners because of slowing down the runner and players near it near it. Simply Pilot, go near the running player and combo them
+*It is a common misconception that Chariot Requiem has an infinite pilot range, as it just has an ''extremely'' long range. If you tried to use Pilot from the start of Steel Ball Run to the very end, it would not work.
+*Chariot Requiem's "Conqueror's Will" move sound effect is from One Piece (Ep. 397)
+*Chariot Requiem has a glitch where you can block while using Conqueror's Will.
+
+== Skins ==
+<gallery>
+File:Wispy Chariot Requiem.png|Chariot Requiem's first shiny, Ghost Chariot Requiem. (Common)
+File:Ghostface SCR.jpg|Chariot Requiem's second shiny, Ghostface Chariot (Halloween Limited) 
+File:Shanks.png|Chariot Requiem's third shiny, Shanks
+File:Image 2025-10-25 191832034.png|Bunny Devil Chariot Requiem skin (Legendary) (Halloween Limited)
+File:Screenshot 2025-10-25 193710.png|Control Devil Chariot Requiem (Epic)
+</gallery>
+
+== Gallery ==
+<gallery>
+</gallery>
+{{NavigationBox}}
+[[Category:Stands]]
+[[Category:Evolved Stands]]
+[[Category:Humanoid]]
+[[Category:Long-Ranged]]
+[[Category:Requiem Stands]]
+[[Category:Part 5]]
+[[Category:Pilot]]

@@ -1,0 +1,112 @@
+ '''JoJo's Bizarre Adventure, Part 4 - Diamond Is Unbreakable'''
+
+''<br />''{{Quote|''Josuke Higashikata! I, Okuyasu Nijimura, will make you disappear with my The Hand!''|~Okuyasu Nijimura}}{{NewestStandTemplate
+|title1 = The Hand
+|namesake = [https://en.wikipedia.org/wiki/The_Band The Band]
+|stand_type = Close-ranged
+|abilities = Erasing objects from existence, erasing space
+|user = Okuyasu Nijimura
+|image1 = <gallery>
+TheHandRemodel.png|Current
+TheHandNewModel.png|Old
+The_Hand.png|Older
+</gallery>
+|stand_appearance = Gray and Blue
+|eye_color = Yellow
+|relatives = Keicho Nijimura/Bad Company (Brother)<br>Father Nijimura (Father)
+|aliases=That Hand(YBA Name)
+|stand_cry=None
+|affiliation=*Joestars
+*Josuke Higashikata (Best Friend)
+*Koichi Hirose (Best Friend)
+*Jotaro Kujo (Ally)
+|stats = {{Stats|power=A|speed=D|range=E|persistence=A|precision=B|potential=E|color=blue}}
+|destpower = A
+|speed = D
+|range = E
+|persistence = A
+|precision = B
+|potential = E
+
+}}<br />
+==Overview==
+The Hand is a blue [[Stands|Stand]] with yellow eyes and black stripes. It has gold rings on it's arms and the yen sign on it's torso. The Hand's ability is to erase anything from existence, even including the air. This allows Okuyasu, The Hand's user, to pull things to him or accelerate forward, both of which are seen in YBA. You have a 5% chance of getting it from an arrow.
+
+The Hand can be a very annoying and deadly stand if you don't know how to counter it. Its erasures deal a ton of damage and remove a limb, hindering your mobility and defense, in addition to having a short cooldown.
+
+However, The Hand does have some major flaws. The erasures are really its only source for damage, unless you combine it with a spec. These moves can both be parried and have obvious sound cues for when they come out. The erasure pull can also lead to you getting parried, since the two damaging erasures are the most likely moves to be thrown out after a successful pull. Along with that, The Hand is a slow stand that gets most of it's damage from heavy, slow striking moves. Nimble, agile, and aggressive stands like [[The World (Alternate Universe)|The World: Alternate Universe]] or [[White Album]] counter The Hand's slow, defensive play style. (This is dependent on the user, but overall aggressive stands work well against slow stands which moves are too slow to catch up.) Usually, fighting styles fix the problem and you can still manipulate the stand to fix your play style.
+
+<br />
+ Total Skill Points: 42 Points
+
+==Skills ==
+LMB '''- Punch''': The Hand throws out a basic punch dealing 5.5 damage per hit, comboing for up to 27.5 damage per 5 hits.
+
+E - '''Stand Barrage:''' The Hand unleashes a barrage of slow punches, dealing 0.9 damage per punch. This move has little to no end lag.
+
+R -  '''Stand Barrage Finisher:''' The Hand throws a heavy punch, dealing 11 damage and ragdolling the opponent. This move has a somewhat high end lag.
+
+T - '''Erasure:''' The Hand swipes its opponent, dealing a maximum of 61.2 damage (76.5 with William Zeppeli hamon). This move also erases one of the opponent's limbs. If the opponent's leg is erased, they will lose the ability to run. If the opponent's arm is removed, more damage will be inflicted on the target. If the opponent loses both arms, they cannot block. This move has a 10 second cooldown.
+
+Y - '''Secondary Erasure:''' The Hand does a second swipe, dealing a maximum of 48.6 damage (60.8 with Willian Zeppeli hamon). This swipe comes out slower than the first erasure. This also erases one of the opponent's limbs, and has a longer cooldown than the first erasure. This move has a 20 second cooldown, and ragdolls opponents.
+
+X - '''Erasure Pull:''' Erases the space between the user and the opponent, pulling them into The Hand's attack range. To pull a target, Stand-user must be turned to place where the target is (just like Inhale move on [[Star Platinum]]). This move has an end lag of about half a second. Although this move does not deal damage, it stuns the opponent the same way if you were to use LMB on the opponent.
+
+Z - '''Erasure Acceleration:''' The Hand erases the space in front of the user to leap in theory forwards, but for now that move is very unpredictable. This move does not deal damage. 
+
+==Skill Tree==
+<tabber>
+|-|Active=
+Erasure: upgrades the damage on Erasure.
+*Erasure I: 2 points
+*Erasure II: 2 points
+*Erasure III: 3 points
+*Erasure IV: 4 points
+*Erasure V: 4 points
+Accelerate: buffs the distance covered by Erasure Acceleration.
+*Accelerate I: 2 points
+*Accelerate II: 3 points
+*Accelerate III: 4 points
+Pull: increases the range of Erase Pull.
+*Pull I: 2 points
+*Pull II: 3 points
+*Pull III: 4 points
+
+|-|Skills=
+'''Erasure:''' 1 point, The Hand swipes its hand, erasing one of the opponent's limbs and dealing great damage.
+
+'''Second Erasure:''' 3 points, The Hand does an underhand swipe, erasing a limb, ragdolling, and dealing high damage.
+
+'''Erase Pull:''' 4 points, The Hand swipes its hand  in order to erase the space between the user and the opponent, pulling them closer.
+
+'''Erasure Acceleration:''' 4 points, The Hand swipes its hand in order to erase the space in front of the user, propelling them forward.
+</tabber>
+
+== Combos and Tips ==
+[[The Hand/Combos and Tips]]
+==Trivia==
+
+* After the recent remodel to both The Hand and it's R63 Skin, '''The erasure effect stopped working''', as the parts needed to activate the effect are no longer on the model. This originally was only the case for Chromo Hando, but every model created after it also doesn't have the parts needed. However because '''The Other Hand''' uses the old model, the effect still works, <s>making it the only skin where the erasure effect works</s>.
+* '''The Waifu Hand''' skin now also have erasure effect, not sure about other skin but the fact above already old and inaccurate (can be seen with strikethought)
+
+== Gallery ==
+<gallery>
+File:Roblox Bizzare Day - The Hand.png|Skill Tree diagram
+File:New The Hand Skin YBA.webp|The Hand's First Skin
+File:ERASURE.gif|The Hand's Erasure Effect
+File:Female The Hand.png|The Hand's Second Skin, Female Hando (OLD MODEL)
+File:The Void Skin.jpg|The Hand's Third Skin, Chromo Hando
+File:TheHandNewModel-removebg-preview.png|A Transparent Image of The Hand
+File:Undead hand.png|The Hand's First Limited Skin, Undead Hand.
+File:Female Hando - Remodel 7-9-2023.png|Female Hando's Remodel
+File:Thanos The hand.png|Thanos (legendary)
+File:The Gifter.png|Hando's second limited, The Gifter
+</gallery>
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:White]]
+[[Category:Blue]]
+[[Category:Close-Ranged]]
+[[Category:Part 4]]
+[[Category:Gold]]
+[[Category:Features]]

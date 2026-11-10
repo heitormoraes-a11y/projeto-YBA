@@ -1,0 +1,344 @@
+
+
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo'''
+{{Stand
+|image1 = <gallery> 
+White Album Rework.gif|Current
+New_WA.png|Old
+White_Album_YBA.png|Older
+</gallery>
+|aliases = *White Ice (localized name)
+*Ice Album (YBA name)
+*WA
+|namesake = *[http://en.wikipedia.org/wiki/White_Album White Album]([http://en.wikipedia.org/wiki/The_Beatles The Beatles] album)
+*[https://en.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps While My Guitar Gently Weeps] (Ability)
+|stand_type = Close-range suit
+|abilities = Damage Reduction, Cryokinesis
+|stand_cry = 
+|user = [[Ghiaccio (Boss)|Ghiaccio]]
+|affiliation = La Squadra Esecuzioni
+|appearance = White-cyan armor
+|height = 5 studs
+|eye_color = None
+|skill_tree = 
+|stats = {{Stats|power=A|speed=A|range=B|persistence=B|precision=A|potential=?|color=white}}
+|destpower = A
+|speed = A
+|range = B
+|persistence = B
+|precision = A
+|potential = ?
+}}
+{{Quote|''There is nothing that can move in the cryogenic world. I can freeze anything in the universe!''|~Ghiaccio}}
+
+
+== Overview ==
+White Album is the Stand of [[Ghiaccio (Boss)|Ghiaccio]], a side antagonist from Part 5 of JoJo's Bizarre Adventure, who is a member of La Squadra Esecuzioni. White Album appears as a suit of armor the user wears, it does this by freezing the moisture around the user, forming an armor of ice. White Album has a very potent power called Cryokinesis that is able to freeze things in a matter of seconds and drop temperatures to -100°C with ease.
+
+White Album has some good close-ranged comboing moves that can be used on top of each other for high-damaging combos (keep in mind Ice Swipe can't be confirmed by Ice Punch or Ice Sweeps). It also has two very good utility moves, along with a large hitbox move in the form of flash freeze, which is practically undodgable. 
+
+White Album has a passive, ''Ice Armor'' which reduces damage taken by up to 20%, this allows White Album to be used offensively at the front line, being able to take more damage and act as a tank. The passive, however, is ignored by Beatdowns and [[The World Over Heaven]].
+
+''Gently Weeps'' is a valuable asset. It passively slows down everyone nearby the user, allowing for an easier time catching a target. Furthermore, an overlooked ability of Gently Weeps is that it will automatically redirect ranged attacks to whoever casted it. This makes [[Pesci (Boss)|Pesci]] a much easier boss while also being able to trivialize zoning dependent stands such as [[The World (Alternate Universe)]] or [[Six Pistols]] as it requires the Stand to engage in melee combat, which is what it is weaker at.
+
+''Ice Skating'' gives the Stand some mobility, it allows the user to outrun other players with maxed out agility and makes it the third fastest Stand in the game, with only [[Scary Monsters]] and [[Made in Heaven]] being able to out speed it. Even then, White Album rivals Scary Monster's speed and can slow down others with Gently Weeps. It can also be tapped to have a very low cooldown and act like a faster, higher-ranged dash.
+
+Typically, [[Boxing]] is used with White Album mainly for the extra defense being able to make White Album into even more of a tank. It also adds close range stun in the form of Knuckle Sandwich and Liver Shot, allowing for combo starting or extension. Liver shot especially is important as it confirms ice swipe.
+
+White album is an excellent choice for [[Steel Ball Run]], whether solo or in a group. The speed of ice skating, the slow/reflection of gently weeps, and the vertical maneuverability afforded by flash freeze allow the user to escape from and catch escaping enemies.
+
+The bleed on Cryokinesis is very useful for negating regeneration overall, whether the enemy be a vampire or not. Since White Album has a low destructive power, keeping a constant source of damage on the enemy helps when it's moves are on cooldown.  
+== Skills ==
+'''Ice Armor (Passive):''' Reduces damage taken. Stacks Multiplicatively with other forms of damage reduction/increase.
+{| class="mw-collapsible mw-collapsed fandom-table"
+|+Stats
+!Skill level
+!Cost 
+!Total Cost 
+!Damage reduction 
+!Defense per Skill Point 
+|-
+|Ice armor
+|1
+|1
+|5%
+|5.00%
+|-
+|Armor 1
+|2
+|3
+|10%
+|2.50%
+|-
+|Armor 2
+|2
+|5
+|15%
+|2.14%
+|-
+|Armor 3
+|2
+|7
+|20%
+|2.00%
+|}
+
+
+'''Cryokinesis (Passive):''' Hitting an opponent with an attack (excluding gently weeps reflection) will inflict them with a frozen limb. At 3 frozen limbs the next ability or basic attack to hit an opponent will cause the freeze to shatter inflicting bleed. Bleed lasts for 6 to 12 seconds dealing 33 ticks of damage which are stronger the more it is upgraded.
+{| class="mw-collapsible mw-collapsed fandom-table"
+|+Stats
+!Skill level 
+!Cost 
+!Total Cost 
+!Freeeze Duration
+!Duration per Skill Point 
+!Tick Damage
+!Total Damage 
+!Damage per Skill Point 
+|-
+|Cryokinesis 
+|1
+|1
+|6s
+|6s
+|0.3
+|9.9
+|9.9
+|-
+|Precision 1
+|2
+|3
+|8s
+|2s
+|0.5
+|16.5
+|4.125
+|-
+|Precision 2
+|2
+|5
+|10s
+|1.43s
+|0.6
+|19.8
+|2.83
+|-
+|Precision 3
+|2
+|7
+|12s
+|1.2s
+|0.8
+|26.4
+|2.64
+|}
+E -''' Stand Barrage: '''White Album's user will throw a flurry of slow punches at the enemy, this deals 1.1 damage per hit and its range falls short compared to other barrages.
+{| class="fandom-table"
+!Blockable
+!Parryable 
+!Cancelable 
+|-
+|Yes
+|No
+|Knockdown
+|}
+R -''' Stand Barrage Finisher: '''White Album's user throws a standard heavy punch that deals 13.5 damage, this is parriable, and also a blockbreak.
+{| class="fandom-table"
+!Blockable
+!Parryable 
+!Cancelable 
+|-
+|No
+|Yes
+|Knockdown
+|}
+X - '''Flash Freeze:''' The user slams the ground in front of them, unleashing a line of ice that will deal 30 damage, Stand crash and ragdoll the victim, sending them flying upwards. This move blockbreaks, and it can apply the freezing proc, slowing the enemy a considerable amount. Each upgrade increases the size of the ice. This attack is very hard to miss. This move works inside time stop, so it can be used as a reliable counter to TS stands.
+
+Cooldown: 25s
+{| class="fandom-table"
+!Blockable
+!Parryable 
+!Cancelable 
+|-
+|No
+|No
+|Yes
+|}
+G -''' Gently Weeps: '''White Album freezes the air around the user granting the user a 10 health shield and creating several ice shards around them. Any projectile that hits the user will be reflected back at full damage after a short moment. Can be cancelled if the temporary shield is broken. 
+{| class="fandom-table"
+!Blockable
+!Parryable 
+!Cancelable 
+|-
+| -
+| -
+|No
+|}
+{| class="mw-collapsible mw-collapsed fandom-table"
+|+Stats
+!Skill Level 
+!Cost 
+!Total cost 
+!Duration
+!Cooldown 
+!Uptime 
+!Uptime % per Skill Point 
+|-
+|Gently Weeps 
+|1
+|1
+|10
+|40
+|25.00%
+|25.00%
+|-
+|Stamina 1
+|2
+|3
+|20
+|50
+|40.00%
+|13.33%
+|-
+|Stamina 2
+|2
+|5
+|30
+|60
+|50.00%
+|10.00%
+|-
+|Stamina 3
+|2
+|7
+|40
+|70
+|57.14%
+|08.16%
+|}
+Z - '''Ice Skating:''' White Album freezes the ground beneath the user allowing them to skate along. Tapping the button causes a fast dash. Holding the button down will transition into a speedy skate. Can be held for a maximum of 12 seconds. The longer the button is held down for the longer the cooldown of the ability will be. 
+{| class="fandom-table"
+!Blockable
+!Parryable 
+!Cancelable 
+|-
+| -
+| -
+|Yes
+|}
+{| class="mw-collapsible mw-collapsed fandom-table"
+|+Stats
+!Skill Level 
+!Cost 
+!Total Cost 
+!Min Cooldown 
+!Max Cooldown 
+!CDR 
+!CDR per Skill Point 
+|-
+|Ice Skating 
+|1
+|1
+|10
+|40
+| -
+| -
+|-
+|Speed 1
+|2
+|3
+|7
+|27
+|30%
+|15.0%
+|-
+|Speed 2
+|2
+|5
+|5
+|20
+|50%
+|12.5%
+|-
+|Speed 3
+|2
+|7
+|4
+|16
+|60%
+|10.0%
+|}
+T - '''Ice Punch:''' Freezes the user's hand, before the user does a strong downward punch, freezing and stunning the enemy. This move is blockable, does 25 damage and stuns. This can proc the freezing effect.
+
+Cooldown: 20s (15s with Mastered Ice Manipulation)
+{| class="fandom-table"
+!Blockable
+!Parryable 
+!Cancelable 
+|-
+|Yes
+|No
+|Yes
+|}
+
+Y - '''Ice Sweeps:''' The user performs two quick, cold sweeping kicks. This move is blockable, does 15 damage for both kicks and stuns. This can proc the freezing effect.
+
+Cooldown: 20s (15s with Mastered Ice Manipulation)
+{| class="fandom-table"
+!Blockable
+!Parryable 
+!Cancelable 
+|-
+|Yes
+|No
+|Yes
+|}
+C - '''Ice Swipe:'''  The user grabs the enemy, dealing 5 damage, then slamming the victim down and petrifying them in ice, dealing 25 damage and freezing them with true stun for a bit. This move block breaks, and the ice breaks upon damaging the victim, similar to Yo Angelo.
+
+Cooldown: 34s (30s with Mastered Ice Manipulation)
+{| class="fandom-table"
+!Blockable
+!Parryable 
+!Cancelable 
+|-
+|No
+|Yes
+|Yes
+|}
+
+==Skill Tree==
+ Total Skill Points: 45 Points
+[[File:UpdatedWhiteAlbumSkillTree.jpg|frameless|539x539px]]
+
+== Combos and Tips ==
+[[White Album/Combos and Tips]]
+
+=== Boxing x White Album Damage reduction analysis ===
+[[File:White Album X Boxing Damage reduction analysis.png|frameless|725x725px]]
+
+==Trivia==
+
+*White Album, [[Anubis]], and [[Beach Boy]]  are currently the only stands to belong to a tertiary antagonist.
+*If you equip White Album while being slowed down, you will completely ignore the effect.
+*This Stand used to be able to float in the air using Ice Skate.
+*White Album's old model was based on the manga.
+*Frozone is based on The Incredibles character [https://the-incredibles.fandom.com/wiki/Frozone Frozone]. Similar to White Album, he also possesses abilities related to ice as well as a super suit. Altough White Album's armor is ice manipulated by him to look like a suit of armour while Frostzone's is a fully man-made suit.
+*Before you could get Frozone or Vanilla Ice Cream, White Album alongside [[Cream]] was known for destroying lucky arrow rolls. With no shiny variant available for the stands, getting it from the lucky arrow would make the arrow's 90% calculation invalid and would automatically give you the generic version of the stand.  
+*White Album can fly on horses in Steel Ball Run when it uses Ice Skate.  
+*The voiceline for White Album's Stand Barrage Finisher is a direct translation in Japanese to "dumbass."
+*During the 2026 April Fools Update, '''White Album'''<nowiki/>'s '''Gently Weeps''' and '''Ice Skates''' were buffed. '''Ice Skates''' had its cooldown cut in half, while '''Gently Weeps''' reflect damage was exponentially increased, the quote in the v1337 Update logs funnily mentioned "yo do NOT shoot white album players when they're using gently weeps...".
+*White Album does NOT protect Vampires from the <nowiki/>sun.
+
+== Gallery ==
+<gallery>
+File:Frozone.png|White Album's First skin, Frozone. (Common)
+File:Glacier.png|White Album's First Limited skin, Glacier Trackstar (Uncommon)
+File:Withe albumi.png|Atualized  Frozone skin 
+File:Warhammertitan.png|Warhammer Titan (Legendary)
+</gallery>
+[[Category:Stands]]
+[[Category:Close-Ranged]]
+[[Category:Humanoid]]
+[[Category:Part 5]]
+[[Category:White]]
+[[Category:Blue]]

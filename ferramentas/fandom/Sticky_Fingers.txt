@@ -1,0 +1,89 @@
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo'''
+{{Stand
+|image1 = <gallery>
+New SF Curr vers.png|Current
+Sticky Fingers Old Model.png|Old
+</gallery>
+|aliases = *Zipper Man (localized)
+*Zipper Fingers (YBA name)
+*SF
+|namesake = 
+|stand_type = 
+|abilities = 
+|stand_cry = ARIARIARI/Arrivederci
+|user = [[Bruno Bucciarati]]
+|affiliation = *[[Giorno Giovanna]]
+*[[Guido Mista]]
+*[[Pannacotta Fugo (NPC)|Pannacotta Fugo]]
+*[[Narancia Ghirga]]
+*[[Leone Abbacchio]]
+*[[Trish Una]]
+|appearance = White-blue humanoid
+|height = 5 studs
+|eye_color = None
+|skill_tree = 
+|stats = {{Stats|power=C|speed=C|range=D|persistence=C|precision=B|potential=B|color=blue}}
+|destpower = C
+|speed = C
+|range = D
+|persistence = C
+|precision = B
+|potential = B
+}}
+{{Quote|"This is the taste of a liar, Giorno Giovanna!"|-Bruno Bucciarati}}
+==Overview==
+
+Sticky Fingers is the Stand of [[Bruno Bucciarati]], the leader of the sub-group of Stand users that assist [[Giorno Giovanna]] in taking down the Boss in Part 5 of JoJo's Bizarre Adventure. Its appearance consists of blue, white, gray, and yellow colours, with zippers on its arms and torso, as well as two on its face. Sticky Fingers has a 5% chance of obtainanment.  
+
+Sticky Fingers is a stand that allows its user to deal good damage at long range and higher damage at close range. Your whole kit essentially revolved around '''Living Zippers'''/'''Zipper Shred''', a quick close-range barrage that confirms most of your kit, it's coming back in the update of 1.8 and might be similar to what we had. Unlike many stuns such as [[Boxing|'''Liver Shot''']] or '''[[Hamon|Zoom Punch]]''', you can barrage cancel into this move. After you land '''Living Zippers''', '''Zipper Extension''' can bring your opponent back in for a combo. From there, this is where '''Zipper Shred's''' extra stun can really shine. This confirms anything, from the powerful '''Zipper Explosion''', to Beatdowns. '''Zipper Pole''' also grants SF the ability to start combos from mid-long range. '''Zipper Slam''' also gives this stand a true block break, allowing it to be oppressive from all ranges. Finally, the stand also has a beatdown which is much easier to hit than most beatdowns considering how the stand is based around juggling between long and close range, and how the hitbox for the beatdown itself is dramatically increased compared to most stands.   
+ Total Skill Points: 69 Points
+<br />
+== Skills==
+'''E - Stand Barrage: '''Sticky Fingers throws a flurry of fast punches dealing around 0.9 damage per punch. 
+
+'''R - Stand Barrage Finisher: '''Sticky Fingers throws a heavy punch that deals 11 damage. Breaks block, but can be parried. 
+
+'''Y - Zipper Extension:''' Sticky Fingers extends its arm, grabbing a target and bringing them to the user. Without upgrades, Zipper extension has low range; however, when the range is fully upgraded, the range becomes very, very high. The attack is blockable and can not be parried. Cooldown: 28 seconds (Base) / 20 seconds (Upgraded) 
+
+'''T - Living Zippers:''' Sticky Fingers moves in front of the user and hits whatever is in front of it with a flurry of punches and kicks. Victims of Living Zippers will have Zippers all over their body (Refer to the next move for more information). This move is entirely blockable. Deals ~20 damage. Cooldown: 30 seconds (Base) / 20 seconds (Upgraded) 
+
+'''T - Zipper Shred:''' After hitting someone with '''Living Zippers''', you can press T a second time to close the zippers and deal extra damage. This move bypasses block entirely. deals 25 damage, and does not affect the cooldown of '''Living Zippers''' in any way. 
+
+'''Z - Zipper Slam:''' Sticky Fingers grabs a piece of the floor and slams it into the ground a considerable distance forward. Deals 20 damage to anyone within a certain distance of the attack. Breaks block, and cannot be parried. This move can only be cancelled by a ragdoll. Hits multiple targets. Cooldown: 40 seconds (Base) / 30 seconds (Upgraded) 
+
+'''X - Zipper Explosion:''' Sticky Fingers barrages the floor in front of the user, immediately breaking any target's block and dealing 0.8 damage per hit. Sticky fingers finishes the move with a 15 damage punch and a 25 damage explosion, dealing 45-50 damage in total. The explosion's debris also does 25 damage to anyone not caught in the move, and appears to have some degree of homing. This move is a block break and cannot be parried. Cooldown: 40 seconds (Base) / 30 seconds (Upgraded) 
+
+'''G - Arrivederci Beatdown:''' Sticky Fingers throws a punch which, if landed, initiates a cutscene during which Sticky Fingers performs a beatdown, dealing ~30 damage, increased by 0-200% depending on the target's missing health. This move bypasses block, but can be parried. The hitbox for the move is also the largest beatdown hitbox in the game by a landslide. Cooldown: 90 seconds (Base) / 80 (Upgraded) 
+
+[[File:Sticky Fingers (Skill Tree).png|thumb|265x265px|Outdated Skill Tree diagram]]
+
+== Combos and Tips ==
+[[Sticky Fingers/Combos and Tips]]
+
+==Trivia==
+
+*On July 16, 2023, Sticky Fingers' rework was announced on UzuKee's Youtube Channel
+*[[Bruno Bucciarati]], the boss who uses this stand, only uses Extend Arm, Barrage, and Barrage Finisher. When the rework came out, rather than implementing the move set into the boss, they just removed Extend Arm.
+*Its ability and name is inspired by the cover of the Rolling Stones album Sticky Fingers, which featured a functional zipper on the record version.
+*This Stand was once renamed "Zipper Fingers" in-game in order to avoid [[YBA Renames|copyright issues]].
+*Sticky Fingers is the easiest stand to get in the game, with an 11% chance of obtainment with a [[Mysterious Arrow]].
+*The voice line for summoning Sticky Fingers was formerly "Your words are full of lies."
+*All Sticky Fingers skins have little value, they are just recolors.
+*There is a glitch where if you are hit while using Zipper Explosion, Sticky Fingers will be stuck in place and you will not be able to use any stand moves until you resummon it.
+*Zipper Pole currently has a chance to one shot in ranked gamemodes like 1v1s or 2v2s.
+
+== Gallery ==
+<gallery widths="185">
+File:Toy sticky fingers skin.png|Sticky Fingers' first skin, Toy Fingers (Common).
+File:Sticky Fingers Pink Skin.webp|Sticky Fingers' second skin, Pinky Fingers (Common)
+File:Image 2024-12-20 152557468.png|Sticky Finger's third skin, Yuji Itadori (Legendary).
+File:Nutcracker.png|Sticky Fingers' fourth skin, The Nutcracker (epic) (Christmas limited)
+</gallery>
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:White]]
+[[Category:Blue]]
+[[Category:Close-Ranged]]
+[[Category:Part 5]]
+
+{{NavigationBox}}

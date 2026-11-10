@@ -1,0 +1,197 @@
+
+{{Tab2|link1=Gold Experience|tab1=Gold Experience|link2=Gold Experience Requiem|tab2=Gold Experience Requiem}}
+
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo(Golden Wind)'''
+
+
+{{NewestStandTemplate|image1 =<gallery>
+RobloxScreenShot20210821_103949847 (2).png|thumb|180px|Current
+CurrentGERRequiem.png.png|Old
+Gold Experience - Requiem.png|Older
+GER.png|Oldest
+</gallery>|aliases = GER
+Golden Wind Requiem (Localized Name)
+
+Golden Experience Requiem (YBA Name)|namesake = Gold Experience|stand_type = Close-Ranged Stand|abilities = Life Distribution, Return to Zero, Infinite Death|stand_cry =Muda |user = [https://jojo.fandom.com/wiki/Giorno_Giovanna Giorno Giovanna]|affiliation = [[Gold Experience]] [[The World]]|stand_appearance = Humanoid stand with a gold-like color|gender =|height =|eye_color = Pink|title1=Gold Experience Requiem||image2=|caption2=|relatives=[https://jojo.fandom.com/wiki/Dio_Brando Dio Brando]}}{{Quote|"This is... Requiem. What you're seeing is indeed the truth. You are seeing the movements created by your abilities, but you will never arrive at the truth that's going to happen. None who stand before me shall ever get there, regardless of their abilities. This is the power of Gold Experience Requiem!"|—Gold Experience Requiem to Diavolo}}<br />''
+==Overview==
+'''Gold Experience Requiem''' (commonly abbreviated as GER), is the Requiem form of [[Gold Experience]]. When [[Giorno Giovanna]] used a [[Requiem Arrow]] on [[Gold Experience]]. Being worthy, it achieved Requiem and became Gold Experience Requiem. It can be obtained in the same way in-game.
+
+Gold Experience Requiem, in-game, has a couple of niches. It is one of five stands that can heal other players (the other four Stands being [[Gold Experience]], [[The World Over Heaven]], [[Mr. President]] and [[Crazy Diamond]]), meaning it has useful utility in [[Steel Ball Run]] if in a team.
+
+The main ability of GER however, is its ''Return to Zero'' ability. This negates various things such as Time Stop or Time Erasure, being able to avoid any potential combos. It also works to de-summon the stands of nearby players, which can be extremely dangerous if used properly. Even if Return to Zero is under cooldown, GER can passively move within paused time for around three seconds, allowing it to escape potential damage if its skills are used properly.
+
+Gold Experience Requiem is considered by many to be one of the best Stands in-game, especially when paired with [[Boxing]], despite nerfs to both it and GER. This is due to it having objectively some of the strongest skills in the game, such as the aforementioned ''Return to Zero'' and ''Awakening'', alongside access to a strong healing move in the form of ''Self Distribution''.
+
+''Return to Zero'', if used during a skill such as ''Time Erase'' or [[Time Stop]], allows for an immense amount of damage to be done to the opponent, due to their inability to fight back while RTZ's cutscene is active. This can lead to being able to deal most of an opponent's HP, possibly even killing them if ''Awakening'' is active.
+
+While not as powerful as it was in the past, Gold Experience Requiem remains as one of the most powerful [[Stands]] in the game in the hands of an experienced player, with a wide array of tools at its disposal, most of which being incredibly strong when used correctly.
+
+ Total Skill Points: 63 Points
+
+==Skills==
+''Note that all attacks during Awakening deal True Damage, meaning they bypass defensive bonuses such as [[Boxing]].''
+
+LMB - '''Punch:''' Gold Experience Requiem throws a punch, dealing 8.9 damage per hit. This can be chained up to 5 times, dealing 40 / 50 damage if all punches hit.
+
+E '''- Stand Barrage:''' Gold Experience Requiem sends out a flurry of fast punches that deals 1.5 points of damage per hit. 
+
+R '''- Stand Barrage Finisher:''' Gold Experience Requiem throws a strong punch that ragdolls an opponent hit by it, deals 19(?) damage. 
+
+{|class="article-table"
+!<center>Skill Name</center>
+!<center>Description</center>
+!<center>Damage</center>
+!<center>Properties</center>
+|-
+|Life Creation (Z)
+|GER digs into the ground, and summons a bird after about a second, which will automatically head towards the nearest target. This move has a 15 second cooldown after being used.
+|30DMG
+|'''Block bypass / Semi-tracking / Offensive'''
+|-
+|Life Beam of Creation (X)
+|GER shoots a laser, which will deal damage if hitting an opponent directly. If it hits the ground, 4 scorpions will spawn from the ground, and will go towards the target
+|20 DMG direct, 25 Scorpions
+|'''Guardbreak (Scorpions), Blockable (Laser), Offensive/semi-tracking'''
+|-
+|Life Shot (T)
+|GER punches the enemy, punching their soul out of the body, leaving the enemy unable to see their actual body.
+|19D
+|'''Blockable/ Semi-offensive'''
+|-
+|Self Distribution (Y)
+|GER punches its user, healing them for a varying amount depending on how many upgrades the move has. This move has a 40 second cooldown.
+|30 healing (37.5 with [[Hamon]] charged.)
+|'''Healing move / Semi-defensive'''
+|-
+|Life Distribution (U)
+|GER throws a punch, which will heal the target for a varying amount depending on how many upgrades the move has. This move has an 18 second cooldown.
+|27.5 healing (34.4 with [[Hamon]] charged.)
+|'''Healing move / Semi-defensive'''
+|-
+|Nullification Zero (G)
+|GER and its user strikes a pose, if hit during this animation, they will be rendered immobile for ~2 seconds, with multiple clones appearing behind them. This move has a high amount of endlag, and has a 30 second cooldown. (THIS MOVE WILL NOT REGISTER ON ANY HITS THAT IS VERY FAR).
+|N/A
+|'''Counter'''
+|-
+|Return to Zero (H)
+|On use, GER will render all attacks useless for 3-5 seconds upon casting, alongside highly brightening the area for ~7 seconds. If the opponent is in another dimension, or if [[Time Stop]], Time Erase or <s>Conqueror's Will</s> is active, everyone except the user will be put into a long cutscene, being unable to fight back for the duration. This move has a 38 second cooldown.
+|N/A
+|N/A
+|-
+|Awakening (J)
+|On use, GER and its user will start glowing blue, alongside hovering instead of walking. All attacks during this will deal True Damage, meaning they bypass defensive bonuses, and the user will gain +30 physical defense, alongside not being able to be stand crashed. If an main game player is killed during the Awakening, they will be put into a death loop. This move has a 182 second cooldown.
+|N/A
+|'''Stat boost'''
+|}
+
+===Return To Zero (RTZ)===
+Return to Zero (R.T.Z) is Gold Experience Requiem's signature move, costing 3 points; this move counters a majority of time/dimension related moves.
+
+When watching this cutscene, players are stunned for a long period of time, and their [[Stands]] will be de-summoned, even when not negating a time or dimension-related move. Return to Zero negates the following moves:
+
+* All forms of [[Time Stop]].
+* [[King Crimson]] and [[King Crimson Requiem]]'s ''Erase Time''
+* [[King Crimson Requiem]]'s ''Reality Marble''
+* [[Killer Queen: Bites the Dust]]'s ''Bites the Dust'' (if used quick enough.)
+* [[Dirty Deeds Done Dirt Cheap]]'s ''Dimension Hop''
+* [[Cream]]'s ''Dimension Dip''
+* <s>[[Chariot Requiem]]'s ''Conqueror's Will''</s>
+
+Note: For ''Erase Time'', ''Dimension Hop'' and ''Dimension Dip'', only players who are in the dimension or in erased time will witness the cutscene. All other players nearby will simply have their Stands unsummoned. For ''Conqueror's Will'', due to GER's invincibility frames, the user will not be stunned, but the move is not cancelled. 
+
+===Infinite Death Loop===
+[[File:Infinite Death-YBA|thumb|300x300px]]The Infinite Death Loop is a cutscene activated when someone dies to a Gold Experience Requiem during its awakening state. This only happens in the main game; 1v1s, 2v2s, and SBR do not trigger this cutscene.
+
+The target will be sent to a cutscene of a plane crash, and then a car crash. They will then see a black screen with dialogue saying "Am I.... Finally Dead Yet..?" The screen will then say "No... Not yet... Not until time itself is gone..." The player will then say "Who are you?!?! What is this?!?!?" The screen will then switch and say "This.... Is.... Requiem...." You will then see numbers rapidly increasing all the way to 500, which will cause it to read '''∞.''' This concludes the Infinite Death Loop. You will respawn as normal after this.<br />
+==Skill Tree==
+<tabber>
+|-|Passive=
+Enlightened: Increases duration of Awakening Mode<nowiki></nowiki>
+*Enlightened I: 2 points
+*Enlightened II: 2 points
+*Enlightened III: 3 points
+*Enlightened IV: 4 points
+*Enlightened V: 4 points
+*NOTE: Each node roughly adds 5 seconds to the awakening. With the final node giving around 60 seconds of awakening and no upgrades giving roughly 35 seconds.
+
+|-|Active=
+Distribution: Buffs Self-Distribution’s heal
+*Distribution I: 1 point
+*Distribution II: 2 points
+*Distribution III: 2 points
+*Distribution IV: 2 points
+*Distribution V: 3 points
+
+Tree Manipulation: Increases the size of the tree
+*Tree Manipulation I: 2 points
+*Tree Manipulation II: 2 points
+*Tree Manipulation III: 2 points
+
+Life Manipulation: Buffs the Life Form
+*Life Manipulation I: 2 points
+*Life Manipulation II: 2 points
+*Life Manipulation III: 3 points
+
+|-|Skills=
+'''Self Distribution:'''  3 point
+
+'''Distribute Life:''' 3 points
+
+'''Summon Life Form:''' 3 points
+
+'''Summon Tree:''' 2 point
+
+'''Awakening:''' 4 points
+
+'''Return To Zero:''' 4 points
+
+'''Life Beam Of Creation:''' 3 point
+
+'''Nullification: Zero:''' 3 point
+</tabber>
+
+#
+
+== Combos and Tips ==
+[[Gold Experience Requiem/Combos and Tips]]
+
+==Trivia==
+*Prior to the Stone Free update, Golden Experience Requiem used to be named "Golden Spirit Requiem" in order to avoid [[YBA Renames|copyright issues]].
+*''Life Beam of Creation'' used to have no endlag, so players took advantage of this to perform the infamous "Scorpion Barrage", being GER's only viable way to deal damage back then. Life Beam of Creation has since been nerfed to have endlag, so this combo is no longer possible.
+*There is a chance to escape the infinite death cut-scene by moving forward or performing a Stand Jump the moment you respawn, or resetting the moment you respawn.
+*GER is considered to be one of the strongest canon stands within JoJo (as contenders for strongest stand in the series are from non-canon sources such as novels or games.)
+*''Return to Zero'', the ability Gold Experience gained when becoming Requiem, prevents anyone that stands in its way from "reaching the truth, no matter their ability", hence why in-game, it causes the [[Stands]] of all nearby players to be disabled.
+*While the YBA version of RTZ is more on activation, which is easier, the real RTZ is much more powerful. RTZ negates what happens when Giorno is attacked, even abilities such as ''Time Erase'', [[Time Stop]]. What makes it more terrifying is that GER has a mind of its own and it's passive, hence being the most powerful stand in canon of JoJo.
+*Previously, RTZ was bugged where GER could not attack during its duration; this has been fixed, and GER can attack during the I-frames.
+*The song that used to play during GER's Awakening, [https://www.youtube.com/watch?v=8HAIVTSLPHc Paradisus Paradoxum (Instrumental)], is from the anime Re:Zero. On 4/25/2021 the theme was changed to Giorno Giovanna's theme from JoJo's Bizarre Adventure: Golden Wind, this then has no Theme due to Copyright strikes in Roblox.
+*The "Requiem" portion of GER's name is a reference to Mozart's Requiem, It is believed that, like Mozart's requiem, the "requiem" (CR) was created by Polnareff, but finished by someone else, hence why GER's name is complete yet CR's name isn't.
+*''Nullification: Zero'' is one of two moves that are able to find the username and the avatar of an invisible exploiter, the other being [[Dirty Deeds Done Dirt Cheap|D4C]]'s Dimensional Victim Clone.
+*Life Distribution can be reflected back to the user if it's directed towards someone who has ''Your Own Shadow'' or ''Love Train'' active, healing the user instead.
+*there was once a glitch with GER's RTZ that could grant it full timestop immunity within the area it was initially activated, which could potentially allow for the countering of [[The World Over Heaven]]'s one-hit-kill combos from timestop at the time. it has since been patched, which thankfully coincided with Timestop damage being capped. 
+
+==Skins==
+<gallery widths="185">
+File:Volcanic GER V2.png|Volcanic Experience Requiem, GER's 1st skin.
+File:Hexed GER V2.png|Hexed Experience Requiem, GER's 2nd skin.
+File:Drain Lord Boros GER.png|Lord Boros, GER's 3rd skin.
+File:Screenshot 2026-02-02 193105.png|Astral Enigma, GER's 4th skin (Legendary)
+File:Screenshot 2026-10-25 144831.png|Wispy Willow, GER's 5th skin (Epic, Halloween 2026 Limited)
+</gallery>
+
+==Gallery==
+<gallery widths="185">
+File:GER Life Beam.gif|GER's Life Beam of Creation
+File:GER Awaken.gif|GER's Awakening
+File:GER Null Zero.gif|GER's Nullification Zero
+File:GER RTZ.gif|GER's Return to Zero
+</gallery>
+
+{{NavigationBox}}
+[[Category:Stands]]
+[[Category:Close-Ranged]]
+[[Category:Healers]]
+[[Category:Requiem Stands]]
+[[Category:Part 5]]
+[[Category:Yellow]]
+[[Category:Gold]]
+[[Category:Humanoid]]

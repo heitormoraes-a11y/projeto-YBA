@@ -1,0 +1,122 @@
+{{Tab2|link1=The World|tab1=The World|tab2=The World Over Heaven|link2=The World Over Heaven|tab3=The World (Alternate Universe)|link3=The World (Alternate Universe)|tab4=Shadow The World|link4=Shadow The World}}
+
+{{Stand|title1=Shadow The World|namesake=The World (tarot card)|stand_type=Close/Mid Ranged|abilities=Time Stop, Extreme Strength, Extreme Speed|stand_cry=Muda|user=Shadow Dio|relatives=Gold Experience/Requiem (Giorno Giovanna)|affiliation=Shadow Dio (Stand Master)|stand_appearance=Purple and White|image1=Shadow The World Model.png|aliases=STW}}
+
+{{Quote|"You're watching me, aren't you?"|~ Shadow Dio}}
+
+==Overview==
+Shadow The World (mainly known as STW) is a mid-&-close-range, combo-focused stand. The stand is used by a secret character in [https://jojowiki.com/Heritage_for_the_Future JoJo’s Bizarre Adventure: Heritage For The Future], being the in-between step of Dio's evolution to The World. Shadow The World, if used properly, can be very lethal in various situations, especially if its barrage is used properly. Unlike other stands, specific moves (one which do not use STW itself) can be used during this barrage. Another of its moves, Charisma, can be a very good combo starter, alongside preventing healing due to the bleed upgrade. Similar to [[Scary Monsters]], this stand cannot be stand-crashed, making knockdowns ineffective. Additionally, its summon has 3 different voice lines upon usage.
+
+Just like [[Hermit Purple]] and [[Anubis]], Shadow the World as a stand applies a buff for a specific [[Specialities|specialty]], specifically [[Vampirism]].
+
+=== <code>'''Skill Points: 47'''</code> ===
+
+== How To Obtain==
+To start the quest, talk to [[Enya The Hag]], sitting on the cliff right of the parking garage. 
+
+If you have [[The World]] equipped, she will instruct you to hold out DIO's headband, which is obtained through a 15% drop by [[Jotaro Kujo (Boss)]]. 
+
+Then, you must kill 20 players who are using either [[Hamon (Jonathan Joestar)|Jonathan's]] or [[Hamon (Joseph Joestar)|Joseph's]] Hamon.
+
+Then, you must kill 15 players who are using a stand from the Joestar bloodline. ([[Star Platinum]], [[Hermit Purple]], [[Star Platinum: The World]], [[Crazy Diamond]], [[Gold Experience]], [[Gold Experience Requiem]], [[Stone Free]], [[Tusk (Act 1)]], [[Tusk (Act 2)]], [[Tusk (Act 3)]], [[Tusk (Act 4)]], [[Soft & Wet|Soft & Wet/Go Beyond]])
+
+Finishing this quest will reward you with a [[Stand Virus Capsule]], and using it with The World will give you Shadow The World.
+
+'''WARNING: Never use a Stand Virus Capsule on a skin of The World, since it will not be carried on. Unless needed to.'''
+==Skills==
+Passive - '''Dark Rebirth:''' If the user is a Vampire, all M1s performed with Shadow The World summoned will give the user blood, as if they were draining it from their opponents.
+
+Passive -  '''Unrivaled Power:''' Your stand has the power to reign supreme over the world, it cannot be stand crashed by '''any''' means.
+
+LMB - '''Shadow Dio Strikes''': The user throws a set of punches and kicks that deal 9 damage each. 
+
+''Note: These M1s have a slightly longer range compared to other stands.''
+
+E - '''Stand Combo:''' Shadow The World suddenly appears and combos the opponent with 4 punches. ''(Blockable) (Can be used in stun) (Can movestack during the combo’s duration with any move other than Punishment)'' Deals 25.6 damage total.
+
+R - '''Heavy Chop:''' User lunges forward performing a chop that stuns the opponent. ''(Blockable)'' Deals 17.5 damage''.''
+
+T - '''Knife Barrage:''' Digging into your pockets, you grab 10 knives and throw 5 of them, cursor-aimed. This move acts like a shotgun, landing more hits if you're close to your target. ''(Blockable)'' Deals 24 damage.
+
+''Note: If you unlock the 'Serrated Knives' upgrade, your knives will deal 5 DOT (damage over time) worth of bleed.''
+
+Y - '''Charisma:''' The user sips from a glass of wine while reading Dio's Diary. if attacked while reading, They will stop time, and the attacker will face a barrage of knives impaling them from all sides. Deals 32.2 damage.
+
+''Note: If you unlock the 'Serrated Knives' upgrade, your counter will deal 5 DOT (damage over time) worth of bleed.''
+
+G -  '''Punishment:''' Shadow The World appears and thrusts its fist forward through an opponent dealing damage, knocking back the opponent and then disappearing. Note that this move cannot be used during Stand Combo, unlike other STW moves. ''(Blockable)'' Deals 25 damage (35 if victim is under 50% HP)
+
+''Note: If you unlock the Impale I upgrade your Punishment will deal bleed damage, Impale II increases the damage over time and duration of the bleed, Impale III makes punishment deal 25% extra damage to victims below 50% of their health.''
+
+H - '''Time Stop:''' The user unleashes the secret power of The World way quicker than other stands, however the duration is way shorter. Stand users with Time Stop Resistance will be able to see your movements in Time Stop. All damage in Time Stop will be dealt once it ends, and projectiles thrown during it will instantly land at close range.
+
+''Note: Knife Barrage has a 1 second cooldown while time is stopped.''
+
+Z - '''Time Skip:''' The user teleports to a nearby location in which your cursor is pointing.
+
+X - '''Time Switch:''' The user stops time and swaps places with any player or NPC their cursor is on.
+
+==Combos and Tips:==
+
+* Due to this stand having all of its moves blockable, yet unparriable, it is recommended to stand back and observe the vulnerable points of your enemy, just so you can perform combos well and keep yourself alive. Obviously, Vampirism is one of the best options due to the Dark Rebirth passive, yet boxing isn't a bad option as well.
+* Keep in mind, you do not have a proper barrage to do a counter-attack on your opponent. The Stand Combo and Punishment moves can give you some space from the enemy, if done right. As mentioned above, observe.
+* Using Charisma / Vaporization Freezing mindlessly will indeed make you more vulnerable and dumb in your enemy's eyes, however Charisma possesses a cooldown of 25 seconds, while Vaporization Freezing has 40. Just make sure to use them whenever you know / feel you're getting into a heavy, long, and high-damage output combo.
+* With perfect timing, if the enemy begins to use the "Time Stop" move (TWOH, SPTW, SP, TW, TWAU are the stands that can use Time Stop), you can also use yours, as your Time Stop begins faster, yet lasts for a shorter period. Wasting it on just escaping is not a good idea, so it's better to either stand crash / move the enemy with Stand Combo / Punishment just so you can cancel it.
+* Time Switch has horrendous detection, making it a waste to use in practice.
+* Despite Charisma ragdolling and giving I-frames to the attacker, you can still land moves on them if you time it right.
+* Stand Combo does not push back pilots, making them a great threat to you. As they can simply barrage you for free and follow up.
+* Never begin a combo with Stand Combo, due to the high windup you can be punished severely if you whiff it. Only use Stand Combo if you '''know for sure''' that you will land it, such as using it during the endlag of your opponent's moves or confirming it with Heavy Chop or Knife Barrage.
+* If you get barraged, simply wait. Do not immediately use Stand Combo back. That is bait and most players will usually hold block expecting a Stand Combo back. Simply use a spec block break or Knife Barrage to punish them.
+* Charisma has '''zero''' endlag, meaning it cannot be punished. 
+
+Specless:
+
+Heavy Chop +  Stand Combo + Knife Barrage + Punishment
+
+[[Vampirism]]:
+
+Knife Barrage + Heavy Chop + Stand Combo + Space Ripper Stingy Eyes + Punishment
+
+Knife Barrage + Stand Combo + Space Ripper Stingy Eyes + Punishment + Dash + Heavy Chop + Superhuman Barrage/Life Absorption
+
+Vaporization Freeze + M2 + Heavy Chop + Stand combo + Space Ripper Stingy Eyes(M2 is only if the enemy is blocking.)
+
+==Trivia==
+
+*This Stand was added on 15/11/2024.
+*When it was first released, Time Swap was bugged and teleported some NPCs further from their target destination, in many cases trapping them behind an invisible barrier, making them easy targets for knives.
+*Before being added to YBA, there was a [[The World]] Skin with the name "Shadow The World". Upon release, this skin was made the only skin that can transfer from The World over to Shadow The World. It was also made unobtainable with the release of its stand counterpart.
+*To prevent farming the quest, killing the same person within the span of 5 minutes will only count towards 1 kill in the quest line. Meaning if you kill the same person 10 times within 10 minutes, it'll only count 2 of those kills, essentially making alt farming useless.
+*This stand is currently the only stand to share a base form with another evolved stand, that being [[The World Over Heaven]].
+*Shadow The World is the only variant of the World to not have any block breaks.
+*Unrivaled Power makes STW truly uncrashable, not even RTZ can desummon STW.
+*Charisma works regardless of range, teleporting you straight to whoever hit you.
+*Dark Rebirth works on non-stand M1s as well, such as boxing M1s and pluck M1s.
+*Apparently, Obtaining STW by quest your stand will show as "YES" in "REDEEMED:" , whereas obtaining through skin crate will show your stand as "NO".
+
+==Skins==
+<gallery>
+File:Shadow The World- Alternative Skin.png|Alternative (Common)
+File:STW- Buggy D. Clown.png|Buggy D. Clown (Epic)
+File:STW- Nah, I'd win.png|Nah, I'd Win (Legendary)
+File:STW- Halloween Go-Jo.png|Go/Jo (Legendary; 2024 Halloween)
+File:Candy.webp|Candy Cane World (Epic; 2024 Christmas)
+File:Notherfabmaterial.png|Shadow The Waifu (Epic)
+File:Boette.png|Booette (Legendary)
+</gallery>
+
+==Gallery==
+<gallery>
+File:Shadow The World Skill Tree.png|Shadow The World Skill Tree
+File:Shadow The World Aura.png|Shadow The World's Leg Trail
+File:Shadow The World Model.png|Shadow The World's Model
+</gallery>
+[[Category:Stands]]
+[[Category:Non-Canon]]
+[[Category:Humanoid]]
+[[Category:Part 3]]
+[[Category:White]]
+[[Category:Purple]]
+[[Category:Evolved Stands]]
+[[Category:Close-Ranged]]
+[[Category:Evil]]

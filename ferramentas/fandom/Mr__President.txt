@@ -1,0 +1,74 @@
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo'''
+{{NewestStandTemplate|image1 = <gallery>
+NEW MR P IMAGE PAGE.png|Current
+Mr pres.png|Old</gallery>|namesake = [https://en.wikipedia.org/wiki/Mr._President_(band) Mr. President]|stand_type = Integrated Stand|abilities = Kidnapping|user = Coco Jumbo (& Coco Jumbo copy)|stand_appearance = Stand takes the form of a Key|title1 = Mr. President|aliases=M.P
+Ms. Vice President (YBA Name)}}{{Quote|"It seems we're inside the turtle."|-Bruno Bucciarati}}
+==Overview ==
+Mr. President is a non-humanoid stand from JoJo's Bizarre Adventure Part 5: Golden Wind. It is an object which takes the form of a key. It has its own pocket dimension inside of it which serves as the gang's  safe room throughout Golden Wind. It is the stand of the turtle "Coco Jumbo". There is a 7% chance you will obtain this stand with an arrow, <s>making it one of the most common stands that exist within the game.</s>  
+
+Overall, the Stand is mainly used to troll or within Steel Ball Run due to its limited combat capabilities, requiring a [[Specialities|Speciality]] for serious combat scenarios or for the [[Story|main story]].
+ Total Skill Points: 36 Points
+==Skills==
+E - '''Kidnap:''' Swiping anyone in front of it, victims hit are sent into Mr. President's room. Kidnap's duration depends on how much it is upgraded(cooldown 12 seconds). Deals 22.5 damage when you kidnap them using the ability. Does not work on enemy NPCs. Can be parried, is cancelled on ragdoll.
+
+R - '''Stand Barrage Finisher:''' A heavy swing is done doing 9 damage.
+
+T - '''Shake Key:''' The user shakes the key, causing anyone trapped in Mr. President (even you) to be briefly stunned and take 36 damage (45 with hamon). This completely bypasses block and cannot be deflected in any way (counters, Love Train, etc.). (8 seconds cooldown) 
+
+Z - '''Empty Room:''' Makes all players within Mr. President leave the room including yourself.
+
+H - '''Enter Room:''' Allows you to enter Mr. President's room. Great for hiding or preventing others from healing while inside. If used in SBR, you will only be able to remain in the room for one second before you are dragged out.
+
+Y - '''Restock Supplies:''' Heals everybody in the room for 40 health (50 with hamon). (30 seconds cooldown)
+
+G - '''Turtle Form:''' You turn into a turtle, allowing you to take less damage, gaining +100 physical defense (blocking half the damage of all moves unless bypassed by TWOH or pluck) moving on your sprint speed. Being in this state for too long (around 20 seconds) will cause you to revert to human. It can be used while stunned and gets removed on stand crash, making it ideal against stand barrages or non-stand-crashing punishment               
+
+X - '''Shell Form:''' You go into your shell and hide, gaining +570 physical defense (Blocking 85% of all moves unless bypassed by TWOH or pluck). Your movement speed is reduced to your walking speed.  Being in this state for too long (around 35 seconds) will cause you to revert to human. This move is good for surviving (some) Beatdowns, Time Stop or frog life creation, but your parts of body still can be removed.(cooldown 10 seconds) 
+==Skill Tree==
+Kidnapping I to V - Increases time you can trap a player in Coco Jumbo for - Costs 2, 2, 2, 3, and 3 skill points for each level respectively. (at max gives the option to exit at about 17 to 19 seconds if you want to inf trap)
+
+Shake Key - Unlocks Shake - Costs 1 skill point.
+
+Shell form - Unlocks shell form - Costs 1 skill point. 
+
+Turtle form - Unlocks turtle form- Costs 3 skill points. 
+
+Restock Supplies - 1 skill point to unlock.
+
+Enter Room - 1 skill point to unlock.
+
+Empty Room - 1 skill point to unlock.
+
+Shaker I to V - Increases damage of Shake Key - Costs 2, 2, 3, 4, and 4 skill points for each level respectively.
+==Skins==
+[[File:(NEW) 05 keycard (Epic).png|thumb|165x165px]]
+<gallery>
+File:Mr joestar2.png|Mr. Joestar (Uncommon)
+File:Joestar shell.png|Mr. Joestar, Shell Form.
+File:Joestar turtle.png|Mr. Joestar, Turtle Form.
+File:Mr joestar room.webp|Mr. Joestar, Room.
+File:Poop.png|Old president (common)
+File:Mr.Pekin (Legendary).png|Mr.Pekin (Legendary)
+</gallery>
+
+==Combos and Tips==
+[[Mr. President/Combos and Tips]]
+==Trivia ==
+*When you release someone from inside the key in SBR and 1V1s they will respawn in the place you caught them.
+*This Stand used to have a glitch where entering Turtle Mode or Shell Mode before a Time Stop would allow you to use moves during it. This has been fixed.
+*This stand is commonly regarded as the "trolling" stand
+*In SBR, you are incapable of hiding inside the room as you will be kicked out as soon as the cooldown ends.
+*You can ride your horse in turtle mode in SBR if you transform before mounting it.
+*In SBR, if you are kicked out of the room while off your horse, it will not come back with you.
+<gallery widths="185">
+Mr pres v2.png|Mr. President's Room
+Screenshot 2021-02-12 at 8.55.34 PM.png|Turtle formed Mr.President
+MR pres shiny turtle.png|Old President in turtle form
+File:RobloxScreenShot20210427 143244378.png|Old President's Room
+</gallery>{{NavigationBox}}
+[[Category:Stands]]
+[[Category:Non-Humanoid]]
+[[Category:Close-Ranged]]
+[[Category:Healers]]
+[[Category:Part 5]]
+[[Category:Yellow]]

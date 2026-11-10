@@ -1,0 +1,64 @@
+{{Tab2|link1=Tusk (Act 1)|tab1=Tusk (Act 1)|link2=Tusk (Act 2)|tab2=Tusk (Act 2)|link3=Tusk (Act 3)|tab3=Tusk (Act 3)|link4=Tusk (Act 4)|tab4=Tusk (Act 4)}}
+ '''JoJo's Bizarre Adventure, Part 7 - Steel Ball Run'''
+
+
+{{NewestStandTemplate|image1 =<gallery>
+NEWTuskAct1_Trello.png|Current
+TuskAct1.png|Old
+</gallery>|
+namesake = [https://en.wikipedia.org/wiki/Tusk_(album) Tusk]|
+stand_type = Long-Range (Nail's range), Evolved Stand, Close Range Stand, Integrated Stand, Sentient Stand.|
+abilities = [[Spin]], Rotating Nail Shots, Gliding|
+stand_cry =Chumimi~in!!|
+user = Johnny Joestar|
+caption1 = |
+aliases = TA1, Golden Nail I (YBA name)|
+title1=|
+relatives=Ball Breaker (Achieved by Gyro Zeppeli)|
+affiliation=Spin, Stands.|
+stand_appearance=|
+gender=N/A|
+height=|
+eye_color=White|
+image2=|
+caption2=
+|destpower=E|speed=E|range=D|persistence=B|precision=E|potential=A}}
+<br />{{Quote|	
+"This ability has far surpassed a simple nail… it’s a 
+       Tusk. From now on I will call this Tusk. "
+
+|- Johnny Joestar}}<br />
+==Overview==
+Tusk Act 1 is a long ranged [[Stands|Stand]] used by Johnny Joestar in the Steel Ball Run manga. It is obtained from a [[Saint's Corpse Parts|Ribcage of the Saint's Corpse]] with a 20% chance. Tusk Act 1 can be evolved into Tusk Act 2 by using the [[Left Arm of the Saint's Corpse]] while having [[Spin]] equipped and being at least prestige 1
+
+The Stand is paired with [[Spin]] when people aim to evolve it, and it is usually paired with [[Vampirism]] or [[Spin]] in PvP.
+ Total Skill Points: 27
+[[File:Act 1 Tree.png|thumb|old skill tree]]
+<br />
+== Abilities ==
+E - '''Nail Shots:''' Shoots 5 nails, each dealing 6 damage with an approximately 5 second long cooldown. This move is blockable but block brakes if all 5 nails hit block.
+
+R - '''Nail Slash:''' Slashes opponent with your spinning nails, dealing 11 damage and stuns the opponent. This move has an approximately 5 second long cooldown. This move is blockable.
+
+T - '''Focused Nail Shot:''' Shoots a nail that bypasses block, dealing 15 damage and stunning the target. This move cannot be parried. Note that unlike all of the evolutions, this move does not ragdoll the target and lets you combo off of it.
+
+H - '''Tea Time:''' You drink tea that heals you by 11.5, 16.5(23 with hamon) at max upgrade, with an approximately 40 second long cooldown.
+
+Z - '''Nail Glide:''' Glide with your nail for 5 seconds, with a 23 second long cooldown.
+
+== Combos and Tips ==
+[[Tusk (Act 1)/Combos and Tips]]
+
+==Trivia ==
+
+*Tusk was leaked on UzuKee's Patreon a day before it was added to the game.
+*In Steel Ball Run, it's Normal To See Tusks. Some are Act 3 and are trying to get the Pelvis Of The Saints Corpse, and others who have Tusk Act 4 and are playing Steel Ball Run for fun. Occasionally, you may see an Act 1 with a spec, playing for fun.
+*Tusk is currently the only Stand to evolve in acts in YBA.
+*Spin with Tusk Act 1 is extremely effective as Ta1's projectiles synergize extremely well with Spin's projectiles, and you are able to safely play at a range not needing to get close and possibly barraged.
+*Tusk Act 1 is widely considered one of the weakest stands in the game, but it can be viable in PvP if you know how to use it correctly.<br /> <br />
+[[Category:Stands]]
+[[Category:Non-Humanoid]]
+[[Category:Long-Ranged]]
+[[Category:Part 7]]
+[[Category:Corpse Part Stands]]
+[[Category:Healers]]

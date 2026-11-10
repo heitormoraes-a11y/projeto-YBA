@@ -1,0 +1,215 @@
+{{Tab2|link1=The World|tab1=The World|link2=The World Over Heaven|tab2=The World Over Heaven|link3=The World (Alternate Universe)|tab3=The World (Alternate Universe)|tab4=Shadow The World|link4=Shadow The World}}
+ '''Spoilers for JoJo's Bizarre Adventure: Eyes Of Heaven and JoJo Part 6'''
+<br />{{NEWSTANDTEMPLATE|abilities=Reality Overwrite, Dimension Control (Heaven Arena)|image1= <gallery>
+The World Over Heaven Model.png|Current
+TWOH (New).png|Old
+Twoh.png|Older
+</gallery>|eye_color=Pupil-less White|namesake=[https://en.wikipedia.org/wiki/The_World_(Tarot_card) The World] (Tarot card)<br /> [https://jojowiki.com/JOJO%27S_BIZARRE_ADVENTURE_OVER_HEAVEN OVER HEAVEN] (Novel)|title1=The World Over Heaven|stand_name=The World Over Heaven|yba_name=The Universe Over Heaven|aliases=TWOH, The World OH|user=Heaven Ascension DIO|stand_type=Close|relatives=[[Star Platinum]] (and its evolutions), [[Gold Experience]] and its evolutions, [[Hermit Purple]], [[Crazy Diamond]]|stand_cry=Muda|appearance=TWOH has the basic appearance of The World in Stardust Crusaders, but with alterations of white and yellow color scheme instead of yellow and lime. TWOH also has minor differences such as the bubble vest because the model is very likely made from the second to last model of [[The World]], and is noticeably less detailed.}}
+
+{{Quote|"Reality itself...bends to my will!"
+|- Heaven-Ascended DIO, Eyes of Heaven}}<br />
+==Overview==
+The World Over Heaven is an ascended version of The World from an alternate universe where Dio successfully reached Heaven, which appears in the game JoJo's Bizarre Adventure: Eyes of Heaven as Heaven Ascension DIO's Stand. 
+
+At the time of its release, this Stand was the most popular and the most powerful of all those that had ever appeared in the game, and nothing after it could compare to its incredible strength. He was so powerful that he was weakened in a way that no other stand has ever been weakened: his ability to receive damage buffs from the Hamon fighting style was removed. The World: Over Heaven has received various nerfs since then, but the Stand still persists as one of the strongest in the game due to its passives and versatile abilities.
+
+Reality Overwrite is one of the best passive abilities in the game, which allows the user to ignore ALL defense boosts with any of The World: Over Heaven's moves and deal true damage (for example, The World: Over Heaven's M1s always deals 9.7 damage with maximum destructive power, even if the target has passive defense boosts). Throw Knives, on top of dealing good damage with The World: Over Heaven's high destructive power, can be upgraded to deal additional <u>unblockable</u> damage in a small AOE single knife (8.1). Previously, this move stunned the target for an unfairly long time, but it has since been nerfed. This move, like the other Throw Knives moves, is unable to be cancelled, which makes it excellent during M1 trades.
+
+Another great move is Reality Overwriting Punch, which cannot be canceled, making it a great tool for M1 trades, as well as weakening the enemy by changing their hitbox and temporarily slowing them via leg removal. Furthermore, it has a deceptively short cooldown. One of the stronger moves in The World: Over Heaven's kit is Heaven Ascended Smite. It deals high damage, has a huge hitbox, ragdolls the opponent for a long time compared to other moves, and is a true block-break. Finally, The World: Over Heaven is notoriously known for having the longest Time Stop in the game: It lasts four seconds at its base, with a maximum duration of seven seconds with all upgrades. If your opponent has no Time Stop resistance, they are liable to lose a huge chunk of their health. The World: Over Heaven's healing moves are good for team fights and for brief moments of recovery. Self-Injury Overwrite and Injury Overwrite both heal 45 health points at maximum upgrade (52 with Hamon's damage buffs), though they also carry lengthy cooldowns compared to other Stands capable of healing (Gold Experience, Gold Experience Requiem, etc.)
+
+Though The World: Over Heaven has many strengths, it has some glaring flaws as well. Reality Overwriting Punch can be easily parried if thrown out recklessly, leaving you open to major punishment. Heavenly Smite can also be canceled if hit during the wind-up, and it has a long cooldown. Time Stop, likewise, can be canceled if you are hit while using the move, and Return To Zero can still cancel the move with disastrous consequences. Perhaps most problematic of all, The World: Over Heaven's skill tree is ludicrously expensive, forcing you to think carefully about what build you're going for.
+
+The World: Over Heaven, in spite of its tumultuous history in the context of game balance, is still a popular Stand with strengths that rival Heaven itself, though with its flaws it requires a skilled player to bring out their full potential.
+ '''Total Skill Points: 58 Points'''
+<br />
+
+==How to Obtain==
+This Stand is obtained with 3 steps. First, you need to find DIO´s diary on the game map and read it with base [[The World]]. Getting this booth is called a [[DEO'S Plan|DEO's Plan]]
+
+The diary will give you the first quest, where you must win 25 matches in the 1v1 mode. Finish that and read the diary again for the second quest.
+
+You have to kill 50 players in [[Steel Ball Run]]. After that, you have to collect all [[Saint's Corpse Parts]] (redeemed and normal are both accepted)
+
+Talk to [[Jotaro Kujo (NPC)|Jotaro Kujo.]] He will teleport you to [[Heaven Ascension DIO]] in order to get [[DIO's Bone]]. 
+
+After getting [[DIO's Bone]], you will have to go to The Tallest Peak near the [[Train Station]]. 
+
+After getting to the top of it, resummon your [[The World]], achieving The World Over Heaven. 
+
+(You do not require any Worthiness to do this. Upon obtaining this stand, the [[DIO's Diary]] used to get The World Over Heaven as well as [[DIO's Bone]] will both be removed from you inventory.)
+
+<nowiki>*</nowiki>Note: You can buy the corpse parts in the store, but due to needing 50 kills in [[Steel Ball Run]] anyway, most players will acquire the four parts naturally as they complete the second step.
+
+== Tips and Tricks to Obtain TWOH ==
+1st quest: Win 25 games in the 1v1's gamemode.
+
+'''Use a stand you work best with.''' Using a stand that you're good at can help you win 1v1s especially with people who aren't good at 1v1s or using weaker stands than yours. Some of the best include evolved stands, [[Star Platinum]], [[C-Moon]], [[Made in Heaven|Made in Heaven]], [[Magician's Red]], etc. Any stand that you are good at can work very well, even stands like [[Mr. President]], so do not get discouraged if you do not have any of these. Sadly, kill trading does not work anymore as the first quest was changed from 50 kills to 25 wins. So you will need to put in effort to win 25 matches. There aren’t any solid tips or tricks other than to just get a grip and learn the ins and outs. Good luck!
+
+2nd Quest: Kill 50 players in [[Steel Ball Run]]
+
+Here, you have '''two ways''' of getting kills, you can kill trade or get kills by wiping. When kill trading, it is recommended to look for kill traders in Casual mode because there are a lot of people wanting to kill trade, some people lack PVP experience, and some people don't really want to win either, which is the opposite of Competitive mode. When kill trading, there is a great risk of getting scammed of your kill. This happens when the kill trader doesn't reset with you, where they will get a free kill and you don't. So, be careful, or just choose the second, more violent option. When wiping, it is recommended to form a team. When claiming kills, you have to be the player that dealt the most damage to the target, so using stands that deal immense damage like [[The Hand]], [[Anubis]] or [[Dirty Deeds Done Dirt Cheap]] can help significantly. Wiping can also help you more easily obtain a [[Saint's Corpse Parts|Corpse Part]] if you win, which helps in the next quest for unlocking TWOH. You can have your teammates let you kill them at the end of SBR as well if they allow it. (You have to kill 50 '''DIFFERENT''' people so if it doesn't work, then your teammate had already given you a kill). This quest could take a long time so you might want to have some patience with it. In addition, there are plenty of guides and useful information on YouTube, that you can check out to get better. Don’t lose your cool!  
+
+3rd Quest: Obtain [[DIO's Bone]] by defeating [[Heaven Ascension DIO]] in the Heaven Arena
+
+It is '''not''' recommended to do the [[Made in Heaven|MiH]] quest alongside this, as if you do the MiH quest it will reset the TWOH quest and vice-versa. 
+
+There are a lot of good stands for killing [[Heaven Ascension DIO]], but as long as you know his attack patterns, any stand would work. Using [[Hamon]] with [[The Hand]] for example does outrageous damage, and will help kill [[Heaven Ascension DIO]] quicker. You could also use [[Star Platinum: The World]] for this quest, as it is regarded as one of the best stands for farming bosses.  The best tip for this quest is '''to get some experience with fighting him''' first. Memorizing his attack patterns is very advantageous. You could also ask friends for help. One of the biggest issues people have with this quest is the amount of time it takes to obtain [[DIO's Bone]]. Instead of a guaranteed drop, there is a chance for acquiring it. Not to mention how time consuming it is to kill this tanky boss. If he kills you, you have to climb all the way up to the tallest peak again. Good luck! 
+
+4th Quest: Stand on top of [[The Tallest Peak]] in Naples with [[DIO's Bone]] and [[DIO's Diary]] in your inventory, and summon [[The World]] to complete the Heaven Plan.
+
+Upon completing this step, you will glow with orange light coming from the heavens, before a server-wide flash of white light occurs blinding everyone for a short while regardless of where they are. After the flash, The World: Over Heaven will be summoned in place of [[The World]].
+
+==Skills ==
+Passive - '''Timestop Resistance:''' you can walk in Timestop for X amount of seconds, depending on what you've upgraded it to.
+
+Passive - '''Reality Overwrite:''' upon Landing Reality Overwriting Punch; TWOH bypasses all defence and deals "true damage" while the effects of ROP are still in order.
+
+LMB - '''Punch:''' This short move with a short cooldown deals 9.7 damage at max Destructive Power 
+
+E - '''Stand Barrage:''' TWOH does a powerful and fast barrage, dealing 1.3 damage per hit with max Destructive Power. 
+
+R - '''Barrage Finisher:''' TWOH throws a heavy punch that ragdolls, dealing 24.2 damage at max Destructive Power.
+{| class="fandom-table"
+!'''Skill Name'''
+!'''Description'''
+!'''Damage'''
+!'''Properties'''
+|-
+|Knife Throw (T)
+|The user throws a knife. This ability is able to be upgraded to three knives—increasing the damage. The custom  passive for TWOH's knives is called "Heaven Ascended Knives". The passive allows knives to bypass block and deal area damage. Without this passive, the base cooldown for knives is 8 ''<u>seconds</u>'' (no upgrade), and becomes ''<u>6 seconds</u>'' if upgraded. With Heaven Ascended Knives, the cooldown rises to ''<u>13 seconds</u>'' (upgraded, passive).
+|'''32.4 Damage (All Upgrades)'''
+|
+* '''Block bypass'''
+* '''Unparriable'''
+* '''Offensive'''
+* '''Area Hitter'''
+* '''Hyper Armor'''
+* '''Uncancellable'''
+|-
+|Reality Overwriting
+Punch (Y)
+|The World: Over Heaven launches a punch similar to a Barrage Finisher. Reality Overwriting Punch has a decent amount of stun and end-lag. ROP is able to be parried but bypasses block. This move cripples opponents and randomizes the properties of the victim's body shape ''(similar to Chariot Requiem's Conqueror's Will)''. Reality Overwriting Punch The World: Over Heaven's main passive, <u>''Reality Overwrite''</u>'','' allowing for The World: Over Heaven to deal true damage. As long as the effects of the punch are still active, this passive will sustain.
+|'''20.1 Damage (True)'''
+|
+* '''Block Bypass'''
+* '''Offensive'''
+* '''Parriable'''
+* '''Cancellable'''
+* '''True Damage'''
+|-
+|Injury Overwrite (X)
+|The World: Over Heaven stands in front of the user and punches forward, overwriting anyone's injuries and heals in range from 15-45 health points based on upgrades. Similar to [[Gold Experience]]'s Distribute Life.
+|'''15-45 (Fully Upgraded)'''
+|
+* '''Cancellable'''
+* '''Defensive'''
+|-
+|Self Injury Overwrite (U)
+|The World: Over Heaven overwrites the user's injuries, healing 15-45 health points based on upgrades. Self Injury Overwrite removes all status effects (e.g. bleeding) and recovers any missing limbs. The downside to this is that it stuns you after landing it, making you only able to use it without risk only in good situations. Recommended to use this move after ragdolling your opponent.
+|'''14-45 HP (Fully Upgraded)'''
+|
+* '''Defensive'''
+* '''Cancellable'''
+|-
+|Heaven Ascended Smite (G)
+|The World: Over Heaven slams the ground with lightning—causing powerful area damage to anyone within the range. This move has a short timeframe to be cancelled during its startup frames, but becomes uncancellable otherwise. This move is highly recommended for ending combos or using right after a ragdoll (especially timestop).
+|'''30 Damage (True)'''
+|
+* '''True Damage'''
+* '''Cancellable'''
+* '''Block Breaks'''
+* '''Unparriable'''
+* '''Area Hitter'''
+* '''Semi-Offensive'''
+|-
+|Time Skip (Z)
+|The World: Over Heaven uses its time stopping ability to briefly move from one place to another in an instant, giving off what looks like a teleport. This move teleports them to wherever their cursor is, with a decent amount of range. ''15 Second Cooldown''
+|'''None'''
+|
+* '''Mobility'''
+* '''Defensive/Offensive'''
+|-
+|The World (H)
+|After a short windup, The World: Over Heaven freezes time with a base duration of 4 seconds. During this, you are able to run free and attack whoever you please. Note that there is a damage cap, so you don't always need to spam one person with attacks (33% or 1/3). Example being, if an individual has 205 health, they can only take a maximum of 67.7 damage during the effects of timestop.
+|'''Variable (Maximum 33%)'''
+|
+* '''Offensive'''
+* '''Defensive'''
+* '''Bypasses Block'''
+|}
+
+
+'''Knives Upgrade Nodes'''
+
+* No upgrade: 8 second cooldown.
+* Upgrade 1: 6 second cooldown.
+* Upgrade 2: Adds AoE knife, 13 second cooldown.
+* Upgrade 3: Adds 2 more knives, cooldown does not change.
+
+'''Midas Touch Upgrade Nodes'''
+
+* No upgrade: 15 heal
+* Midas Touch 1: 25 heal
+* Midas Touch 2: 35 heal
+* Midas Touch 3: 45 heal
+
+'''Timestop Upgrade Nodes'''
+
+* Base Time Stop Duration: 4 seconds of stopped time.
+* Time Stop Mastery 1: 5 Seconds of stopped time.
+* Time Stop Mastery 2:  6 Seconds of stopped time.
+* Time Stop Mastery 3: 7 Seconds of stopped time.<br />
+
+== Combos and Tips ==
+[[The World Over Heaven/Combos and Tips]]
+
+==Trivia ==
+* This Stand was added on 1/29/2021 alongside Made in Heaven.
+* The very first video Eclipse, the largest YBA youtuber, posted was on how overpowered The World Over Heaven was.
+*TWOH, [https://your-bizarre-adventure.fandom.com/wiki/King_Crimson_Requiem KCR], [[Chili Pepper (Alternate Universe)|CPAU]], [[Shadow The World|STW]], are the only Non-Canon Stands featured in Your Bizarre Adventure.
+*Due to its namesake being a light novel, TWOH is technically the first and so far only stand in Your Bizarre Adventure to reference the JoJo light novels, although the [[Made in Heaven|Made In Heaven]] skin "One Above All" references a Stand, "Made In Heaven: Ultimate Requiem" from the Jorge Joestar novel.
+*The World: Over Heaven was discovered in the game files before it was released. This leak caused many to believe it was being added, but the YBA staff team played it off as "bait" for leakers. However, it was added to the game not too long afterwards, meaning the YBA team was lying about it being bait.
+*Initially, you needed to '''kill''' 50 players in 1v1's to complete the first quest. However due to kill traders, this has changed, and it is now 25 '''wins'''.
+*The reason for the TWOH quest needing you to win 25 1v1s and kill 50 people in SBR is because it was made to be a more difficult counterpart to killing 100 NPCs for [[Made in Heaven]].
+*Obtaining TWOH rewards the player with Heaven Ascension DIO's Hair. You can also get this hair for killing [[Heaven Ascension DIO]]. Similar to this, you can get Joe v3(cosmetic) by killing [[Jotaro Kujo Part 6 (Boss)]].
+*TWOH's Mirage of Phantoms (see: [[Skins]]) skin is considered one of, if not, the most valuable skin in the game since its release in the 2022 [[Halloween Event]], as it is the first limited TWOH skin. The reason MiH skins, even if they are limited, are worth less is because the MiH quest can be done repeatedly very easily, as you only need to kill some NPCs, Heaven Ascended DIO and Jotaro Kujo P6 for MiH. TWOH requires you to win 25 1v1s and 50 SBR kills which is definitely more difficult. Another reason for this difference in value is because more people play TWOH compared to MiH, so demand for TWOH skins are higher.
+*When the stand was first added, it was the most powerful stand in the game. It did not have a damage cap in Time Stop combined with its absurd damage and the passive ability Reality Overwrite made TWOH absolutely broken. On release it worked with Hamon, allowing you to deal even more damage. This was removed soon after, though after many nerfs and changes, it has since be re-added.
+*Although Non-Canon, The World Over Heaven is the strongest stand in the franchise, in Eyes of Heaven it managed to overcome and defeat Gold Experience Requiem and Tusk Act 4 at the same time.
+*TWOH used to cost a whopping 75 skill points to max out, 25 of which were just to max out Destructive Power.
+*
+
+* Part 6 spoilers:
+{{Spoil|texte=[[Pucci]] needed [[Green Baby]] because [[DIO (NPC)|DIO]] was dead and [[The World]] was a requirement for the original Heaven Plan, Green Baby is made from [[DIO's Bone]] as a substitute for The World. There are many inaccuracies in The Way to Heaven in YBA such as the fact that [[Jotaro Disc]] is not required because in Eyes of Heaven, DIO's Diary was burned and only Jotaro remembered the content of [[DIO's Diary]]. With DIO's Diary, you don't need [[Jotaro Disc]].}}
+
+* Eyes Of Heaven (Game) spoilers:
+{{Spoil|texte=In the Jojo Game Eyes of Heaven, there was an alternate timeline Dio, who defeated the Joestars instead of losing to them, and retained his greatest high, continuing to carry on his Heaven Plan with Pucci, and managed to achieve heaven. With his new stand, he erased the entire universe and made it his own, and everyone follows his orders. Later on, the events of Steel Ball Run was near the end, where Valentine was under the case of the Infinite Rotation. Valentine was searching through this dimensions because he was attempting to escape the infinite rotation. During his search, he found Heaven Ascension Dio's world, and Dio used his power of the stand to rewrite Valentine to the point he never had the Infinite Rotation on him. Valentine told Dio about how Dio's world is merely an alternate universe that branches off the main universe, and about the Saint's Corpse Parts, and that all the corpse parts lie in a 'Base World'. Because Dio already conquered his own universe, he decided to travel to the main universe as well. This is what lead to the events in Eyes Of Heaven, and later the fall of Heaven Ascension Dio in Jotaro's hands.}}
+
+
+== Skins ==
+<gallery widths="185">
+File:Retro The World Over Heaven.png|Retro The World Over Heaven (Epic)
+File:Lightbringer .png|Lightbringer (Legendary)
+File:Higher Res The Waifu over heaven.png|The Waifu Over Heaven (Legendary)
+File:MOP.png|Mirage Of Phantoms (Epic; 2022 Halloween)
+File:Screenshot 2025-11-16 111547.png|Fused Zamasu (Legendary)
+File:Noob twoh.png|The Noob Over Heaven (Common)
+File:The World Under Hell.png|The World Under Hell (Uncommon)
+</gallery><br/>
+
+== Gallery ==
+<gallery widths="185">
+TWOH-MIH Getting.gif|Getting TWOH
+Twoh knives.gif|TWOH Knives
+Twoh morph.gif|TWOH Reality Overwrite
+Twoh g.gif|TWOH Heaven Ascended Smite
+The-world-over-heaven-skill-tree.jpg|TWOH's old skill tree (OUTDATED)
+</gallery><br/>
+
+[[Category:Stands]]
+[[Category:Evolved Stands]]
+[[Category:Non-Canon]]
+[[Category:Close-Ranged]]
+[[Category:Healers]]
+[[Category:White]]
+[[Category:Yellow]]
+[[Category:Evil]]

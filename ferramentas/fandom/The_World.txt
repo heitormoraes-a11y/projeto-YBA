@@ -1,0 +1,134 @@
+{{Tab2|link1=The World|tab1=The World|link2=The World Over Heaven|tab2=The World Over Heaven|link3=The World (Alternate Universe)|tab3=The World (Alternate Universe)|link4=Shadow The World|tab4=Shadow The World}}
+
+
+ '''JoJo's Bizarre Adventure, Part 3 - Stardust Crusaders'''
+
+
+{{StandInfobox|image1=<gallery>
+TW New Pose.png|New
+NewTWModel.png|Old
+The World Remodel 3 or 4.png|Older
+NEW TW.jpg|Even Older
+Muda-Lad.png|Very Old
+Screenshot 13.png|Oldest
+</gallery>|aliases=The Universe (YBA's localized name)
+TW|namesake=[https://en.wikipedia.org/wiki/The_World_(Tarot_card) The World] (Tarot Card)|stand_type=Close-Ranged|abilities=Time Stop, Extreme Strength, Extreme Speed|user=DIO|stand_appearance=Yellow and Grey|eye_color=Red|relatives=[[Gold Experience Requiem]] / [[Gold Experience]] (Giorno Giovanna)|affiliation=DIO (Stand master)|gender=|height=|stand_cry=Muda}}
+{{Quote|''“The World's true power, as its name suggests, is to reign supreme over the entire world!”|~DIO''}}''<br />''
+==Overview==
+The World is a close-range power type of [[Stands|Stand]] like [[Star Platinum]]. Its power far exceeds most Stands and is equal to the previously mentioned Star Platinum. The World is the Stand of the main antagonist of [https://jojowiki.com/Stardust_Crusaders Stardust Crusaders], [[DIO (Boss)|DIO]]. The World is capable of stopping time itself for a limit of 5 seconds. The World is obtainable from an arrow with a 2.5% chance, making it one of the rarest Stands in-game. 
+
+Compared to its [[The World (Alternate Universe)|Alternate Universe counterpart]], The World focuses on close range combat, with slight ranged capabilities with using it's knife throw. The World's main ability - to stop time - is a major advantage of The World as there are only a limited amount of stands that can move within stopped time.
+
+However, [[Gold Experience Requiem]] can cancel out the Time Stop with its Return to Zero ability. Furthermore, Road Roller is a heavily punishable attack when used incorrectly, allowing to put the user in a bad position if it misses.   
+ Total Skill Points: 50 Points
+
+==Skills==
+LMB - '''Punch:''' This short move with a short cooldown deals 8.9 damage (10.6 in TGH) at max destructive power and can be combo up to 5 times, ultimately dealing 44.5 damage if all hit.
+
+E - '''Stand Barrage:''' The World unleashes a powerful and fast barrage. (1.5 at max Destructive Power, 1.7 Hamon charged, 1.8 in TGH)
+
+R - '''Stand Barrage Finisher:''' The World releases a very powerful punch that is able to break through blocks and ragdoll your victims. (17.7 at max Destructive Power. 26.6 in TGH)
+
+T - '''Throw Knives:''' The World throws a single knife in the direction of its user's cursor. At the final upgrade of this move, three knives are thrown. This move can be blocked, but only 4 times before the block is broken ''(at Max Sturdiness.)''. This stuns enemies. (8.1 per knife at max Destructive Power, you can use it without TW out but it won't have the destructive power upgrades.) (Cooldown 6s, 2s in stopped time, about 3 knives maximally)
+
+H - '''Road Roller:''' TW's user jumps high into the sky, bringing a steamroller down with them, slamming it down where they were previously standing, it deals 0-200% of the opponent’s health depending on how much health they have lost. This move bypass block and ragdolls opponents (13 on impact, 0.4 during barrage phase, and the final hit depends on how much health the victim has lost, with base damage 40.) [You can avoid this move fairly easily even if you only have dash and not any mobility moves] This move can attack multiple players at once as long as they are under the steamroller. 
+
+Y - '''Road sign slam:''' Slam a road sign down onto your opponent dealing 20.1 (26.2 in TGH) screaming (MUDA!), doing an animation similar to sword-style Blitz Strike (Block bypasses, not parriable) (15s cooldown)  
+
+X - '''Kick Barrage: '''The World lunges in front of the user screaming (HON!) then throws a flurry of kicks forth at his target for 5 seconds which finishes with a strong kick that is very fast and powerful screaming (WRYYY!).  (0.6 barrage at the kicks, 12.5 damage at the last kick.) (22s cooldown) 
+
+C - '''Shinei:''' teleport behind the closest enemy and send them flying with a powerful impaling punch screaming (SHINEI!) "Die", damaging 25 (32.5 in TGH) and applying 0.9x10s bleed (Block bypasses, parriable) (20s cooldown and time stop cooldown of 3 seconds)
+
+Z - '''Time Skip:''' The World quickly stops time and you teleport in the direction of your cursor. It can be used to scale buildings at ease, due to its short cool down. The only way to travel vertically is to jump while aiming above. Though you can't use it in Time Stop. 
+
+U - '''[[Rage Mode|Rage Mode (The Greatest High):]]''' The user shouts (SAIKONI HIGH TIASDA!) "This is the greatest high", giving the user a spiky aura. activates a temporary state of bloodlust. It can be charged by damaging others. but reduced by being damaged. This gives a 30% damage boost to all moves and allows the use of Road Roller. '''You can only use it when it's full'''
+
+J - '''[[Time Stop|The World]]:''' The user does a quick start-up animation and yells "Za Warudo! Toki wo tomare!" (The World! Stop time!) before stopping time for up to 9 seconds (With max upgrades) (in what appears above 6 seconds) freezing consumption rage meter while keeping it active.  Stand users with Time Stop Resistance will be able to see your movements in Time Stop. All damage in Time Stop will be dealt once it ends, and projectiles thrown during it will instantly land at close range.  
+[[File:New TheWorld.jpeg.png|alt=New Model|thumb|2x2px]]
+
+==Skill Tree==
+<tabber>
+|-|Passive=
+Megalomania: Increases the duration time Rage Mode (The Greatest High) lasts for. each upgrade increases the duration for 5 seconds
+*Megalomania I: 1 Point
+*Megalomania II: 2 Point
+*Megalomania III: 2 Points
+Throw Knife: Lowers the cooldown of knife throw.
+*Throw Knife I: 2 point
+*Triple the Knives: 3 points, throw 2 more knives, making 3 knives in total
+Time Stop Resistance: 2 points, allows you to move in other people's stopped time for 3 seconds
+|-|Active=
+Time Stop Mastery: Increases how long The World can stop time for.
+*Time Stop Mastery I: 2 points
+*Time Stop Mastery II: 2 points
+*Time Stop Mastery III: 2 points
+Bloodlust: Rage meter fills up faster and i reduced less.
+*Bloodlust I: 1 point
+*Bloodlust II: 1 point
+*Bloodlust III: 2 point
+Destructive Power: Increases stand damage.
+*Destructive Power I: 1 point
+*Destructive Power II: 1 point
+*Destructive Power III: 2 points
+*Destructive Power IV: 3 points
+*Destructive Power V: 3 points
+|-|Moves=
+*Road roller: unlocks road roller ability: 3 points
+*Throw knives: unlocks Throw knives ability: 2 points
+*Road sign slam: unlocks Road sign slam ability: 2 points
+*Kick barrage: Unlocks kick barrage ability: 2 points
+Time skip: Unlocks time skip ability: 1 point
+*Shinei: Unlocks shinei: 2 points
+</tabber><br />
+
+==Combos and Tips ==
+[[The World/Combos and Tips]]
+
+==Trivia== 
+
+*Every skin for this Stand uses an old model, though The Waifu V2 uses a much different model.
+* The skin "The World OVA" is actually based on Heritage For The Future instead.
+* The World used to be able to be able to get a 9 second time stop, and could do a double Timestop. This used to work on [[The World]], [[Star Platinum]], & [[The World (Alternate Universe)]]
+*On December 9th, [[The World|The World's]] kick barrage got a new effect and was made to be more accurate to the anime.
+*The World's eye color in the anime is actually hazel, rather than red.
+*This is the first Stand in the Evolution of the [[The Heaven's Plan|Heaven's Plan]].
+*This Stand was one of 6 Stands to get a R63 Skin from the Stand Skin update. The other 5 being [[King Crimson]], [[Dirty Deeds Done Dirt Cheap]], [[The Hand]], [[Star Platinum]], and [[The World (Alternate Universe)]]. The World and King Crimson were the first to get R63 versions.
+*Road Roller has been fixed so players will not be able to get out of its range. It is also harder to dash back. It was also made to bypass block. It was changed once more in Version 1.0 to have very little knockback, meaning victims will no longer be freed if hit at farther distances.
+*[[The World]]'s alternate self is [[The World (Alternate Universe)]]
+*Like every other TS and TE stand on mobile, The World's time skip can only go forward of where the user is facing.
+*Vampire is usually considered as the best style for this Stand as you can confirm Road Roller off of Vaporization Freezing, and because you are able to pull your Stand during Kick Barrage, allowing you to hit Life Drain.
+*If you hit Road Roller on someone using a stand counter (e.g. King Crimson's Epitaph / C-Moon's Gravitational Negation) the counter will be cancelled and the user will still get the Road Roller damage (but without the extra [[Executes|execution]] damage).
+*To avoid this all you must do is evade almost the entire move, and in the final hit, activate the counter and walk towards the Road Roller.
+*If you use Shinei, it's possible to teleport through the ground and to a enemy npc in the sewers.
+
+==Gallery==
+<tabber>
+|-|Moves=
+<gallery widths="185">
+TW TS Cropped On Building.gif|Time Stop Animation
+Roadroller-roadroller-da.gif|Road Roller
+</gallery>
+|-|Skins=
+<gallery>
+Higher Res The Waifu V1.png|The World's 1st skin, The Waifu (Limited, Epic) 
+Ghostworld.png|The World's 2nd skin, The World 2 (Common) (OLD MODEL).
+The World 2 Remodel.png|The World's 2nd skin, The World 2 (Common) (NEW MODEL).
+Heritage for future the world.png|The World's 3rd skin, OVA The World (Uncommon) (OLD MODEL).
+The World OVA Remodel.png|The World's 3rd skin, OVA The World (Uncommon) (NEW MODEL.)
+ShadowTheWorld.jpeg|The World's 4th skin, Shadow The World (Epic, Unobtainable)
+Ghost world.png|The World's 5th and limited skin, Ghost World. (Halloween 2021, Legendary)
+The World's Greatest High.png|The World's 6th skin, The World's Greatest High. (Epic)
+2079C517-AF66-4915-A630-DE2CC83487B4.jpeg |The World’s 7th skin, Festive World. (Christmas Limited, Epic)
+The World Sumo.png|Sumo World (Christmas 2021-2022 Limited, Uncommon)
+Higher Res The Waifu V2.png|The World's 9th skin, The Waifu v2 (Epic)
+</gallery>
+</tabber>
+{{NavigationBox}}
+
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:Yellow]]
+[[Category:Close-Ranged]]
+[[Category:Part 3]]
+[[Category:Gold]]
+[[Category:Evil]]

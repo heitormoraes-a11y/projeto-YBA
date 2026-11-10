@@ -1,0 +1,126 @@
+{{Tab2|link1=Dirty Deeds Done Dirt Cheap|tab1=D4C|link2=D4C: Love Train|tab2=D4C: Love Train}}
+ '''JoJo's Bizarre Adventure, Part 7 - Steel Ball Run'''
+
+{{quote|''"Humanity is all equal, isn't it? Good things... and harmful things balance out to zero. But not for this place of good fortune where I am."'' |~ Funny Valentine}}
+
+<br />{{NewestStandTemplate|title1=D4C: Love Train|image1=
+<gallery>
+D4clt.png|Current
+NEW D4C IMAGE PAGE.png|Old
+</gallery>|caption1=|aliases=Dirty Deeds Done Dirt Cheap: Love Train
+D4C:LT|namesake=[https://en.wikipedia.org/wiki/Dirty_Deeds_Done_Dirt_Cheap_(song) Dirty Deeds Done Dirt Cheap]
+[https://en.wikipedia.org/wiki/Love_Train Love Train]|stand_type=Close-Ranged Stand
+Evolved Stand|abilities=Dimensional Travel and Misfortune Redirection (Damage Reflection)|stand_cry=|skill_points=70 Skill Points to Max|user=Funny Valentine|relatives=|affiliation=23rd President of the United States|stand_appearance=Pink and Cyan Humanoid|gender=|height=|eye_color=Pink|image2=|caption2=|}}<br />
+
+==Overview ==
+Dirty Deeds Done Dirt Cheap: Love Train or D4C:LT for short is the evolved version of [[Dirty Deeds Done Dirt Cheap|D4C]]. It is the Stand used by Funny Valentine, the main antagonist of JoJo's Bizarre Adventure Part 7. It is obtained through using the [[Heart of the Saint's Corpse]]- which is obtainable by completing the [[Steel Ball Run]], from the shop or from rolling it in the [[Arcade]]- on [[Dirty Deeds Done Dirt Cheap|D4C]]. This version of [[Dirty Deeds Done Dirt Cheap|D4C]] gains an extra Destructive Power upgrade and receives higher base damage, along with an extremely fast barrage speed. It used to be one of the highest DPS Stands in the game. This Stand used to have the highest base Destructive Power in the game, which made it extremely powerful along with its speed. 
+
+D4C: Love Train used to be one of the most powerful Stands in the entire game, mainly due to its immense destructive power (which has since been nerfed greatly) and access to long range attacks such as its revolver (which can explode smoke bombs created by [[The World (Alternate Universe)]] and its dimensional clones. D4C: Love Train's Love Train ability also redirects any damage away from its user, with only [[Soft & Wet|Go Beyond]] (move) and [[Tusk (Act 4)]] (with ''Infinite Rotation)'' being able to directly bypass it''.'' This makes it a good stand when fighting multiple people as the damage reflection makes their attack useless while serving as a deterrent to target the player.  
+
+However, every ''Damage over Time'' related [[Status Effects]] can bypass Love Train ''if'' they were applied before Love Train was activated. Due to the Damage over Time, it'll might delay the activation of Love Train, especially at low health if the damage is too much to recover from. 
+ Total Skill Points: 54 Points
+<br />
+==Skills==
+LMB - '''Punch:''' D4C:LT throws a punch, dealing 9.7 damage with max Destructive Power. This move is blockable
+
+E - '''Stand Barrage:''' D4C:LT throws a flurry of fast punches, dealing 1 damage per hit. With max Destructive Power, this move deals 1.3 damage. 
+
+R - '''Barrage Finisher:''' D4C:LT throws a heavy punch, dealing 14.5 damage. With max Destructive Power, this move deals 24.2 damage. This move breaks block but can be parried.
+
+T - '''Pocket''' '''Revolver:''' D4C:LT pulls out a gun and shoots at wherever their cursor is aimed, dealing 15 damage per shot. With max Destructive Power, this move deals 17.5 damage. The revolver can be drawn faster by upgrading Quick Draw. This move also breaks blocks, and can't be parried. When D4C:LT is not summoned, it deals a set amount of 10.9 damage regardless of Destructive Power. 
+
+Y - '''Dimensional Victim Clone:''' D4C:LT waves the American flag, creating a clone of the player their cursor is hovering over. The clone runs toward said player, exploding once they touch, dealing 22 damage. With max Destructive Power, this move deals 35.4 damage. With max Destructive Power and Hamon charged, this move deals 44.3 damage. These clones can be defeated before explosion. This move will work on mobile devices, though you have to place your dynamic joystick over the player you’re targeting like a mouse.
+
+U - '''Dimensional Clones:''' D4C:LT waves the American flag in whichever direction the user is facing, spawning clone NPCs that look identical to the user's avatar. These clones will fight the nearest opponent. Clones deal 6.4 damage with a normal blow, and with a strong blow they deal 9.7 damage. With Hamon charged, this move deals 8.1 damage with a normal blow, and with a heavy blow 12.1 damage. When against a vampire using hamon, deals 10.9 with a normal blow and 16.3 with a heavy blow. The number of clones spawned can be increased up to 3 by maxing out Dimensional Traveler, these clones summon almost simultaneously. The damage that the clones inflict is scaled with Destructive Power. <u>Note: that [[Chariot Requiem]]'s Your Own Shadow will reflect the damage dealt from your clones back at you, not your clone. This move can be cancelled if the user is ragdolled. Another Note: If you are close enough to the clones you will get hurt by them also</u>  
+
+X - '''Clone''' '''Swap:''' D4C:LT waves the American flag at the user, swapping places with the clone the user's cursor is hovering over. This move requires you to have at least one of your own clones present on the map to work.
+
+H - '''Love Train:''' D4C:LT activates its new ability, Love Train. Pillars of light surround the user and all damage that is done to the user while in this state is redirected to surrounding players, or if hit from a distance, the user that dealt the damage. When the ability is ending, damage will still be redirected until the pillars of light fully disappear. Love Train remains around D4C for 8.5 seconds without any upgrades. With maxed Misfortune Redirection, this move lasts 17.5 seconds. If you Hamon charge in "Love Train" and an opponent attacks you, then the reflected damage will be greater.
+
+==Skill Tree==
+<tabber>
+|-|Passive=
+Quick Draw: increases how fast the Pocket Revolver and Flag are drawn
+*Quick Draw I: 2 points
+*Quick Draw II: 2 points
+*Quick Draw III: 3 points
+*Quick Draw IV: 3 points
+*Quick Draw V: 4 points
+
+Dimensional Traveler: Spawns one more clone to fight for you
+*Dimensional Traveler I: 2 points
+*Dimensional Traveler II: 3 points
+Dimensional Searcher: 1 point, increases the health and strength of your clones.
+
+
+Misfortune Redirection: Increases the duration of Love Train.
+*No Misfortune Redirection Upgrade - lasts for 11 seconds.
+*Misfortune Redirection I: 2 points - lasts for 13 seconds.
+*Misfortune Redirection II: 2 points - lasts for 15 seconds.
+*Misfortune Redirection III: 3 points - lasts for 17 seconds.
+*Misfortune Redirection IV: 4 points - lasts for 19 seconds.
+*Misfortune Redirection V: 5 points - lasts for 21 seconds.
+|-|Active=
+Destructive Power: increases Stand damage
+*Destructive Power I: 2 points
+*Destructive Power II: 2 points
+*Destructive Power III: 3 points
+*Destructive Power IV: 3 points
+*Destructive Power V: 4 points
+
+Dimension Control: extends how long a player can stay in the dimension
+*Dimension Control I: 2 points
+*Dimension Control II: 2 points
+*Dimension Control III: 3 points
+*Dimension Control IV: 3 points
+*Dimension Control V (Allows you to enter the dimension uninterrupted. If someone ragdolls you, the move will still be cancelled): 4 points
+|-|Skills=
+*Pocket Revolver: 1 point
+*Dimensional Clones: 2 points
+*Dimensional Victim Clone: 1 point
+*Love Train: 1 point
+</tabber>
+
+== Combos and Tips ==
+[[D4C: Love Train/Combos and Tips]]
+
+==Trivia==  
+
+*In order to differentiate D4C:LT and the regular D4C, the design is instead based on Chapter 83 of the Steel Ball Run manga, where [https://jojowiki.com/Funny_Valentine Funny Valentine] is aged rapidly from [https://jojowiki.com/Ball_Breaker Ball Breaker].
+**Originally, D4C:LT's old model used to be the same to D4C's third one, and shared no noticeable differences.
+*The Love Train counterpart of D4C was added after the release of the Stand itself. It was added in an update along with [[The World (Alternate Universe)|The World: Alternate Universe's]] release.
+*D4C:LT had the highest base barrage damage in-game (Not counting Mod-Stands/Specs), with only [[Aerosmith]]'s Vola Barrage and [[Hierophant Green]]'s Emerald Splash having more with 2.5 and 3 damage per hit respectively, but those aren't truly barrages and have a much shorter duration. 
+**This damage is lower than [[Star Platinum: The World]] and [[The World Over Heaven]].
+*D4C: LT is banned from Casual [[Metal Ball Run|Steel Ball Run]] races due to it being an evolved Stand.
+*This Stand costs 70 skill points to max out. This competes with Stands like [[Made in Heaven]], [[Killer Queen: Bites the Dust|KQ:BTD]] and [[Tusk (Act 4)|TA4]] for being one of the most expensive Stands.
+*Love Train can redirect beatdowns, meaning that you can get people caught in their own beatdown. The only exception in this case is the Stand [[Tusk (Act 4)|Tusk Act 4]], even when they do not have the Infinite Rotation passive. Due to how the newer cutscenes moves are programmed, while you cannot be beatdowned by [[Crazy Diamond]], [[Stone Free]], or [[Soft & Wet]], you will also not reflect the beatdown while love train is active. The same applies to moves such as bloodsuck.
+*D4C: LT used to be able to get blood from the clones upon killing them (when using the Vampire spec). This has since been patched.
+*D4C: LT used to be considered to be one of the best stands for PVP
+*This stand is also extremely good for PVE.
+*In v1.591, D4C received major nerfs, including removal of dimension hop, decreased range of clones, decreased attack damage, having your self clones hurt you, having self clones time existing severely cut, at the expense of the flag and gun moves being significantly faster, alongside the scaling with Quick Draw being larger
+*The song that plays in the skill tree of D4C:LT is [https://www.youtube.com/watch?v=x3Tk4kz4tAM&list=RDx3Tk4kz4tAM&start_radio=1 Maribou State feat. Holly Walker - Tongue] slowed down.
+
+<gallery widths="185">
+
+</gallery>
+
+== Skins ==
+<gallery>
+File:Train To Hell.png|D4CLT's first shiny, Train to Hell.
+File:DCCCC.png|D4CLT's 2nd shiny, Neco Arc (Legendary)
+</gallery>
+
+== Gallery ==
+<gallery>
+</gallery>
+[[Category:Stands]]
+[[Category:Evolved Stands]]
+[[Category:Close-Ranged]]
+[[Category:Part 7]]
+[[Category:Humanoid]]
+[[Category:Pink]]
+[[Category:Blue]]
+[[Category:Corpse Part Stands]]
+
+{{NavigationBox}}
+[[Category:Evil]]

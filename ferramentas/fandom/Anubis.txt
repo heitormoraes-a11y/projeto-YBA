@@ -1,0 +1,134 @@
+{{StandInfobox|image1= <gallery>
+New-and-clean-anubis.png|Unsheathed
+New-and-clean-s.off-anubis.png|Sheathed/Stand Off</gallery>
+aliases=Anubiz (YBA Localized Name)|namesake=[https://en.wikipedia.org/wiki/Anubis Anubis (Egyptian God)]|stand_type=Automatic, Shared, Materialized, Sentient, Artificial Non-Humanoid|user=Caravan Serai (Original user, crafter of the sword) 
+
+Chaka (Possessed) 
+
+Khan, (Polnareff's Barber) (Possessed) 
+
+Jean Pierre Polnareff (Posessed)|stand_appearance=Anubis possesses a flesh-colored body with a black head in both the colored manga and anime. Its headdress is also yellow in both media.|gender=|eye_color=|title1=|stand_cry=|abilities= Mind Control, Selective Intangibility, Skill Development, Swordsmanship|affiliation=Egypt 9 Glory Gods|image2=|sound of summoning=Naymosioy}}
+ JoJo's Bizarre Adventure, Part 3 - Stardust Crusaders
+<br />
+
+{{quote|"You have unsheathed me... you will be my Stand user... you will be my body. I will make you a master of the sword. No one is stronger than you... use me and kill!"|-Anubis}}<br />
+==Overview ==
+Anubis is a unique [[Stands|Stand]] that takes the form of a Shamshir sword and is based on the Egyptian God of Death, Anubis. In both manga and anime variants, it does not have a user, but rather possesses anyone who unsheathes it. Although, Anubis does not unsheathe for anyone, but only those it deems worthy to wield its power. Anubis has a 5% chance of being obtained from a [[Mysterious Arrow]]. 
+
+When not summoned, Anubis will be sheathed in its scabbard which is gripped by the user's right hand. 
+
+This Stand is commonly paired with [[Vampirism]], [[Boxing]] and [[Sword-Style]], most of which due to great combo extension, health benefits (excluding sword-style mostly specializing in combos, having no health bonuses) and overall improvement to the stand. Sword-Style in particular is good as while using pluck your M1's deal more damage than Regular Anubis M1's. Lethal Tempo also helps with this. 
+
+While Anubis' base damage is low, its passive ability, Supernatural Swordplay, keep Anubis' M1s consistently used in competitive play. Supernatural Swordplay increases the speed of your M1s AND makes the final M1 block break, essentially giving the stand a no-cooldown true block break and God Of Death which increases the damage of your M1s, Barrage, and Enraged Fury with the help of poison. Curse Imbued Slice deals true damage, similar to [[The World Over Heaven]] and afflicts bleeding, but due to it's moderately long startup, can be countered by blocking or barrage cancelling. God of Death is a move that temporarily gives Anubis' M1 and Enraged Fury attacks a chance to apply poison, and if you have the Tough Spirit upgrade, it makes it so the Stand is immune to being stand crashed when in God of Death mode, which can make it easier to fight Stands who rely on barraging when your Stand is away ([[C-Moon]], [[King Crimson]]). If you have it upgraded to the max duration, the cooldown is deceptively low (≈10 sec). Afterimage applies invincibility frames and grants a speed boost depending on Skill Tree upgrades, making it good for evasion. Enraged Fury is incredibly difficult to parry (as of current build  v1.791, they made the startup longer, making it significantly easier to parry) , has hyper armor during the attack and is a core part of the Anubis' bread and butter combos. Finally, Cursed Blade is a unique counter that deals good damage, but is also able to counter attacks that are normally not able to be countered, such as Road Roller. 
+
+Despite all of this, Anubis still has it's flaws. To start things off, outside of God of Death, Anubis' cooldowns are long, meaning that after you perform your combos, it can be difficult to get damage, especially when you consider the Stand's low damage and necessity to rely on God of Death's chance of proccing poison. Though Enraged Fury is unable to be cancelled as you are attacking with it, it is cancellable upon start-up, unlike the Kick Barrage moves. Finally, the lack of Time Stop Resistance and no way to actually fight back against Time Stop means that Anubis is, more often than not, helpless in the face of Time Stop Stands. 
+
+Anubis still remains a good, viable Stand within the game thanks to its unique blend of attacks, long combos and the ability to apply bleeding and poison. However, it's flaws also hold it back from being overpowered or dominant. Many players consider it solid, though not much more beyond that.  
+
+While Anubis is viable, it needs real skill to fight with and against so it's not recommended unless you are good at the game.  
+ Total Skill Points: 54
+
+==Skills==
+
+'''Tough Spirit (Passive)''': Anubis cannot be stand crashed if God of Death is active.
+
+'''Supernatural Swordplay (Passive)''': Increase your M1 speed from slow like The Hand or Magicians Red to faster than the likes of The World and Star Platinum while also passively grants your last M1 in the click combo the ability to block break. 
+
+M1 - '''Slash''': Anubis slices its opponent that deals 5.5 damage per hit. (Applies Poison via chance with God Of Death)
+
+E - '''Stand''' '''Barrage''': User will perform a barrage using the sword, with each hit dealing 0.9 damage.
+
+R - '''Stand Barrage''' '''Finisher''': The user performs a quick slash that deals 11 damage, it can be parried like all Stand Barrage Finishers.
+
+T - '''Curse Imbued Slice''': The user spins as Anubis slices anything in its path, ignoring block and dealing 24 true damage while also inflicting [[Status Effects#Bleed|bleeding]]. 15s cooldown.
+
+Y - '''God of Death''': When activated, the user will do a little winding up animation with Anubis. After the animation is finished, Anubis gains a dark, pink aura around its blade. The user's M1s, M2s, and Enraged Fury attack now have a chance to inflict [[Status Effects#Poison|poison]]. When the upgrade Tough Spirit is bought, your stand cannot be knock out when ragdolled. 
+
+G - '''Afterimage''': The user will create several afterimages that speed around the target for a short while before disappearing. The user will become invisible, invincible and gain a speed boost when this move is active. 15s cooldown. 
+
+Z- '''Cursed Blade''': The user goes into a defensive stance with Anubis. If hit, the user will then counter with a slice, dealing 12.5 damage before zooming through the assailant and sheathing Anubis, dealing another 12.5 damage and inflicting bleeding. This move has endlag and a 30s cooldown.
+
+X - '''Enraged Fury''':  The user will begin slashing wildly with Anubis, dealing 3 damage per hit and finishing with a slice that deals 12 damage. This move acts similarly to [[Star Platinum]] or [[The World]]'s Kick Barrage. This move is parriable and able to be canceled, but has super armor once the attack has truly begun. 20s cooldown.
+
+==Skill Tree==
+<tabber>
+|-|Passive =
+'''Supernatural Swordsplay:''' 6 Points
+
+'''Tough Spirit:''' 2 Points
+
+'''Stand Speed:''' increases duration of Afterimage
+*Stand Speed I: 5 points
+*Stand Speed II: 5 points
+*Stand Speed III: 5 points
+
+'''Touch of Death:''' increases God of Death's duration
+*Touch of Death I: 2 points
+*Touch of Death II: 3 points
+*Touch of Death III: 4 points
+*Touch of Death IV: 5 points
+*Touch of Death V: 5 points
+|-|Skills =
+'''Enraged Fury:''' 3 points
+
+'''Cursed Blade:''' 3 points
+
+'''Afterimage:''' 3 points
+
+'''God of Death:''' 1 point
+
+'''Curse Imbued Slice:''' 2 points
+</tabber>
+
+== Combos and Tips ==
+[[Anubis/Combos and Tips]]
+
+==Trivia==
+*Anubis was added on 4/30/21, along with a new skin for [[The World]] and [[The Hand]].
+*Anubis, [[Beach Boy]], and [[White Album]] are currently the only stands to belong to a tertiary antagonist.
+*Anubis briefly had Beach Boy's aura when released.
+* Anubis is the second non-humanoid Stand to have a barrage, the first being White Album.
+*Both [[Anubis]] and [[Star Platinum|Star Platinum's]] second pseudo-Barrages (Ora Kicks and Enraged Fury) do more damage than [[The World|The World's]] Kick Barrage.
+* Unlike most stands, Anubis cannot have any skill points put into Destructive Power. This makes Anubis' barrage and m1s weaker than other stands.
+*During the last hit of Cursed Blade, the opponent's stand will be re-summoned.
+*The "Spirit Bomb Sword" skin has the same stand summon sound effect as [[Ultra Instinct (Mod Spec)|Ultra Instinct]]
+*The Elucidator & Dark Repulser skin is based of [https://swordartonline.fandom.com/wiki/Kirigaya_Kazuto Kirito's] Swords from [https://swordartonline.fandom.com/f Sword Art Online].
+*The "Afterimage" skill is most likely a reference to the scene of [https://youtu.be/HwzJrxcds3A?t=37 Kurosaki Ichigo running around Kuchiki Byakuya leaving behind multiple afterimages].
+*The Blade of the Exile  skin is based of off Riven's sword from League of Legends.
+*The "Kanshou and Bakuya" skin is referencing the Kanshou and Bakuya Noble Phantasm from Fate/Stay Night.
+**The voiceline summon is "''Trace... on.''" This is referencing Shirou Emiya from the anime.
+*Anubis has a unique bug with the default skin that using afterimage immediately after summoning will have Anubis in the left hand but somehow sheathed in the right hand.
+*The "Blade of the Exile" is the only stand that has the stand summon sound effect that contains English words: "What is broken can be reforged"
+*Anubis used to have stuns on its m1, but the stuns was replaced with faster m1 + block break on the fifth m1
+*The "Kikoku" is based of Trafalgar D. Water Law's sword from One Piece.
+*Joe's Pride's stand summon is the first few seconds of [[Gold Experience Requiem|Gold Experience Requiem's]] awakening.
+
+
+==Gallery==
+<tabber>
+|-|Moves=
+<gallery widths="185">
+Anubis curse imbued slice.gif|Anubis' Curse Imbued Slice
+Anubis afterimage.gif|Anubis' Afterimages
+Anubis enraged fury.gif|Anubis' Enraged Fury
+Anubis god of death.gif|Anubis' God of Death
+Anubis cursed blade.gif|Anubis' Counter
+</gallery>
+|-|Skins=
+<gallery>
+RobloxScreenShot20210507 221518939 (2).png|Anubis' first skin, Elucidator & Dark Repulser.
+Drain Kanshou & Bakuya.png|Anubis' second skin, Kanshou & Bakuya.
+Aot.png|Anubis' third skin, ODM Gear.
+Image 2021-05-24 114617.png|Anubis' fourth skin, Kikoku.
+Spirit Bomb Sword.png|Anubis' fifth skin, Spirit Bomb Sword (Holiday Limited).
+Linked Sword.png|Anubis' sixth skin, Linked Sword.
+bladeexile.png|Anubis seventh skin, Blade of Exile.
+bloodanubis.png|Anubis' eight skin, BloodThrister (Halloween Limited).
+Joes Pride.png|Anubis' ninth skin, Joe's Pride. (Sheathed)
+</gallery>
+</tabber>
+[[Category:Stands]]
+[[Category:Non-Humanoid]]
+[[Category:Part 3]]
+{{NavigationBox}}
+[[Category:Evil]]

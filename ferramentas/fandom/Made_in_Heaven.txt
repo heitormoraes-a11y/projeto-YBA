@@ -1,0 +1,120 @@
+{{Tab2|link1=Whitesnake|tab1=Whitesnake|link2=C-Moon|tab2=C-Moon|link3=Made in Heaven|tab3=Made in Heaven}}
+<br />
+{{NewestStandTemplate|aliases=Made in Heaven
+
+Maiden Heaven (Localized Name)
+
+The Way to Heaven (YBA Name)|namesake=[https://en.wikipedia.org/wiki/Made_in_Heaven_(song) Made in Heaven (Queen Song)]|abilities=Time Acceleration
+Universe Resetting|user=[https://jojo.fandom.com/wiki/Enrico_Pucci Enrico Pucci]|image1= <gallery>
+NEW MIH IMAGE PAGE.png </gallery>title1=Made in Heaven|stand_type=Evolved Stand
+Range Irrelevant Stand 
+Fast-paced Stand|relatives=Whitesnake, C-Moon, Weather Report|affiliation=Enrico "Father" Pucci|stand_appearance=A Masculine half-centaur bearing no resemblance to C-Moon. 
+The upper half appears to be riding the horse. The eyes have been replaced with a speedometer, and there are speedometers all over its body.|gender=|eye_color=Blue/yellow (Speedometer)|stand_cry=}}
+{{Quote|"In the name of God, I will smite you!"
+|— Enrico Pucci, Stone Ocean Chapter 158: What a Wonderful World}}
+== Overview ==
+Made in Heaven is the Stand of Enrico Pucci, the main antagonist of JoJo's Bizarre Adventure Part 6: Stone Ocean and the final evolution in [[Whitesnake]]'s line; which concludes [[The Heaven's Plan]].
+
+Made in Heaven is an extremely powerful stand if used correctly. Players can use double accel and time acceleration, then run away easily. It is often criticized because of the low damage of its moves, but the amount of damage you do is irrelevant if you can hit your opponent, but your opponent can't hit you.
+
+Because of its speed, it is extremely difficult to counter this stand. Although every move in MiH's moveset '''''[excluding Universal Reset]''''' isn't the best damage dealer in the game, players still have the stand's speed to deal with, since with Double Accel MiH can deliver M1s and other moves at an alarming rate. For this reason, it is highly recommended to use a Time Stop stand, such as [[Star Platinum: The World]] or [[The World Over Heaven]] to counter this stand's immense speed and deal as much damage in Time Stop as possible. However, even this weakness can be countered with Made in Heaven's Time Acceleration, which shortens and weakens all time related abilities. These factors make Made In Heaven one of the best stands in the game by far.   
+
+<br />
+
+=== '''''How to Obtain''''' ===
+<u>'''''Step 1''''':</u> Obtain [[Whitesnake]] using a stand arrow. '''''This may take a while, as you only have a 2.5% chance of obtaining it.'''''
+
+<u>'''''Step 2''''':</u> Find [[DIO's Diary|Dio's Diary]] and talk to [[Pucci|Enrico Pucci]] near the [[Diavolo (Boss)]] boss. '''''You need to be level 40+ to accept his quest, meaning that you have to be at least prestige 1.'''''
+
+<u>'''''Step 3''''':</u> Complete his quests. This includes killing 30 Thugs, 25 Alpha thugs, 20 Corrupt Police, 15 Zombie Henchmen and 10 Vampires. '''''This may take a while, but it's not very hard to do. It's recommended to use a stand with low cooldowns and/or can deal huge damage quickly. [[Hamon]] will greatly help with this.'''''
+
+<u>'''''Step 4''''':</u>  Once you completed the quests you will get [[Green Baby]]. Use the Green Baby on Whitesnake. This will grant you [[C-Moon]].
+
+<u>'''''Step 5''''':</u> Talk to Enrico Pucci again. You do not need another Dio's Diary. For the rest of the quests, whenever you talk to Enrico, '''''make sure to have C-Moon equipped, or he'll just pointlessly give you the Green Baby mission again.'''''
+
+<u>'''''Step 6''''':</u> He will tell you to defeat [[Heaven Ascension DIO]] and get [[DIO's Bone]]. To get into his dimension you need the [[Saint's Corpse Parts|4 corpse parts]], the [[Pelvis of the Saint's Corpse|Pelvis]], [[Left Arm of the Saint's Corpse|Left Arm]], [[Rib Cage of the Saint's Corpse|Ribcage]], and [[Heart of the Saint's Corpse]]. You can either roll them in the [[Arcade]] '''''(which is NOT recommended because of the very low chances)''''', or win them in the [[Steel Ball Run]]. Ranked SBR will give you one regardless of what place you win, but Casual SBR will give only give a corpse part under the condition that you win 1st place. It is recommended to buy it from the shop for 45000 money instead. You can also find the ribcage on the ground or buy it from the shop for 3500 money. '''''Note that the heart and pelvis are now tradeable.'''''
+
+<u>'''''Step 7''''':</u> Go to [[The Tallest Peak]] and talk to [[Jotaro Kujo (NPC)|Jotaro]] there with the 4 corpse parts. If you don't know where the peak is, travel to the [[Train Station]] and climb the ladders behind [[Prestige Master Rin]] until you reach the top. '''''Jotaro will NOT take your corpse parts, and you will be sent to [[Heaven Ascension DIO|Heaven Ascension DIO's]] dimension'''''. '''''There is a 16% chance he will drop the bone when you kill him.''''' '''''It's advised to get a friend to help you with this, unless you are capable of killing him solo quickly. If you already got [[DIO's Bone]] before getting this quest, you will need to get another one.''''' 
+
+<u>'''''Step 8''''':</u> Once you defeat Heaven Ascension DIO and obtain his bone, talk to Enrico Pucci again. He'll ask you to defeat [[Jotaro Kujo Part 6 (Boss)|Jotaro Kujo]], who is to the right in the water near the Enrico NPC, and obtain his Disc. '''''He's the strongest boss in YBA, so once again you may need a friend to help. After you defeat Jotaro Kujo, there is only a 16% chance of getting [[Jotaro Disc|Jotaro's Disc]]. If you already got the disc before getting this quest, you will need to get another one.'''''
+
+<u>'''''Step 9''''':</u> Once you get the Disc, talk to Enrico Pucci again. He'll tell you to go to the Tallest Peak and summon your C-Moon.
+
+<u>'''''Step 10''''':</u> Once you're on the top of the Tallest Peak, summon C-Moon, and '''''Made in Heaven will be yours!''''' A white light similar to that when using a [[Mysterious Arrow]] or [[Rib Cage of the Saint's Corpse|Rib Cage]] will come out of you, with your screen turning white. It will then clear and reveal Made in Heaven. '''''You'll get an Enrico Pucci hair, unless you have your cosmetic inventory full.''''' <br />
+ Total Skill Points: 50 Points
+<br />
+== Skills ==
+'''Passive -Double Accel:''' While Double Accel is active, your speed is boosted greatly, and your dashes will become instant. Your basic combat moves (M1, M2, Barrage and Finisher) are faster as well.
+
+LMB - '''Punch:''' A simple punch dealing 6.5 damage. When using Double Accel, its speed is doubled.
+
+E - '''Stand Barrage:''' MIH lunges forward and barrages, doing 1.1 damage per hit. During Double Accel, the speed of this move is doubled. (Does not get a speed boost in Time Acceleration.) However, even without Double Acceleration active it is still a very fast barrage. Due to how barrages work in YBA, the damage will increase (due to being faster therefore having more hits with the same barrage time.)
+
+R -  '''Stand Barrage Finisher:''' Heavy Punch doing 13 damage and ragdolling the enemy. If used during Double Accel, this move comes out much faster.
+
+T - '''Knife Throw:''' MIH throws 3 extremely fast knives, each doing 7.5 damage with small stun and a total of 22.5 damage. This move has an extremely quick cooldown at max upgrade. (Can be blocked and doesn't break block.) 
+
+Base: 1 knife, 8 second cooldown. 
+
+Upgrade 1: 6 second cooldown. 
+
+Upgrade 2: 3 knives. 
+
+Upgrade 3: 4.5 second cooldown. 
+
+Upgrade 4: 4 second cooldown. 
+
+Y - '''Speed Slice:''' MIH and the user slice the opponent's neck at lightspeed, dealing 17.5 damage plus an extra 6.3 damage worth of bleed. It breaks block and cannot be parried.
+
+G - '''Heaven's Judgement:''' MIH and the user zoom forward, to then hit the opponent multiple times at lightspeed. This move deals multiple ticks of 5.8 damage per hit, then finally hits the opponent with a punch that deals approximately 12 damage. This attack deals around 45 damage in total. and, like Cream's Dark Space, can be blocked the whole duration of the move. Blockable, but cannot be parried. Little known fact but you can actually be hit during the move, although nobody really knows that.
+
+Z - '''Double Acceleration:''' MIH and the user get a speed boost, causing dashes to become an instant teleport, as well as greatly increasing the speed of all moves.
+
+X - '''Infinite Speed:''' MIH and the user travel at infinite speed behind the target and chops them, dealing 22.5 damage and stunning them. It can be blocked but cannot be parried anymore.
+
+H - '''Time Acceleration:''' MIH and the user accelerate time, causing day and night to go by very fast. When it starts, all of the user's stand move cooldowns (except Double Acceleration) will go away, except for if there was a Universe Reset before you. During this, all time related moves are reduced, all of the user's stand move cooldowns (except Double Acceleration) are reduced at double the normal rate, and the user has over triple the walk speed. Unlike Double Accel, your attack and M1 speed will not increase. Also during this time, all players in a 100 stud radius will be trapped in an invisible barrier along with the user. This move is cancellable and all music during the acceleration becomes several times faster.
+
+H '''- Time Acceleration to Universe Reset:''' This is not an actual move, it is something that can be upgraded, which will happen shortly after the time acceleration finishes. All players that were trapped in the invisible barrier will not be able to move, as their screen becomes more and more white. If you were barraging though, you could still continue doing so. Then there will be a lag-causing moment where everyone including NPCs will be sent into outer space and into a new universe. After everyone is sent into the new universe, the user will heal around 40 health points, and they will have a new identity, aka turning into another player in ROBLOX. Their name will stay the same, except it will say (Alternate Universe) after the name. Every other player also assumes a new identity, and they lose one limb. If they lose an arm they will take more damage, and if they lose a leg they won't be able to run. This can be upgraded so the effects of this Temporary Rename and loss of limbs lasts longer. They also take true damage.[[File:Screenshot 2021-08-21-17-48-54-733.jpg|thumb|alt=MIH's skin, One Above All|link=https://ultraviolet-node-1.brucezhao.repl.co/service/hvtrs8%2F-ymup-%60ixaprg-cdteltwrg.daldmm%2Ccmm-wkkk%2FDine8Sargelsjov_0001%2F0%3A-01%2F15-68%2F56-531.hpe]]
+
+== Combos and Tips ==
+[[Made in Heaven/Combos and Tips]]
+
+== Trivia ==
+*Universe Reset used to deform everyone's bodies affected by it.
+*Since a lot of people will block after you hit them with infinite speed, this will give you a free block break with moves like Scarlet Overdrive or Jaw Breaker along with a free combo/Heaven's Judgement. You can alternatively use knives into a Spec move.
+*Without glitches, this is the fastest Stand in the game.
+*Made In Heaven is one of the few stands with unique M1 and M2 animations, the other ones being [[Anubis/Combos and Tips|Anubis]] and [[Beach Boy]].
+*This Stand's name was changed to 'The Way to Heaven' in-game in order to avoid [[YBA Renames|copyright issues]]. However, this was reverted
+*Due to being the fastest in-game, in both move speed and attack speed (in Double Accel), you can easily punish players for missing combos or to escape after doing a quick combo.
+*Your hitbox does not move during Heaven's Judgement. For example if a SP: TW user did Skull Crusher on you while the move was active, it would hit you.
+*Whitesnake, C-Moon and Made in Heaven may receive a rework in the future as per the result of a voting poll on Uzukee's YouTube channel.
+*Made In Heaven could loop speed back in the days, referring to looping time acceleration and double accel, however, it was removed as per a community vote in an update.
+*A modeler who does work for Uzukee (Ancient_Fruit) has shown a remodel test for MIH, it is unknown when it will be added to the game.
+*There was a bug in the past where if you trade [[C-Moon]] or any stand with timestop resistance for Made in Heaven, they will have the timestop resistance upgrade from C-Moon.
+*If a [[Skins|Shiny Version]] of Whitesnake or C-Moon was used to evolve up to Made In Heaven, not only will the Made In Heaven keep the exact appearance, but the horse will become invisible.
+== Skins ==
+<gallery widths="185" spacing="large">
+File:Shiny shiny.png|MIH's first skin, One Above All (Epic)
+File:Horseman Of Heaven2.png|MIH second and first Limited skin, Horseman Of Heaven (Legendary)
+File:Sr Jukes Angels.webp|Made in Heaven's third skin, Mr. Jukes Angels (Legendary)
+File:Future.png|Made In Heaven 2nd Limited, Made In Christmas Future (MICF) (Legendary)
+File:Made in Pibble.png|Made in Pibble (Uncommon)
+File:Forged in hell mih.png|Mih's 5th skin, Forged in Hell (Common)
+</gallery><br />
+
+== Gallery ==
+<gallery widths="185" spacing="large">
+File:MIH Universe Reset.gif|Made In Heaven's Universe Reset
+File:TWOH-MIH Getting.gif|Getting Made in Heaven/The World Over Heaven
+File:MIH Infinite Speed.gif|Made In Heaven's Infinite Speed
+File:MIH Heaven's Judgement.gif|Made In Heaven's Heaven's Judgement
+File:MIH Double Accel.gif|Made In Heaven's Double Accel
+File:MIH Knives (1).gif|Made In Heaven's Knives
+File:MIH Speed Slice.gif|Made In Heaven's Speed Slice
+File:New Made in Heaven Skill Tree.png|Made in Heaven's Skill Tree
+</gallery><br />
+
+{{NavigationBox}}
+[[Category:White]]
+[[Category:Evolved Stands]]
+[[Category:Healers]]

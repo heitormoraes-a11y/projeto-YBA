@@ -1,0 +1,48 @@
+{{Tab2|link1=Tusk (Act 1)|tab1=Tusk (Act 1)|link2=Tusk (Act 2)|tab2=Tusk (Act 2)|link3=Tusk (Act 3)|tab3=Tusk (Act 3)|link4=Tusk (Act 4)|tab4=Tusk (Act 4)}}
+ '''JoJo's Bizarre Adventure, Part 7 - Steel Ball Run'''
+
+
+{{StandInfobox|image1=NEW TA2 IMAGE PAGE.png|aliases=TA2, Tusk Act 2|abilities=Nails, Golden Nail, Tea Time, Spin Slash|gender=|height=|eye_color=Black|stand_type=Long Range|user=Johnny Joestar}}
+<br />{{Quote|''"Even if my spin falters, I won't die!"|~Johnny Joestar''}}<br />
+==Overview==
+Tusk Act 2 is a long ranged [[Stands|Stand]] used by Johnny Joestar in the Steel Ball Run manga. In YBA, it is obtained by upgrading [[Tusk (Act 1)|Tusk Act 1]] to Act 2 by having [[Spin]] and using the [[Saint's Corpse Parts|Left Arm of The Saints Corpse]], while having Max Worthiness in the [[Character Skill Tree]], and being [[Prestige]] One or higher
+
+Tusk Act 2 adds a couple of abilities on top of Tusk Act 1, with the main one being an upgraded version of the ''Focused Nail Shot'' called ''Golden Rectangle Nail'' and Wormhole Nails. This allows the user to redirect  any missed nail shots to a target, allowing the use of some mind games or less precise aiming. 
+
+Like Act 1, Act 2 is limited in terms of attacks, if its shots are on cooldown, it cannot do much without a [[Specialities|Speciality]]. Wormhole nails can be cancelled upon getting hit, putting the ability instantly in cooldown. Aside from ''Nail Slash'', Tusk Act 2 lacks any sort of physical abilities or any way to engage or disengage from combat aside from ''Nail Glide'' (Which isn't as good as a ''Stand Leap,'' ''Time Skip, etc.'') . 
+
+Usually, this Stand is used with [[Spin]], which is convenient if the user wants to evolve Tusk Act 2 to  Tusk Act 3, as Spin  is one of the requirements for its further evolution.
+
+To evolve Tusk Act 2 to Tusk Act 3, talk to Jesus with Prestige 1 and Spin
+
+<br />
+ Total Skill Points: 32 Points
+<br />
+== Abilities ==
+
+E - '''Nail Shots:''' Shoots 5 nails each dealing 6 damage (around 5-second cooldown & blockable)
+
+R - '''Nail Slash:''' Punches opponent with a golden spiral around your fist dealing 11 damage and knocking the opponent down (around 5-second cooldown & bypasses blocks)
+
+T - '''Golden Rectangle Nail:''' Shoots 1 nail dealing 18 damage and ragdolling the opponent. (around 7-second cooldown & bypasses blocks)
+
+H - '''Tea Time:''' You drink tea that heals you by 17.4 (30.4 by max) (around 20-second cooldown)
+
+Z - '''Nail Glide:''' Glide with your nail for 3 seconds (around 10-second cooldown)
+
+X - '''Wormhole Nails:''' Tusk ACT 2 uses wormholes to redirect nails that have recently been shot and missed, automatically aiming them back at a singular target. When upgraded, extra nail shots will be added to this ability. You can use this ability at medium ranges by pressing X on a target while having your cursor hovered over them.
+
+== Combos and Tips ==
+[[Tusk (Act 2)/Combos and Tips]]
+
+==Trivia ==
+
+*Tusk was leaked on UzuKee's Patreon a day before it was added to the game.
+*In Steel Ball Run, it is very common to find Tusk users, some are Act 1 and are trying to get Left Arm Of The Saints Corpse, some are Act 3 and are trying to get the Pelvis Of The Saints Corpse, other people who have Tusk Act 4 and are playing Steel Ball Run for fun. <br />To turn into Tusk Act 3, you need maximum worthiness, spin, and Tusk Act 2 itself. After you do that you talk to Jesus and he would make your stand into Tusk Act 3.
+
+[[Category:Part 7]]
+[[Category:Evolved Stands]]
+[[Category:Stands]]
+[[Category:Corpse Part Stands]]
+[[Category:Long-Ranged]]
+[[Category:Healers]]

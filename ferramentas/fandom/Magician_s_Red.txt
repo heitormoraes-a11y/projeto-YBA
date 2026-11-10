@@ -1,0 +1,148 @@
+
+
+ '''JoJo's Bizarre Adventure, Part 3 - Stardust Crusaders'''
+<br />{{NewestStandTemplate|title1=|image1=<gallery> 
+Clean NEW MR IMAGE.png|Current
+MR_Old.png|Old
+</gallery>|caption1=|aliases=MR, KFC (fandom)|namesake=[https://en.wikipedia.org/wiki/The_Magician_(Tarot_card) The Magician]|stand_type=Close-Ranged Stand|abilities=Pyrokinesis, Fire Manipulation|stand_cry=|user=Muhammad Avdol|relatives=|affiliation=|stand_appearance=Red|gender=|height=|eye_color=Green|image2=|caption2=}}{{Quote|Any Stand that Avdol hits head-on... finds itself melted in the crossfire!|~ Joseph Joestar}}
+
+
+==Overview==
+Magician's Red appears as a humanoid figure with a bird-like head. It has a heavily muscular upper body and its feathered legs are sometimes covered in burning flames. Its arms have claws instead of nails and it wears dark bracelets on both of its wrists. Originally, the Stand was barefooted, but during Avdol's return, it wore Arabian shoes.
+This stand is typically paired with [[Hamon]] or [[Sword-Style]] due to the increased damage and defense from the former and the combo potential of the latter. 
+
+Magician's Red is the stand of Muhammad Avdol, a core ally of Part 3 of JoJo's Bizarre Adventure. It is based off of the Tarot card, The Magician and its abilities are based off of Pyrokinesis. It's a real powerhouse with it's abilities to manipulate fire and deal immense damage with a wide variety of powerful attacks. The only weakness of this stand is it's slow and weak barrage, as well as the fact that that the majority of it's moves can be blocked, the one exception being Crossfire Hurricane and Stand Barrage Finisher. Specs can cover this weakness.
+ Total Skill Points: 50 Points
+
+==Skills==
+{| class="fandom-table"
+|+
+!Move
+!Damage
+!Cooldown
+!Visualization
+|-
+|'''Passive - Pyrokinesis:''' <u>Crossfire Huricane, Crossfire Huricane Special and Red Bind</u> apply burning damage to hit targets.
+<u>Upgrading the passive makes targets burn for longer.</u>
+|1s / tick
+| -
+|[[File:Passive-MR.gif|thumb]]
+|-
+|'''LMB -'''Your standard M1 attack.
+|<nowiki>5.3 | 0 DP</nowiki>
+7 | Fully Upgraded DP
+| -
+|[[File:LMB-MR.gif|thumb]]
+|-
+|'''RMB -''' Your heavy M2 attack.
+|<nowiki>7.3 | 0 DP</nowiki>
+9.6 | Fully Upgraded DP
+| -
+|[[File:RMB-MR.gif|thumb]]
+|-
+|'''E - Stand Barrage''': Magician's Red releases flurry of punches.
+|<nowiki>0.9 | 0 DP / Punch</nowiki>
+1.2 | Fully Upgraded DP / Punch
+|7s
+|[[File:Barrage-MR.gif|thumb]]
+|-
+|'''R - Stand Barrage Finisher:''' Magician's red hits the opponent with a heavy punch.
+|<nowiki>X | 0 DP</nowiki>
+14 | Fully Upgraded DP
+|7s
+|[[File:RFinisher-MR.gif|thumb]]
+|-
+|'''T - Crossfire Hurricane:''' Magician's Red launches 1 [https://www.google.com/search?q=ankh&rlz=1C1CHBD_enCA916CA916&sxsrf=ALeKk01NuwQF8DRtjD973L_OW5l-ZpstQw:1623021046689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibjc3HkITxAhXMW80KHVnGCUAQ_AUoAXoECAEQAw&biw=1280&bih=577&safe=active&ssui=on#imgrc=wf0z10Yy5cJQ2M ankh] that can pass through multiple targets and on collision with enemy briefly stuns them, upon reactivation/enough distance traveled/collision with terrain ankh explodes creating [https://www.google.com/search?client=opera-gx&q=AoE+meaning&sourceid=opera&ie=UTF-8&oe=UTF-8 AoE] that applies '''Pyrokinesis''' to players standing in it. ''(Unblockable, Cancelable, Explosion: Ragdolls/Block breaks)''
+|<nowiki>15 | 0 DP</nowiki>
+20 | Fully Upgraded DP
+|20s
+|[[File:CFH-MR.gif|thumb]]
+|-
+|'''Y - Crossfire Hurricane Special:''' Magician's Red launches 3 [https://www.google.com/search?q=ankh&rlz=1C1CHBD_enCA916CA916&sxsrf=ALeKk01NuwQF8DRtjD973L_OW5l-ZpstQw:1623021046689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibjc3HkITxAhXMW80KHVnGCUAQ_AUoAXoECAEQAw&biw=1280&bih=577&safe=active&ssui=on#imgrc=wf0z10Yy5cJQ2M ankhs], these can also pass through multiple enemies and damage them. This move has a collective hitbox meaning targets can't take damage from more than one ankh. ''(Blockable, Uncancelable, Brief Stun)''
+<u>Ankh's sizes change based on Cross Manipulation upgrades.</u>
+|<nowiki>21 | 0 DP</nowiki>
+28 | Fully Upgraded DP
+|12s
+|[[File:CFHS-MR.gif|thumb]]
+|-
+|'''Z - Red Bind:''' Magician's Red swings two lashes at opponent, first hit briefly stuns the opponent while the second knocks them back and applies fiery binds to legs and arms of the target rendering them unable to do anything ''(Target can still barrage in one direction)''. ''(Blockable, Cancelable, Stun)''
+<u>Ammount of time spent in bindings increased by Binding upgrades.</u>
+|<nowiki>6 | 0 DP / Hit</nowiki>
+8 | Fully Upgraded DP / Hit
+|20s
+|[[File:RedBind-MR.gif|thumb]]
+|-
+|'''X - Bakugo:''' Magician's red grabs the target by the throat choking then engulfing opponents head in flames knocking them away.  ''(Blockable, Ragdolls, Grab, Uncancelable)''
+|30 Total
+<sup>0 DP Unachievable</sup>
+|18s
+|[[File:Bakugo-MR.gif|thumb]]
+|}
+
+==Skill Tree==
+Cross Manipulation: Buffs Cross Fire Hurricane
+
+*Cross Manipulation I: 2 points
+*Cross Manipulation II: 3 points
+*Cross Manipulation III: 4 points
+
+Pyrokinesis: Buffs [https://www.google.com/search?q=DoT+Meaning+games&client=opera-gx&hs=0q1&sca_esv=31fe99a6d4a2597d&sxsrf=ADLYWII4EkKozd4hNEoNRG99Y3Pd53v3WQ%3A1734619905392&ei=ATNkZ8nKF8GywPAP_53huQQ&ved=0ahUKEwiJz5_airSKAxVBGRAIHf9OOEcQ4dUDCBA&uact=5&oq=DoT+Meaning+games&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhFEb1QgTWVhbmluZyBnYW1lczIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgsQABiABBiGAxiKBTIFEAAY7wVI_QdQtQNYswdwAXgBkAEAmAF-oAGeBKoBAzEuNLgBA8gBAPgBAZgCBqACtgTCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAAGIAEGEMYigXCAggQABiABBiLA5gDAIgGAZAGCpIHAzIuNKAH-R4&sclient=gws-wiz-serp DoT]
+
+* Pyrokinesis I: 2 points
+*Pyrokinesis II: 2 points
+*Pyrokinesis III: 2 points
+*Pyrokinesis IV: 2 points
+*Pyrokinesis V: 3 points
+
+Binding: Buffs Red Bind
+
+*Binding I: 2 points
+*Binding II: 3 points
+*Binding III: 4 points
+
+Crossfire Hurricane: 2 point
+
+Crossfire Hurricane Special: 4 points
+
+Bakugo: 2 point
+
+Red Bind: 4 points
+
+==Combos and Tips ==
+[[Magician's Red/Combos and Tips]]
+
+==Trivia ==
+
+*Magician's Red is the very first Stand fully revealed in the entire series, with its face showing even before Star Platinum's. Coincidentally, [https://en.wikipedia.org/wiki/The_Magician_(Tarot_card) Magician], which is Magician's Red's namesake, is the first card of the Major Arcana.
+*Magician's Red was given a bird-like head so that the the heroes' silhouettes wouldn't look too similar to one another when they're side by side.
+*This Stand has been renamed "Magician's Ember" in-game in order to avoid [[YBA Renames|copyright issues]].
+*In the anime, Cross Fire Hurricane starts out as one, and can be multiplied into as many as Avdol wants. However, in-game you only release 3.
+*The move "Bakugo" is named after a name of Japanese descent that means "explosion" or "powerful".
+*Different from other JoJo fighting games, the moves E and R will not burn the enemy.
+*Magician's Red was reworked on June 6th, 2021.
+*Magician's Red's third skin is based off [https://project-jojo.fandom.com/wiki/Star-Spangled_Banner Star Spangled Banner] from [https://www.roblox.com/games/2295122555/Project-JoJo Project JoJo], one of the first Roblox JoJo games that is now outdated and no longer receiving updates.[https://www.roblox.com/games/2295122555/Project-JoJo]<br />
+
+== Gallery ==
+<tabber>
+|-|Skins=
+<br /><gallery>
+Magician Red Over Heaven2.png|Magician's Red's first skin, Magician's Red Over Heaven.
+Magician's Red Sorcercer's Ember.png|Magician's Red's second skin. Magician's Red Sorcercer's Ember.
+Ssb.png|Magician's Red's third skin, Star Striped Eagle.
+Pjj.png.png|A symbol on Star Striped Eagle's shoulder, in homage to Project JoJo.
+File:Undead Flare Chicken.png|Magician's Red's fourth skin, Undead Flare.
+File:Magician's Red's fifth skin, Sheared Snow Golem.png|Magician's Red's fifth skin, Sheared Snow Golem (Christmas 2022 Limited).
+Aceass.png|Magician's Red's sixth skin, Ace (Legendary)
+</gallery>
+
+</tabber>
+
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:Red]]
+[[Category:Close-Ranged]]
+[[Category:Long-Ranged]]
+[[Category:Part 3]]
+[[Category:Orange]]
+
+{{NavigationBox}}

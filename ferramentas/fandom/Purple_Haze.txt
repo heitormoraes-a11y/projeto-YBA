@@ -1,0 +1,71 @@
+[[File:Image 2026-03-30 115027208.png|thumb|Virus Vessel Skin]]
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo'''
+
+
+{{Character|name = Purple Haze|image =<gallery>
+Purple Haze Clean Image.png|Current
+PH_Old.png|Old
+</gallery>|affiliation = [https://jojo.fandom.com/wiki/Pannacotta_Fugo Pannacotta Fugo (Stand Master)]|birthDate = 1985|deathPlace = |species = Close-range Stand|gender =|height =|eyes = Red, Purple, Yellow or Brown.|imagecaption = Purple Haze, Pannacotta Fugo's stand.|birthPlace = Naples, Italy|aliases = Purple Smoke (localized name)
+
+Violet Fog (former YBA name)
+
+PH (Shortened)}}{{Quote|Savage! It attacks like an explosion... and disappears like a storm.|-Leone Abbacchio}}<br />
+==Overview==
+Purple Haze is the stand used by [https://jojo.fandom.com/wiki/Pannacotta_Fugo Pannacotta Fugo], in Part 5 of JoJo's Bizarre Adventure, Golden Wind. It is obtainable from using an arrow with a 5% chance. This stand gets its damage off of others through poison damage, which can be upgraded to extremely poisonous levels. The poison damage cannot stack, but can be stacked with other effects such as Bleed, Burn and Freeze.   
+
+ Total Skill Points: 46 Points
+
+==Skills==
+T - Killer Virus. '''In-Game Description:''' Press T to shatter a bulb on victims or objects, unleashing your deadly virus.
+
+Z - Bulb Shoot. '''In-Game Description:''' Press Z to shoot a virus bulb, which shatters shortly after being shot.
+
+Y - Infectious Strike. '''In-Game Description:''' Press Y to strike the ground, launching 4 virus bulbs around you
+
+H - Rage Mode. '''In-Game Description:''' Deal and receive damage to fill your rage bar. Press H when it's full to temporarily become immune to your own virus and gain increased damage and defense.
+
+== Skill Tree ==
+Virus: I = 1 point, II-III = 2 points, IV = 3 points, V = 4 points
+
+Bulb Breaker Punch: 2 points
+
+Bulb Throw: 2 points
+
+Bulb Throw II: 2 points
+
+Bulb Throw III: 2 points
+
+Bulb Breaker Ground Punch: 2 points
+
+Bulb Breaker Ground Punch I: 2 point
+
+Bulb Breaker Ground Punch II: 2 points
+
+Rage Mode: 4 points
+
+Anger Issues I-III: 1 point
+
+Anger Issues IV: 2 points
+
+Constant Rage I: 2 points
+
+Constant Rage II-IV: 3 points  
+== Combos and Tips ==
+[[Purple Haze/Combos and Tips]]
+
+== Skins ==
+[[File:Magellan ( Purple Haze ).png|thumb|'''Magellan ( Purple Haze )'''|border|none]]
+==Trivia==
+
+*This Stand's poison can harm the user while Rage Mode is inactive.
+*In Bunko Volume 10, Araki explains that the plot originally had Fugo working as a ''spy'' for Diavolo that Giorno would have eventually been forced to kill. Having gone through grim feelings at the time, Araki couldn't handle the thought of betrayal of a dear friend and felt that the readers would have been disappointed had he followed through, thus the goodbye scene at the quay of San Giorgio Maggiore happened.
+*In the light novel, "Purple Haze Feedback", Fugo evolves his stand into Purple Haze Distortion, though it doesn't quite count as a requiem stand,  it has its strengths, as it can eat up viruses, cancelling them out.
+*Purple Haze is one of the most powerful Stands in Golden Wind, having its poison be able to kill anyone within 30 seconds.
+
+{{NavigationBox}}
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:Purple]]
+[[Category:White]]
+[[Category:Close-Ranged]]
+[[Category:Part 5]]

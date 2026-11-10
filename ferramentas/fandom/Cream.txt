@@ -1,0 +1,107 @@
+ 
+
+ '''JoJo's Bizarre Adventure Part 3 - Stardust Crusaders'''
+
+
+{{Character|name = Cream|image = <gallery> 
+Cream_Remodel_YBA1.png|Current
+Cream-1.png|Old
+7035661607579039 (1).png|Older
+
+</gallery>|affiliation = [https://jojo.fandom.com/wiki/Vanilla_Ice Vanilla Ice (Stand Master)]|birthPlace = |deathDate = |deathPlace = |species = Close-range Stand|gender =|eyes = Yellow|aliases=Void (Former YBA name)}}{{Quote|“One by one, each of you shall fall in line, as I scatter your atomic fragments across the deepest recesses of the void.”|-Vanilla Ice}}<br />
+==Overview==
+
+Cream is the [[Stands|stand]] of Vanilla Ice from Part 3 of JoJo's Bizarre Adventure, also known as ''Stardust Crusaders''. It is a humanoid stand with a cloak around its head covering most of its head region. Notable features include its glowing yellow eyes and pure white skin color that at times appear malleable in the anime. It was a monster-type stand that had extra-dimensional properties, sending anything it hit when it ate itself into a ball to a "dark dimension inside its mouth", effectively erasing it from this dimension. The only ones capable of escaping this dimension are Cream itself and its user.  
+
+Cream can fluctuate from a really strong stand to a really weak one all based on one factor, that being if your opponent knows how to fight Cream or not and what stand they are using. The reason why is because Cream is a stand that mostly focuses on a snowballing effect after the leg is removed, but due to Dark Space being blockable and Void Surprise being quite easily dodged with a leg, it makes fighting someone who knows how to dodge and block an uphill battle.  
+
+That doesn't mean however that Cream doesn't have options to use despite this, as your spec's stun move (whether that be Liver Shot, Zoom Punch or Multi Steel Balls) can combo into Void Surprise's downward hitbox to get a leg off and hopefully start the snowballing. It doesn't have enough stun to true combo, but considering Void Surprise is unlockable then depending on the stand your opponent it using then it might as well be. Cream is also one of the best Stands to win [[Steel Ball Run]] because of the limb erasure and high damage and health.    
+
+There is a 5% chance to get Cream from a [[Mysterious Arrow]].  
+ Total Skill Points: 45 Points
+<br />
+==Skills==
+
+'''E - Stand Barrage:''' Inflicts a slow  barrage of punches, dealing '''1.3 damage per hit''' at maximum destructive power.
+
+'''R - Stand Barrage Finisher:''' Delivers a devastating heavy punch, inflicting '''16.1 damage''' at maximum destructive power.
+
+'''T - Devastation:''' Cream engulfs itself and its user, transforming into a destructive rolling sphere that charges forward, dealing '''25 damage''' and severing a limb upon impact. Additionally, this move applies a '''0.6x10s bleed effect for 10 seconds'''.
+
+'''Y - Dark Space:''' Cream and its user vanish into the void, executing rapid zig-zag void attacks. Each strike inflicts '''25 damage''' and consumes a limb. If the enemy dashes backward, this move will strike twice.
+
+'''H - Dimensional Dip:''' Cream devours itself and its user, retreating into the dark dimension for a short duration. While inside, the user is '''immune to all damage'''. This ability functions similarly to '''King Crimson’s Time Erase''', but with an extended duration and no position reset. While inside the dimension, the user's '''screen visibility is significantly impaired''', and enemies can only be identified by their usernames. Movement speed is slightly increased, but sprinting is disabled. This ability can be countered by '''Return to Zero'''.
+
+'''Z - Void Surprise:''' Cream and its user submerge into the ground dealing '''20 damage if the enemy was nearby''' before executing a surprise attack on the nearest enemy, severing their limbs and dealing '''20 damage''' ('''25 with Hamon Charge'''). The attack range increases with skill upgrades. It cannot target '''piloted Stands''' and bypasses blocking but can be dodged by dashing. This move is highly effective in combos, especially when forcing opponents to exhaust their dash abilities using moves like '''Hamon’s Scarlet Overdrive''' or '''Vampire’s Space Ripper Stingy Eyes'''. Upon landing, the move applies a slight stun, synergizing well with abilities such as '''Life Drain'''.
+
+'''X - Madness Sorrow:''' Cream engulfs itself and its user, unleashing a furious flurry of void attacks. Each strike deals '''27.5 damage''', but after the move is executed, the user experiences exhaustion, temporarily disabling sprinting.
+
+Additionally:
+
+* '''Void Surprise''' deals '''20 damage upon entry''' and an additional '''20 damage upon exit'''.
+
+== Skill Tree ==
+<tabber>
+
+|-|Active=
+Infinite void: Unlock to be in your dimension for longer and to increase madness sorrow and Dark space moves by 1 for each upgrade (base 3)
+*Infinite void I: 1 Point
+*Infinite void II: 1 Point
+*Infinite void III: 2 Points
+*Infinite void IV: 2 Points
+*Infinite void V: 2 Points
+
+Devour: Unlock to eat yourself faster, reducing windup on all moves
+*Devour I: 1 Points
+*Devour II: 2 Points
+*Devour III: 2 Points
+*Devour IV: 3 Points
+*Devour V: 4 Points
+
+Void Mastery: Unlock to increase the range of Devastation and Void Surprise.
+*Void mastery I: 1 Points
+*Void Mastery II: 2 Points
+*Void Mastery III: 2 Points
+*Void Mastery IV: 2 Points
+*Void Mastery V: 2 Points
+Destructive Power: Unlock to increase the destructive power of your stand.
+*Destructive Power I: 1 Point
+*Destructive Power II: 2 Points
+*Destructive Power III: 2 Points
+*Destructive Power IV: 2 Points
+
+|-|Skills=
+'''Dimensional Dip (1 Point):''' Devour yourself from reality to another dimension.
+
+'''Dark Space (2 Points):''' Devour yourself and then perform a rapid zigzag moves to erase others from existence. base 3, increases with each infinite void upgrade by 1
+
+'''Void Surprise (1 Point):''' devour yourself and surprise the nearest person around you from below.
+
+'''Devastation (2 Points)''': devour yourself then plow forward
+
+'''Madness sorrow (3 points)''': devour yourself and perform a frenzy of rapid void attacks. base 3 increases with each infinite void upgrade by 1
+</tabber>
+[[File:Empty.png|thumb|7x7px]]
+
+== Combos and Tips ==
+[[Cream/Combos and Tips]]
+
+==Trivia==
+
+*Creams Dimensional Dip and D4C/D4C:LT’s Dimension Hop share a dimension. Meaning you can chase down a Cream or D4C user who hopped dimensions, though, this is harder to do with cream since you are blinded.
+*Cream is the first stand in JoJo's Bizarre Adventure to have dimension related moves.
+*Vanilla Ice, the user of Cream, is a reference to an American rapper with the same name.
+*Cream is one of two Stands in Part 3 which has a musical reference as a namesake (the other one being Tenore Sax, which is a reference to a Tenor Saxophone.)
+*In the anime, after Cream devours itself and the user, the user is sent to a different dimension inside Cream's mouth, forming a ball of nothingness that sends anything it touches to that dimension, "erasing it" from our dimension. The ball can move at fast speeds and can't be detected with any of the five senses, but at the cost of the user not being able to see what it is going towards, since they are in the Stand's dimension.
+== Gallery ==
+<gallery>
+File:Cream's First Shiny, Vanilla ice Cream..png|Vanilla Ice Cream (Common)
+File:Cream's second shiny, Nocturne Cream..png|Nocturne (Epic)
+File:Cream's Christmas shiny, Cream Nog..png|Cream Nog (Uncommon) (Christmas 2022 Limited)
+File:Hollow Ace.png|Hollow Ace (Legendary) (Halloween 2026 Limited)
+</gallery>{{NavigationBox}}
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:White]]
+[[Category:Close-Ranged]]
+[[Category:Part 3]]

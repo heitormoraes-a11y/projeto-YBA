@@ -1,0 +1,93 @@
+ JoJo's Bizarre Adventure, Part 6 - Stone Ocean
+{{Quote|
+Stone Free. I shall break free from this sea of stone.|— Jolyne Cujoh}}{{NEWSTANDTEMPLATE|image1=<gallery>
+Stone free clean current.png|Current
+Stone Free Old.jpg|Old
+</gallery>|abilities=String Manipulation|aliases=Stone Ocean (Localized Name)|stand_name=Stone Free|yba_name=}}
+
+==Overview==
+Stone Free is the [[Stands|Stand]] of Jolyne Kujo, the main protagonist of JoJo's Bizarre Adventure: Stone Ocean. Stone Free's main ability is to turn the user to strings and freely manipulate them. 
+ Total Skill Points: 51
+
+==Moves==
+LMB - '''Punch:''' This short move with a short cooldown deals 8.9 damage at max destructive power and can be combo'd 5 times, ultimately dealing 44.5 damage if all hit.
+
+E - '''Stand Barrage:''' Stone Free unleashes a flurry of fast punches, each dealing 1.5 damage per hit at max destructive power.
+
+R - '''Stand Barrage Finisher:''' Stone Free unleashes a heavy punch dealing 17.7 damage at max destructive power.
+
+Z - '''Home Run:''' The user throws a baseball. If it hits, it will deal 15 damage. 
+
+C - '''Ora Kicks:''' The user and the stand start releasing a flurry of kicks in sync, dealing 2.7 damage per hit with a finishing hit dealing 16.1 damage (at max destructive power). The barrage can be blocked and parried (albeit extremely hard to parry, as it's at its very first kick only), but the last hit block breaks. This move deals roughly 35 damage in total. 
+
+G - '''String Beatdown:''' The user throws a punch, dealing 8.1 damage. If hit, the user will wrap the opponent in string. Once in string, the user will barrage the opponent for 0.3 damage per hit. Once this barrage is done, it will be finished with a punch dealing 6.4 damage. After this, it will be followed up by another punch dealing 6.4 damage and then another barrage, this time dealing 0.9 damage per hit. It will be finished by a punch dealing damage proportionate to how much HP the target has left. (All damage assumes you have max destructive power.) This can be parried but goes through block. This is an [[Executes|Execute]] move.  
+
+X - '''String Barrier:'''  The user’s strings form a pyramid in front of the user dealing 30 damage and makes victims unable to move or turn while being blinded by various strings covering the screen with cooldown of 35 seconds (down to 20 with persistence III) . This move bypasses block, with no stun if blocked but dealing the full damage
+
+T - '''String Lasso:''' The stand launches a lasso, then the user and stand get launched to the cursor if in the range and the T key is held. If the cursor is over an enemy, the move will instead do 19.3 damage and pull the victim in, with 15 seconds cooldown.
+
+Y - '''String Slam:''' Stone Free charges towards a victim if they are in range in an animation similar to barrage finisher. opponent takes 8.1 dmg when confirmed, followed by spinning the victim in a circle to slam them by their necks, dealing 22 dmg (totally dealing 30.1, up to 37.6 with W.Zeppeli Hamon). This move ragdolls at the end, which can be used to end combo. Blockable + cancellable
+
+U - '''String Bandage:'''  The user using string on his right hand and healing himself giving 25 HP and 20 defense.
+==Skill Tree==
+<tabber>|-|Passive=
+
+'''Persistence:''' Reduces cooldown of String Barrier
+*Persistence I: 2 points
+*Persistence II: 3 points
+*Persistence III (into 20): 3 points
+
+'''Range:''' Increases the range of String Lasso range and reduce cooldown of String Slam by 3 seconds each
+*Range I (into 24): 1 point
+*Range II (into 21): 2 points
+*Range III (into 18): 2 points
+*Range IV (into 15): 2 points
+*Range V (into 12): 2 points
+|-|Skills=
+*'''Home Run''': 3 point
+
+*'''String Beatdown:''' 4 point
+
+*'''Ora Kicks:''' 3 point
+
+*'''String Slam:''' 3 point
+
+*'''String Barrier:''' 3 point
+
+*'''String Lasso:''' 2 point
+</tabber>[[File:Stone free skill tree.png|thumb|Stone Free's Skill Tree]]
+==Combos and Tips==
+[[Stone Free/Combos and Tips]]
+
+==Trivia==
+
+*Stone Free has the most stand crashes in the game, having three of them. They include Ora Kicks, Home Run and String Beatdown.
+*The first model of Stone Free was never released.
+*Stone Free is one of the only stands who's actual moves do little damage compared on how expensive its destructive power is.
+*Stone Free is the second non-evolution stand from Part 6.
+*During the Halloween Update, Uzu (The owner of YBA) leaked Stone Free at the end of a [https://youtu.be/RxYMf3y_fBE video] he posted.
+*Due to the Stone Ocean anime's soundtrack officially releasing after the three batch of episodes, Stone Free's teaser uses audio from the [https://www.youtube.com/watch?v=EeCX8Y0a278 official Stone Ocean trailer] released on Youtube.
+*Months before its release, anyone with the Select Pose Gamepass would be able to use the Stone Free user idle pose, despite the stand itself being unobtainable.
+*This stand along with [[Tusk (Act 4)]] cannot have its beatdowns reflected by [[D4C: Love Train]]. Although, unlike Tusk Act 4, which's beatdown completely bypasses Love Train, Stone Free's beatdowns get the first hit reflected and nothing else happens. This also applies to [[White Album|White Album's]] Gently Weeps, Home Run and [[Crazy Diamond|Crazy Diamond's]] Crazy Beatdown. The reason why this happens is unknown, but it's likely that it's because the beatdowns were created without considering reflecting moves.
+* This is one of the only stands in the game that doesn't match it's aura when summoned. The other of which being [[Gold Experience Requiem|Gold Experience Requiem.]]
+* This is the first and only Stand to have a female voice and canon female Stand User.
+* This stand used to have 1 other moves which were String Pilot that slammed the enemy to the ground.
+* This is the first stand to feature the old String Bandage move.
+
+==Gallery==
+<gallery>
+File:Pumpkin patch(halloween limited) (epic).png|Pumpkin Patch (Uncommon) (Halloween 2022 Limited)
+File:Festive Free (Uncommon), A Limited Christmas 2022 .png|Festive Free (Uncommon), A Limited Christmas 2022 Skin
+File:MCU Spider-Man.png|MCU Spider-Man
+File:Stone free venom.png|Venom Stone Free
+File:Stone Free Star Platinum.png|Stone Platinum
+File:Rock Unleashed.png|Rock Unleashed
+File:Comic Venom.png|Venom Spider-Man
+File:Tendots.png|"Scp-2521" ..I.....I..I. (Epic)
+</gallery>
+[[Category:Stands]]
+[[Category:Close-Ranged]]
+[[Category:Healers]]
+[[Category:Part 6]]
+[[Category:Stone Free]]
+[[Category:Blue]]

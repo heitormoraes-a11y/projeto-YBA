@@ -1,0 +1,112 @@
+{{Tab2|link1=Gold Experience|tab1=Gold Experience|link2=Gold Experience Requiem|tab2=Gold Experience Requiem}}
+
+
+ '''JoJo's Bizarre Adventure, Part 5 - Golden Wind'''
+
+
+{{StandInfobox|title1=Gold Experience|image1=<gallery>
+GE Current model.png|Current
+Image 2021-04-05 134651.png|Old
+GE im.png|Oldest
+</gallery>|aliases=Golden Spirit (Old anti-copyright name)
+
+
+Golden Wind (localized name)
+
+GE|namesake=[https://en.wikipedia.org/wiki/The_Gold_Experience The Gold Experience]|stand_type=Close-Ranged|abilities=Life Creation, Healing|stand_cry=Muda|user=[[Giorno Giovanna]]|affiliation=Passione
+Team Bucciarati|stand_appearance=Gold and Purple|eye_color=Purple|relatives=[[The World]] (DIO)
+
+[[Star Platinum]] (Jotaro Kujo)
+
+[[Hermit Purple]] (Joseph Joestar)
+
+[[Crazy Diamond]] (Josuke Higashikata)|gender=}}{{Quote|Life... arise... Be born, a new existence.|~Giorno Giovanna''}}<br />
+== Overview ==
+'''Gold Experience''' is the Stand of [[Giorno Giovanna]], the main protagonist in JoJo's Bizarre Adventure: Vento Aureo. The Stand is known for its ability to give life to inanimate objects. It can be obtained by a [[Mysterious Arrow|Stand Arrow]]. There is a 2.5% chance of obtaining Gold Experience. 
+
+Using a [[Requiem Arrow]], Gold Experience can be turned into [[Gold Experience Requiem]] at Prestige One or higher. 
+
+Thanks to some recent buffs, Gold Experience has become a foe to be reckoned with and in some scenerios outshines it's [[Gold Experience Requiem|Requiem form]]. Its three biggest upsides are "Life Giver" which not only does a truckload of damage but also has enough stun to combo, "Self Distribution" which makes Gold Experience one of the most tanky stands in the entire game, and "Summon Tree" which is an effective move to get farther away from the opponent and also do a somewhat large amount of damage.
+
+Overall the [[Gold Experience Requiem|Requiem form]] is still better in most circumstances (especially against time stopping stands), but Gold Experience is no laughing matter.
+ Total Skill Points: 46 Points
+
+== Skills ==
+E - '''Stand Barrage:''' A fast Stand Barrage dealing 1 damage each punch (Maxed Destructive Power)
+
+R - '''Barrage Finisher:''' A heavy punch that does around 11-13 damage (Maxed Destructive Power)
+
+X - '''Kick Barrage:'''  Gold Experience throws a flurry of kicks forth at his target which finishes with a strong kick that is very fast and powerful. This ability can be perfect blocked at the start, but if you're late it will be a guaranteed barrage. (1.3 barrage at the kicks, 7.1 damage at the last kick.)
+
+Y - '''Self Distribution:''' You use Gold Experience to heal yourself. The amount healed can be increased via Distribution upgrades. This move can heal 32.5 health with Distribution maxed. This also replaces limbs that have been erased or cut off, and heals poison, burn, and bleed.
+
+U - '''Life Distribution''': Gold Experience heals another player by punching. If the player does not have Sturdiness, they will also be immobilized for a short amount of time. Heals 32.5 health with Distribution maxed.
+
+G - '''Seven Page Beatdown (7 Page Muda):''' Gold Experience throws a punch. This first hit can be parried. When it lands, the target gets dealt 8.1 damage. Following that, they get punched repeatedly for 5.5~ seconds. Each punch deals 0.4 damage. The final hit deals more damage the lower the victim's HP is. This move has an 80 second cooldown. Il Vento D'oro will also play during the beatdown. This move is an '''[[Executes|Execute]]''' move.      
+
+H- '''Summon Tree:''' Gold Experience summons a tree underneath you, damaging and ragdolling your opponent while flinging you upwards. This can be used to climb buildings, and to avoid time stop damage if timed right.
+
+Z - '''Life Creation:''' Gold Experience breaks rocks and transforms them into an eagle which flies towards the nearest opponent. The damage of this move can be upgraded by putting skill points into Life Manipulation. This move is unblockable but is very easily avoidable.
+
+T - '''Life Giver:''' Gold Experience delivers a block-breaking, parriable heavy punch that turns a random limb into a frog. You will deal more damage to them if it takes their arm, while removing a leg makes them unable to run. The effects will last until your opponent is defeated or their leg comes back. This also applies rapid 0.8 ticks of bleeding. You can hit the frog and the damage will be transferred to the victim that had one of their limbs turned into the frog. The victim can block and parry attacks from the frog, but they can also have their block broken. Be wary of counters coming from the user. '''The lifetime of the frog scales with the Life Manipulation node.''' 
+
+==Skill Tree ==
+<tabber>
+|-|Passive=
+Distribution: Increases the amount of health healed.
+* Distribution I: 2 Points 
+* Distribution II: 2 Points 
+* Distribution III: 2 Points 
+* Distribution IV: 2 Points 
+* Distribution V: 2 Points
+
+Life Manipulation: Buffs the life form.
+* Life Manipulation I: 2 points 
+* Life Manipulation II: 2 points 
+* Life Manipulation III: 2 points
+|-|Skills=
+"Self Distribution": 1 point, heals the player.
+
+"Distribute Life": 2 points, heals players in the vicinity that are hit by the punch.
+
+"Summon Tree": 1 point, summons a tree from under the player to be used as an escape route or offensively.
+
+"Summon Life Form": 2 points, summons a bird which attacks the enemy.
+
+</tabber>
+== Combos and Tips ==
+[[Gold Experience/Combos and Tips]]
+
+== Trivia ==
+* Many people dislike users of this stand due to the fact users are known to run and heal.
+*Golden Experience's Kick Barrage looks the same as TW's Kick Barrage.
+*The name to this Stand is a reference to the album "The Gold Experience" by Prince.
+*The "Summon Frog Life Form" has been fixed and is now one of the strongest moves in the game.
+*This is the only Stand from the Joestar bloodline that has achieved Requiem.
+*This stand (with max Destructive Power) is possible to deal more damage than its upgraded version, [[Gold Experience Requiem]] ( if GER isn't in its Awakened state ) However, in JoJo's Bizarre Adventure GER is canonically much stronger than Gold Experience in destructive power.
+*You can barrage back while in a GE beatdown. It wont damage the user but, it will damage anybody outside of the beatdown. 
+*In past updates, you could block the last hit of the beatdown and be block broken, or use a stand counter as [[King Crimson|King Crimsom]]'s Epitaph, this, letting you take less damage from it. This is since been fixed.
+*Tree Creation's move was actually completely reworked. It used to summon a tall tree, without leaves, that players could stand on. It was usually used for getting into a safe spot for healing, and could also stall matches if the opponent did not have a vertical movement ability.
+*Its first skin is a reference to the Ichiban Kuji Second anniversary figure of Gold Experience.
+*The Kick Barrage move is a reference to when [https://www.youtube.com/watch?v=-UT1XnWaK_A Giorno killed Ghiaccio] with a similar attack.
+
+==Gallery==
+<tabber>
+|-|Skins=
+<gallery widths="185">
+Image (8).png|Gold Experience's First Skin, Heaven Spirit.
+Biblically-Accurate-Experience.png|Gold Experience's Second Skin, Biblically Accurate Experience.
+New skinyba undead experienceg 1665941861 6aacc15c progressive.jpg|Gold Experience's Limited Skin, Dead Experience
+</gallery>
+</tabber>
+[[Category:Stands]]
+[[Category:Close-Ranged]]
+[[Category:Healers]]
+[[Category:Part 5]]
+[[Category:Purple]]
+[[Category:Gold]]
+[[Category:Yellow]]
+[[Category:Tips and Tricks]]
+[[Category:Humanoid]]
+
+{{NavigationBox}}

@@ -1,0 +1,61 @@
+{{Tab2|link1=Red Hot Chili Pepper|tab1=Red Hot Chili Pepper|link2=Chili Pepper (Alternate Universe)|tab2=Chili Pepper (Alternate Universe)}}
+ '''JoJo's Bizarre Adventure, Part 4 - Diamond is Unbreakable'''
+{{NewestStandTemplate|image1=Rhcp.png|namesake= [https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers Red Hot Chili Peppers]|stand_type = Long-Ranged Stand|abilities = Electricity Absorption |user= Akira Otoishi|stand_appearance= Yellow|aliases = RHCP, Yellow Hot Chili Pepper (YBA Name)}}
+
+{{Quote|''"See that? That's Morioh's energy! It's all mine! My power!"''|~Akira Otoishi}}
+
+== Overview ==
+
+Red Hot Chili Pepper (also known as RHCP) is the stand of Akira Otoishi, a major antagonist of Jojo's Bizarre Adventure: Diamond is Unbreakable. Its main ability is to manipulate electricity for use in attacks. In Your Bizarre Adventure the user can also play an electric guitar to fill a meter to amplify its damage and its effects.
+ Total Skill Points: 54 Points
+
+== Skills ==
+'''- Passive:''' RHCP passively gains a set amount of Electric Charge every few seconds.
+
+M1 - '''Punch:''' A regular M1 that deals 7 damage per hit, ultimately dealing 35 damage per M1 combo.
+
+E - '''Barrage''': Red Hot Chili Pepper unleashes a quick barrage of punches, each punch dealing 1.2 damage.
+
+R - '''Barrage Finisher''': Red Hot Chili Pepper throws a heavy punch, dealing 14 damage.
+
+H - '''Pilot''': Control Red Hot Chili Pepper's movement and attacks from afar. Has a decently far Pilot range, and the Stand moves fairly quickly. 
+
+G - '''Electric Guitar''': Red Hot Chili Pepper's user plays an electric guitar, increasing the Stand's Electric Charge as well as increasing your health regeneration. The bar will increase depending on how long you hold the button for. Having enough charge will boost Stand abilities and enable the use of Electrify. Red Hot Chili Pepper's Electric Charge does have a small passive charge even when Electric Guitar isn't being used.
+
+U - '''Electrify''': When activated, Red Hot Chili Pepper's Pilot speed increases, as well as M1 and M2 combat speed and slightly increases the stun for M1 and M2, and also makes the user harder to Stand crash. Electric Charge is required to Electrify. Unlike the rage bar, the Electric Charge meter does not have to be full to activate this move, and the move itself can be toggled by pressing the key. When Electrify is active, the passive regeneration of Electric Charge is disabled. Dashing while this is active will make you teleport (Like Made in heavens Double acceleration)    
+
+T - '''Lightning Jabs''': Red Hot Chili Pepper lunges forward, unleashing a flurry of electric jabs, each dealing 5 damage. If your cursor is not over an enemy, the move will target the nearest person. The move deals 4.3 damage and faster start-up if the user has enough Electric Charge.
+
+Y - '''Pinky Slash''': Red Hot Chili Pepper slashes the opponent with its electrically charged pinky finger, dealing 20 damage. The move deals more damage with "Electric Charge" and has a slightly wider hitbox. Also applies a small bleed DoT effect. If the user has enough Electric Charge, the DoT is stronger and lasts for longer.
+
+Z - '''Electric Flash''': Red Hot Chili Pepper emits a bright flash of electricity, blinding nearby players. With Electric Charge active, this move's hitbox is greatly expanded and becomes good for fending off aggressive close-ranged stands. '''Note that you're not able to blind ragdolled players.'''
+
+X - '''Electric Discharge''': Red Hot Chili Pepper discharges a beam of electricity with a very small hitbox toward the user's cursor, each pulse of electricity dealing 3 damage. Having Electric Charge increases the range and damage to 2.5.
+
+== Combos and Tips ==
+[[Red Hot Chili Pepper/Combos and Tips]]
+
+== Trivia ==
+*The teleport dashes that you get when using Electrify strongly resemble Dragon Sage's Lightning Dash from Rogue Lineage.
+*Two of the four Shinies of Red hot Chili Peppers are from different anime/manga/ light novel series, Golden Frieza being from Dragon Ball Super, And Misaka from A Certain Magical Index/ A Certain Scientific Railgun.
+*There is a meme in YBA where Red Hot Chili Pepper's Stand Summon voiceline sounds like the word "easy", therefore leading some people in the community to spam summoning RHCP to annoy people/or when they kill somebody.
+*There is a glitch that if someone uses their Time Stop while you are holding Electric Guitar, you will be using it infinitely. This can be used to your advantage with Electrify, however you should note that you will not be able to move while doing this.
+*One song that plays while using the Electric Guitar is a song by the actual Red Hot Chili Peppers, used in Guitar Hero I.
+*There is a glitch where your lightning jabs will have infinite range if you go to the edge of your pilot and use it.
+*On release, Electric Guitar used to play various songs from the power metal band “Dragonforce”. This was later changed due to copyright reasons
+*There's a small chance for Electric Guitar to play "Vs. Susie" from deltarune
+
+==Gallery==
+<gallery>
+File:RHCP Mikoto Misaka.png|Red Hot Chili Peppers' First skin, Misaka Mikoto.
+File:Golden frieza.png|Red Hot Chili Peppers'  second skin, Golden Frieza.
+File:Actual RHCP.png|Red Hot Chili Peppers' third skin, Actually Red Hot Chili Pepper.
+File:Ice Cold Chilly Pepper.png|Red Hot Chili Peppers' First Limited Skin, Ice Cold Chili Pepper
+File:RHCP.webp|Bell Pepper - Chili Pepper Alternate Universe (Epic) [2024 Christmas Limited]
+</gallery>
+[[Category:Part 4]]
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:Long-Ranged]]
+
+{{NavigationBox}}

@@ -1,0 +1,109 @@
+{{Tab2|link1=King Crimson|tab1=King Crimson|link2=King Crimson Requiem|tab2=King Crimson Requiem}}{{NewestStandTemplate|image1 = <gallery>
+KcrRemodel.png|Current
+KCR with New Animation FIXED.png|Old
+NEW KCR IMAGE PAGE.png|Older
+</gallery>|aliases = KCR
+Emperor Crimson Requiem(Localized Name)|namesake = [https://en.wikipedia.org/wiki/King_Crimson King Crimson]
+
+[https://en.wikipedia.org/wiki/Epitaph_(song) Epitaph (Song)]|abilities = Time Skipping/Erasure
+Future Predictions
+
+Dimension Shifting|user = Diavolo|stand_appearance = Maroon, Red,|eye_color = Green|title1=|caption1=|stand_type=Close Ranged}}{{Quote|"It is only the results that remain in this world! All the actions you take in a world where time is erased are meaningless!"|-Diavolo}}
+
+=Overview=
+King Crimson Requiem is a hypothetical [[Stands|Stand]] based on [[King Crimson]], if [[Diavolo (Boss)|Diavolo]] had got a hold of the Requiem Arrow instead of [[Giorno Giovanna]]. King Crimson Requiem was renamed "Scarlet King Requiem" in-game in order to avoid [[YBA Renames|copyright issues]] until the 1.3 update. This is one of the few non-canon stands in the game, as other Requiem stands such as [[Killer Queen: Bites the Dust]] or [[Star Platinum: The World]] were based off of events within the series of JoJo's Bizarre Adventure.
+
+While King Crimson Requiem has gone through a number of balance changes and updates, it has nonetheless remained one of the strongest stands in the game, able to hold it's own against almost any opponent. With high destructive power, superb movement, and deadly moves, there are very few downsides to using this stand.
+
+One major downside that must be mentioned however is the opportunity cost, which comes from evolving King Crimson into King Crimson Requiem in the first place. While King Crimson Requiem shares many of the same moves, a notable loss is Impale, a deadly execution move (one which does more damage based on missing health), along with a lowering of overall destructive power compare to King Crimson.
+
+The argument over which stand is better has raged on for years, through the original overpowered King Crimson Requiem, the Impale into chop bug which made King Crimson broken, to the most recent changes where King Crimson Requiem has regained the original chop move. Whichever is better currently is up to the individual players, as both have their opinions. 
+
+Due to King Crimson Requiem's status as an unofficial stand, many of its moves are hypothetical, leading to inspiration from other sources. One notable example of this is Raging Demon, which is from the Street Fighter character Akuma, along with its design representing a more mysterious and artificial humanoid stand. Epitaph, unlike King Crimson, is holographic, with it looking less expressive due to its design. King Crimson itself is now red, with gears and a much more expressive face.
+
+King Crimson Requiem's special attacks focuses on attacking enemies stealthily, with it being able to trap enemies inside of Reality Marble, which lets it use Dimension Slash effectively, along with Raging Demon. Its barrage and damage are extremely good, with it requiring not much thought or tactical idea compared to other stands (such as King Crimson). This stand is one of the best stands for dealing with exploiters because of its high damage output, counter, and reality marble to prevent them moving freely.
+ Total Skill Points: 63 Points
+
+==Skills==
+'''LMB''' - '''Punch:''' King Crimson Requiem throws a punch, dealing 9.7 damage (12.1 with [[Hamon]] charged) with max Destructive Power. This can be chained up to 5 times, dealing 48.5 damage if all punches hit.
+
+'''RMB - Heavy Punch:''' Double tapping m2 gives a strong punch that ragdolls the enemy, dealing 12.9 damage (16.1 with Hamon charged) -Perfect blockable
+
+'''E''' - '''Stand Barrage:''' A flurry of fast punches that deal 1.6 damage (2 with Hamon charged) per punch. This is the second highest-damaging barrage in the game, falling behind by [[D4C: Love Train]] by only a measly 0.1 damage, in tie with Tusk act 4 and TWOH.
+
+'''R''' - '''Barrage Finisher:''' A strong punch that ragdolls the enemy, dealing 19.3 damage (24.1 with Hamon charged).
+
+'''T''' - '''Epitaph:''' A counter move, which landed, will teleport you behind your opponent and stun them for a very short amount of time. Epitaph can also be upgraded to have an attack activate when you successfully counter the opponent (with 20 seconds cooldown, 30 if raging demon was upgraded), the attacks being: 
+
+*'''Chop Passive:''' King Crimson Requiem teleports behind the opponent and perform a Chop on them dealing 12.9 damage + bleed (3x0.2 per second for 10 seconds "6", totally 18.9) before ragdolling them.
+* '''Raging Demon:'''  King Crimson Requiem teleports to the opponent an lets out a flurry of punches all around them, dealing 1.6 damage (2 with Hamon charged) per hit and hitting up to 20 times, totally dealing 32 damage (40 with Hamon charged). Many people consider this to be a [[Beatdowns|Beatdown]] of sort, by nature of it being an inescapable animation of rapid punches and can also deal a good amount of damage.
+* Each epitaph upgrade adds 0.5 second to its window only.
+
+'''H''' - '''Dimension Slash:''' Summons a scythe that does 25-32,2 damage (31.5-40.3 with Hamon charged) and cuts through reality itself, cutting a limb off of every player hit by it and ragdolling them. Missing legs will slow the player, disabling their run button until it's healed or until they reset. A missing arm will increase the damage they take. This move has a very long range. You can use shift-lock while this move is active to turn the scythe before it slashes. If the opponent is blocking, Dimension Slash block breaks. This move is uncancelable by stunning but can be canceled if you are ragdolled while performing the move.
+
+Y - '''Chop''': King Crimson Requiem delivers a heavy chop which deals 12.9 (16.1 with hamon) damage at max Destructive Power, applying bleed (0.3x3 per second for 10 seconds "9", totalling 21.9 (25.9 with hamon), and stuns the opponent for approximately a second and a half, making it a great combo starter/extender. Cannot be canceled upon being interrupted during startup sequence unless ragdolled. 
+*'''Hemorrhaging Strike''': Makes the chop stronger, bypass block and ragdoll the opponent, but makes the move parriable.
+
+
+'''Z''' '''(HOLD)''' - '''Erase Time:''' King Crimson Requiem erases time, allowing the user to move freely within it, avoiding any source of damage. It resets anyone caught in it back to their original state a few seconds before, giving you the opportunity to close the distance between you and your opponent, as long as you keep pressing the button (just as you'd do with barrage), as much seconds as your skill tree allows (1st,3rd,5th add a second, 2nd and 4th add 2 seconds), as in what appears above the base time erase 30 seconds cooldown (3-10). The cooldown isn't reduced by using erase for less seconds.
+
+'''X''' - '''Time Skip:''' Teleports the user to where their mouse cursor is pointing, teleports vertically only if user jumps and aims above (16 seconds cooldown). using shift lock aiming is better for vertical traveling while mouse cursor (non shift-locked) skipping is preferred for ground time skips
+
+'''C - Reality Marble:''' KCR traps all targets within close proximity into erased time. This erased time dimension blinds the target(s) and will almost completely darken their screen with red atmosphere, while trapping them in a 6x6 (walks) box for the duration with the user being the center. It will also slow them down. The duration can range from somewhat short to rather long depending on upgrades. The user can not pose as long as it's active (according to dimensional ruler upgrade, each adding 5 seconds) and for additional 8 seconds (13-33 seconds)
+
+''Note: Blinding does not affect the pathfinding of NPCs/bosses. It's also good to know that, for team fights, the slowing effect of Reality Marble stacks with other slowing moves, like [[White Album|White Album's]] Gently Weeps, completely stopping an enemy's movement. For more information, see [[Status Effects|Effects]].''
+
+==Combos and Tips==
+[[King Crimson Requiem/Combos and Tips]]
+
+PLUCK:
+
+T + B (pluck) + Z (pluck) + E (hold) + Z (pluck) + M1  (3) + V (pluck) + H
+
+==Trivia == 
+*Old Raging Demon's duration was based on how laggy you were, so if you were very laggy, you could get almost 1/2 your health taken.
+*In the past, posing was possible while using Reality Marble, this was eventually changed due to being considered as an unfair method of obtaining "free heals".
+*KCR, RHCPAU, and [[The World Over Heaven|TWOH]] are the only Non-Canon Stands featured in Your Bizarre Adventure.
+**Unlike TWOH, KCR is an original creation created by the developers.
+*This Stand was the 3rd ever Requiem added to the game.
+*The move '''Raging Demon''' is based on Akuma's special move from Street Fighter, Raging Demon.
+*King Crimson Requiem used to have a ''Chop'' move but was removed and given to [[The World (Alternate Universe)]]. the move was later re-added in the v1.59 update.
+*The audio you hear during Reality Marble (If you’re the one being Reality Marble’d) originates from [https://www.youtube.com/watch?v=RIVsqPMu95A here]. (Slight spoiler)
+* King Crimson Requiem's '''Dimension Slash''' sound came from [https://youtu.be/b2XNAHEqta8 here].
+*The move '''Reality Marble''' is based on the [https://typemoon.fandom.com/wiki/Fate_series Fate] series.
+*King Crimson Requiem's old design was based on an unused sketch design of King Crimson that was never used for the final design.
+*King Crimson Requiem is the only stand in the game where the primary movement utility is not on the bottom row of keys by default.
+
+==Skins==
+<gallery widths="185">
+File:Deimos Crimson.png|KCR's 1st skin, Deimos Crimson (Epic).
+File:SukunaKCR.png|KCR's 2nd skin, Sukuna (Legendary).
+File:RobloxScreenShot20240301 185315893.png|3-rd Grim Reaper (Legendary skin-Halloween Limited)
+File:Imagen 2023-01-07 095606849.png|KCR's 4th skin, King Krampus (Uncommon, Christmas-Limited)
+File:Blkcr.png|KCR's 5th skin, Goku black    (Epic)
+</gallery>
+
+==Gallery==
+<gallery>
+File:Ezgif.com-gif-maker.gif|KCR's Old Raging Demon
+File:KCR Barrage.gif|KCR's Barrage 
+File:KCR Heavy.gif|KCR's Heavy 
+File:KCR Raging Demon.gif|KCR's Raging Demon
+File:KCR Dimensional Slash.gif|KCR's Dimension Slash
+File:KCR Time Erase.gif|KCR's Time Erase
+File:KCR Time Skip.gif|KCR's Time Skip
+File:Raging Demon-0.gif|Akuma's Original Raging Demon
+File:New KCR Remodeled Scythe.png|Close-Up on KCR's Scythe released in the Christmas Update
+</gallery>
+[[Category:Stands]]
+[[Category:Evolved Stands]]
+[[Category:Non-Canon]]
+[[Category:Close-Ranged]]
+[[Category:Requiem Stands]]
+[[Category:Red]]
+[[Category:Black]]
+[[Category:Humanoid]]
+[[Category:Part 5]]
+
+{{NavigationBox}}
+[[Category:Evil]]
