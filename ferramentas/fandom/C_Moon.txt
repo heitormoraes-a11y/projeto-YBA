@@ -1,0 +1,146 @@
+{{Tab2|link1=Whitesnake|tab1=Whitesnake|link2=C-Moon|tab2=C-Moon|link3=Made in Heaven|tab3=Made in Heaven}}
+
+
+ '''JoJo's Bizarre Adventure, Part 6 - Stone Ocean'''
+
+
+{{NewestStandTemplate|title1=C-Moon|aliases=See Moon (localized name)
+Full Moon (ASB localized name)
+
+G-Moon (YBA name)|namesake=[https://en.wikipedia.org/wiki/C_Moon C Moon]|abilities=Gravity Manipulation, Localized Time Acceleration (Not in the game), Short-Ranged Gravity Shifting, Surface Inversion Fist|user=Enrico Pucci|stand_appearance=Much like Whitesnake it has the "GΔCT" pattern repeated on it which symbolizes DNA, but instead has a green torso, green arms, chest, back, and head. It also has a armored spike vest, and an arrow belt.|eye_color=Red|image1= <gallery> 
+C-moon4.png|Current
+NEW CMOON IMAGE PAGE.png|Old
+Cmoonyba2.PNG|Older
+CMoonYBA.png|Even Older
+</gallery>
+stand_type=Long-Distance, Evolved|relatives=|affiliation=[[Green Baby]]
+[[Whitesnake]]|stand_cry= USHA!|image2=https://your-bizarre-adventure.fandom.com/wiki/File:C_moon.png|stand_type=Medium-Distance Stand (Most attacks are short ranged however aside from pilot attacks like [[Whitesnake]])}}<br />{{quote|''"This ability...I will name it "C-Moon". 'Invincibility'...Is that what I've obtained? Even before the coming of the New Moon...But, I must keep on telling myself that it is not 'power' that I desire, but that ultimate 'happiness' for mankind."|-Enrico Pucci''}}
+
+== How to obtain ==
+This Stand can be achieved by giving [[Pucci|Enrico Pucci]] [[DIO's Diary]] and completing a quest for him which involves defeating multiple hostile NPCs. (10 Vampires, 15 Zombie Henchmen, 20 Corrupt Police, 25 Alpha Thugs and 30 Thugs.) Doing so will give the player the [[Green Baby]]. '''The player must have Worthiness unlocked before fusing the Green Baby with [[Whitesnake]].''' When this Stand was first added, it had the name "G-Moon" in-game in order to avoid [[YBA Renames|copyright issues]], but was later changed. '''This stand can evolve further, turning C-Moon into [[Made in Heaven]].'''
+
+==Overview==
+C-Moon is an evolved [[Stands|Stand]] belonging to [[Pucci|Enrico Pucci]], the main villain of Part 6, requiring [[Whitesnake]] to achieve, with assistance from [[Pucci|Enrico Pucci]].  
+
+This Stand is typically used with [[Boxing]] due to its high damage output. C-Moon overall deals great damage with amazing crowd control, being able to perform well in fights with multiple players, at the cost of a fairly small moveset and parriable moves. This stand's weakness is that the stuns rely solely on Gravitational Shift and Negation, and the other moves are close range and can be stopped as well, One good thing about it is that the moves are rather quick and fatal. Gravitational Shift though has a long start up, is cancellable, is blockable and doesn't buff Surface Inversion Punch and Uppercut to The Moon anymore.
+
+C-Moon is also one of the few evolved Stands that is allowed in the Casual [[Steel Ball Run]] [[Gamemodes|Gamemode]], the other Stands being [[Tusk]] Acts 2 and 3.
+ Total Skill Points: 63 Points
+<br />
+==Skills==
+
+LMB - '''M1:''' C-Moon punches forward, dealing 8.9 damage.  
+
+E - '''Stand Barrage:''' C-Moon performs a fast barrage to the opponent, dealing 1.2 Damage per hit.  
+
+R - '''Stand Barrage Finisher:''' C-Moon throws a heavy punch at the opponent, dealing around 17.7 damage.
+
+T - '''Uppercut To The Moon:''' C-Moon performs an uppercut, dealing 12.9 damage, and sending the opponent into space. They are then launched towards wherever your cursor is, to the ground, dealing 12.9 damage to the person who was launched. Whoever is hit by the launched player (except the C-Moon user) will take damage too. The person who is launched down will receive a short period of stun while gaining iframe for some first second(the stun time is longer than iframe. It used to stand crash the target, but no longer does so. - '''Block Break, Parriable'''   
+
+Y - '''Surface Inversion Punch:''' C-Moon punches the opponent, dealing 12.5 damage and knocking them back with another 12.5 damage. This also applies bleed damage. The first hit of this move is blockable, but the second hit bypasses block. Note the second hit on this move can hit ragdolled players and knock them back even further. - '''Blockable (first hit), Ignores Block (second hit)'''
+
+X - '''Gravitational Negation:''' This is a counter move with I-frames. C-Moon's user shifts gravity around them. .Upon activating, the user and C-Moon will glow purple and can barely move. If an opponent attacks during this, they will get stunned and pinned to the ground, allowing for follow-up combos. The counter can last for a bit longer if Precision is upgraded on the skill tree. Be aware that mistiming this move may allow you to get punished.
+
+Note: This counter does have range , using a projectile or an attack that is way far away will still hit C-Moon's user and ignore the counter, although the counter's range is still very large.
+
+Z - '''Gravitational Shift:''' C-Moon shifts gravity around them, dealing 9.7 damage to anyone close by and also giving them a red screen stun (much like [[Whitesnake]]'s Acid Spit.) This slows everyone in the area and greatly reduces the height at which they jump. For the user however, it increases their jump height slightly and speed significantly. Does not affect ragdolled players. - Blockable, Cancellable
+
+Note: '''Gravitational Shift''' has a very limited range , therefore it is recommend to only be used after '''Uppercut To The Moon''' or  '''Gravitational Negation''' to '''increase''' the stun time. It is should also be noted that '''Gravitational Shift does not hit upon immediately using,''' there is a significant '''gap''' between when '''Gravitational Shift  hit''' and when the animation end so use it wisely
+
+H - '''Pilot:''' C-Moon detaches from the user's side and can be remote controlled up to a certain radius away from the user, while still retaining all of its moves. This allows for moves to be used without slowing down. However, you can still take damage if either your stand or yourself are hit. Stand crashing resets Pilot.
+
+Note: Upon using pilot, the player is given  0.2 seconds of endlag and can not use any move beside walking. This is to prevent players from extending range with C-Moon's moves'''.'''  Additionally, with proper timing between walk animation and '''Uppercut To The Moon/Surface Inversion Punch/Stand Barrage Finisher/M2,''' players can hide the animation the mentioned moves to prevent parrying and punishing.
+
+<tabber>
+|-|Passive =
+'''Time Stop Resistance:''' Removed from the game
+
+|-|Active =
+'''Gravitational Shift:''' Press Z to shift gravity around you, harming others but buffing you.
+*Base unlock: 1 Point
+
+'''Gravity Upgrade:''' Increases duration of Gravitational Shift.
+
+*Gravity Upgrade I: 2 Points
+*Gravity Upgrade II: 2 Points
+*Gravity Upgrade III: 3 Points
+*Gravity Upgrade IV: 3 Points
+*Gravity Upgrade V: 5 Points
+
+'''Uppercut to the Moon:''' Press T to perform an uppercut that shifts gravity upwards to those who get hit. The shifted gravity will be reversed downwards, causing a devastating impact.
+
+'''Gravitational Negation:''' Press X to negate all incoming attacks.
+Base unlock: 2 Points
+
+'''Precision:''' Increases the counter frame of Gravitational Negation.
+*Precision I: 3 Points
+*Precision II: 4 Points
+*Precision III: 5 Points
+
+'''Pilot:''' Press H to manually pilot your stand.
+Base unlock: 1 Point
+
+'''Stand Range''': Increases the distance C-Moon can travel in pilot mode.
+*Stand Range I: 1 Point
+*Stand Range II: 2 Points
+*Stand Range III: 3 Points
+*Stand Range IV: 4 Points
+*Stand Range V: 5 Points
+
+'''Surface Inversion Punch:''' Press Y to imbue gravitational energy into a punch that will rip victims into shreds.
+Base unlock: 2 Points
+
+'''Stand Speed:''' Increases C-Moon's speed in pilot mode.
+
+*Stand Speed I: 1 Point
+*Stand Speed II: 2 Points
+*Stand Speed III: 3 Points
+*Stand Speed IV: 4 Points
+</tabber><br />
+
+== Combos and Tips ==
+[[C-Moon/Combos and Tips]]
+
+== Technique ==
+Using Surface Inversion Punch and then landing a ragdolling move such as Heavy Punch right after cancels the ragdoll and can be used to catch opponents off guard  and land moves on getup. Popular YouTuber CoolGuyGamer uses this often and is credited with discovering it. His gameplay is great footage for learning how to play C-Moon to its fullest.
+
+== Trivia ==
+*Before the Crazy Diamond rework update, there was a bug where if a [[Crazy Diamond]] would use Rock Trap and a C-Moon user would use Uppercut to The Moon, the victim would fly to the sky extremely quickly. 
+*C-Moon's X move (Gravitational Negation) is not actually a canon ability, and was never shown within the JoJo's Bizarre Adventure manga. Although, it does show similarities to [https://jojowiki.com/Echoes#ACT3:_3_Freeze Echoes Act 3's] ability, 3 Freeze, which makes the target extremely heavy.
+*The rocks seen in C-Moon's Uppercut to the Moon move are found beneath the map, and you can see them if you fall out of [[Mr. President]]'s room. This can also be seen when your Pilot glitches through the floor. (Happens when you call back your Pilot during a time stop)
+*Using Gravitational Shift with an item in hand will actually cause the item to glow in the same purple fashion that the user and Stand do. This also works with Gravitational Negation.
+*C-Moon's current idle is based on a manga panel in the fight between C-Moon and Jolyne.
+*C-Moon's old Uppercut to Moon, at the time before the map revamp, the move stand crushes
+*In the past, there is a bug where if you use Uppercut To The Moon, jump, and do Surface Inversion Punch, it will stack together. This bug was commonly used in PvE and PvP, and is now patched.
+*All Whitesnake skins carry on to C-Moon, and subsequently carry unto Made In Heaven.
+
+== '''Skins''' ==
+<gallery>
+File:Vela nova.webp|Vela Nova (Epic)
+File:Moon Of Christmas Present.jpg|Moon Of Christmas Present (Christmas) (Common)
+File:7b1b5de8-0d15-481a-b2ee-303b36d9b910.jpg|Devil Moon (Halloween) (Epic)
+File:Static-assets-upload5885936158446339477.webp|Yuki Tsukumo (Legendary)
+File:Mint cmoon.png|Old Mintsnake (C-Moon Variant) (Common)
+File:New Mintsnake C-Moon.png|New Mintsnake (C-Moon Variant) (Common)
+File:Deimos C-Moon Var.png|Deimos Snake (C-Moon Variant) (Epic)
+</gallery>
+== '''Gallery''' ==
+<gallery>
+File:C-Moon UTTM.gif|Uppercut To The Moon
+File:C-Moon SIP.gif|Surface Inversion Punch
+File:C-Moon Gravitational Shift.gif|Gravitational Shift
+File:C-Moon Counter.gif|Gravitational Negation
+</gallery>
+
+{{NavigationBox}}
+<br />
+[[Category:Stands]]
+[[Category:Evolved Stands]]
+[[Category:Humanoid]]
+[[Category:Close-Ranged]]
+[[Category:Part 6]]
+[[Category:Pilot]]
+[[Category:Green]]
+[[Category:White]]
+[[Category:Grey]]
+[[Category:Evil]]

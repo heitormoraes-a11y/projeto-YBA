@@ -1,0 +1,51 @@
+{{Tab2|link1=Tusk (Act 1)|tab1=Tusk (Act 1)|link2=Tusk (Act 2)|tab2=Tusk (Act 2)|link3=Tusk (Act 3)|tab3=Tusk (Act 3)|link4=Tusk (Act 4)|tab4=Tusk (Act 4)}}
+ '''JoJo's Bizarre Adventure, Part 7 - Steel Ball Run'''
+
+
+{{StandInfobox|image1=NEW TA3 IMAGE PAGE.png|aliases=TA3, Golden Nail III|abilities=Nails, Golden Nail, Tea Time|gender=|height=|eye_color=Black|stand_type=Long Range|user=Johnny Joestar|stand_cry=|affiliation=TA1, TA2, TA4}}
+<br />{{Quote|''"If I'm lost, I won't shoot, but I'm not lost anymore."|~Johnny Joestar''}}<br />
+==Overview==
+
+Tusk Act 3 is a long ranged [[Stands|Stand]] used by Johnny Joestar in the Steel Ball Run manga. 
+
+In addition to maintaining every previous ability, Act 3 adds ''Wormhole Uppercut''. This gives Tusk the extra dynamic of being able to engage combat. The attack has some crowd control as the attack inflicts knock down, which allows the user to dash away to increase the distance between the user and the target, as Tusk is purely a long range stand. Wormhole Nails can also redirect any nail based attacks that did not hit someone. The attack gets cancelled if the user gets hit during the animation start up, which emphases the importance for a Tusk Act 3 user to keep their distance from whoever they are fighting. 
+
+One main plus for Tusk Act 3 is its low cooldowns, allowing to be easily used to zone. Tusk Act 3 is typically also paired with [[Spin]] which adds extra durability via ''Golden Skin'', which reduces damage from attacks from other Stands that can zone, such as [[The World (Alternate Universe)]] or to survive close range attacks, which Tusk Act 3 does poorly at. However, while the lack of melee attacks can be fixed by upgrading Tusk to [[Tusk (Act 4)|Act 4]], Act 4 generally has longer cooldowns, with more skill points required to unlock skills. Act 4 is also banned in the [[Steel Ball Run|Casual Steel Ball Run]] [[Gamemodes|Gamemode]], which Tusk Act 3 isn't. 
+
+== How to Obtain ==
+To obtain Tusk Act 3, you must speak with [[Jesus (NPC)|Jesus]] while having [[Spin]] and Tusk Act 2. Note that Jesus will despawn after the dialogue ends.
+<br />
+ Total Skill Points: 36 Points
+<br />
+== Abilities ==
+
+E - '''Nail Shots''': Shoots 5 nails each dealing 6 damage (around 5-second cooldown & blockable)
+
+R - '''Nail Slash''': Punches opponent with a golden spiral around your fist dealing 11 damage and knocking the opponent down (around 5-second cooldown & bypasses blocks)
+
+T - '''Golden Rectangle Nail''': Shoots 1 nail dealing 18 damage and knocking down the opponent. (around 7-second cooldown & bypasses blocks)
+
+H - '''Tea Time''': You drink tea that heals you by 20.4 (35.4 at max) (around 20-second cooldown)
+
+Z - '''Nail Glide''': Glide with your nail for 3 seconds (around 20-second cooldown) ( You can use move like Nails,T,H etc.) ( after successfully used the H move Your Nail Glide will be canceled after that)
+
+X - '''Wormhole Nails''': Tusk ACT 3 uses wormholes to redirect nails that have recently been shot and missed, automatically aiming them back at a singular target. When upgraded, extra nail shots will be added to this ability. You can use this ability at medium ranges by pressing X on a target while having your cursor hovered over them.
+
+C - '''Wormhole Uppercut''': sinks into the floor and comes up to attack the enemy you have your cursor on (as long as you can see their name tag) otherwise it will redirect to the nearest enemy, dealing 8.3 damage
+
+== Combos and Tips ==
+[[Tusk (Act 3)/Combos and Tips]]
+
+==Trivia ==
+
+*Tusk was leaked on [https://www.roblox.com/games/14886284324/Hai-guys Hai Guys] a day before it was added to the game.
+*In Steel Ball Run, it is very common to find Tusk users, some are Act 1 and are trying to get a Left Arm Of The Saints Corpse, some are Act 3 and are trying to get the Pelvis Of The Saints Corpse, other people who have Tusk Act 4 are most likely playing Steel Ball Run for fun.
+*For a short while after Tusk Act 4's wormhole uppercut rework, using the wormhole uppercut with Tusk Act 3 would result in a rather silly bug where Act 3 does the short barrage Act 4 does after landing the uppercut. This was fixed shortly after.
+*Many players consider Tusk Act 3 better than Tusk Act 4, as the cooldowns are much shorter, which allows for more combo potential when partnered with Spin.
+
+[[Category:Evolved Stands]]
+[[Category:Long-Ranged]]
+[[Category:Stands]]
+[[Category:Part 7]]
+[[Category:Corpse Part Stands]]
+[[Category:Healers]]

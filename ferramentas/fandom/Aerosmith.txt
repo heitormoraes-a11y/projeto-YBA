@@ -1,0 +1,91 @@
+
+
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo'''
+{{NewestStandTemplate|title1 = Aerosmith|image1 = <gallery>
+Aerosmith Alone.png|Pilot
+Aerosmith And His User.png|With User
+</gallery>|namesake = [https://en.wikipedia.org/wiki/Aerosmith Aerosmith]|stand_type = Long-Range|stand_cry =Vola|user = Narancia Ghirga|aliases = Li'l Bomber (localized name)
+Airsmith (YBA name)|affiliation = Passione|stand_appearance = Small Red Bomber Airplane}}<br />{{Quote|Volare Via...|-Narancia Ghirga}}
+
+==Overview==
+Aerosmith is a long-ranged Stand used by [[Narancia]]. This Stand can be obtained by using an arrow, with an 5% chance. This Stand is NOT rare, in the sense that you can pilot it from long ranges.
+
+In the past, Aerosmith was considered to be one of the worst, if not THE worst, stands in the game. Vola Barrage used to do a pitiful 0.2 damage on average (0.4 if charged with [[Hamon]]), making it perhaps the weakest move in the game. However, in an update, Aerosmith was given a massive damage boost, with the minimum 0.2 barrage upgraded to a minimum 1.3 barrage, as well as slight changes to the other 2 moves. 
+
+Overall, this stand has been transformed from one of the weakest stands in the game into a incredibly powerful stand that can function well as both a main and support stand. All of your moves now have massive damage output [that are relatively difficult to avoid if Aerosmith is in pilot mode] and have very generous hitboxes that are quite difficult to miss. However, as with all non-TS resist stands, Time Stop is still the biggest counter to Aerosmith, but aside from glaring game balance issues, it is recommended to play Aerosmith if you have not already done so, since all of your moves are massive damage dealers, and the stand mechanics are unique when compared to most generic stands in YBA.
+ Total Skill Points: 44 Points
+==Skills==
+R - '''Propeller Charge:''' This sends Aerosmith flying forward, dealing 34.2 damage upon contact with max Sharpness, (42.8 with Hamon charged. 57.8 against Vamp.) You can perfect block it, but it's difficult to do so. However, if you are too predictable, the opponent can easily perfect-block it if you use Propeller Charge right after Vola Barrage. This move also block breaks and is cancellable.
+
+'''G''' - '''Big Man:''' Drops a massive bomb at Aerosmith's location, dealing 40 damage, CD 25 seconds.
+
+'''Y''' -  '''Air Support:''' Acts similarly to Vola Barrage, however does more damage, has longer range and lasts less time.
+
+E - '''Vola Barrage:''' This move sends a wave of bullets in the direction the user is facing, dealing 1.9 damage (2.1 with Hamon charged. 2.8 against Vamp.) repeatedly for 6-7 seconds (~3.5 seconds without the Stocked Magazines upgrade). This can stun opponents. Can't be perfect-blocked but blockable, although it is impossible to block the entire move with Stocked Magazines, as it will eventually consume all your block power and block break. this move is cancellable.
+
+Z - '''Pilot:''' Freely move around and attack from afar. Unlike other pilot stands, Aerosmith's pilot can fly through objects, making it incredibly useful against hiding opponents. 
+
+T - '''Little Boy:''' This move drops 3 bombs at Aerosmith's position. (1 bomb without the Artillery upgrade). Each bomb deals 18 damage (22.5 with Hamon charged). If all the bombs hit it deals 54 damage (67.5 with Hamon charged). This move stand crashes the enemy and can't be blocked or perfect-blocked, but it can be cancelled. 
+
+==Combos and Tips==
+[[Aerosmith/Combos and Tips]]
+
+==Skill Tree ==
+<tabber>
+|-|Passive=
+Stand Range: Increases the range that Aerosmith can travel away from the user.
+* Stand Range I: 1 point
+* Stand Range II: 1 point
+* Stand Range III: 1 point
+* Stand Range IV: 2 points
+* Stand Range V: 2 points
+* Stand Range VI: 2 points
+* Stand Range VII: 3 points
+* Stand Range VIII: 4 points
+Wingman: 4 points, decreases cooldown for all skills.
+|-|Active=
+Sharpness: Increases the damage of the propeller blades. This also increases the damage of Propeller Charge.
+* Sharpness I: 1 point
+* Sharpness II: 1 point
+* Sharpness III: 1 point
+* Sharpness IV: 2 points
+* Sharpness V: 2 points
+* Sharpness VI: 2 points
+* Sharpness VII: 3 points
+* Sharpness VIII: 3 points
+* Sharpness IX: 4 points
+|-|Skills=
+'''Pilot:''' 1 point, allows the player to manually pilot Aerosmith.
+*Mastered Piloting: 3 points, increases Aerosmith's speed in manual pilot mode.
+
+'''Propeller Charge:''' 1 point, by pressing 'E', Aerosmith charges at a target in a spin with its propellers.
+
+'''Vola Barrage:''' 1 point, shoots a barrage of bullets.
+*Stocked Magazines: 3 points, makes Vola Barrage last longer.
+
+'''Little Boy:''' 1 point, drops a bomb on a target.
+*Artillery: 3 points, makes Little Boy fire 3 bombs.
+</tabber>
+
+==Trivia== 
+* When Used With Hamon, If The Opponent Does Not Have a spec like [[Boxing]] or the stand [[White Album]] which decreases damage, it does 2.1 per hit (2.8 against vampires)
+*Aerosmith is the only stand which actually has a damaging hitbox on its summon.
+*Aerosmith's Pilot can move through walls.
+*Cursed Areo Platinum Skin is the only skin variation that has the ORA stand cry when using Vola Barrage.
+* Aerosmith's skill tree is in the shape of the front of the plane.
+
+==Gallery==
+<gallery>
+File:Image 2021-10-02 155212.png|Aerosmith's First Skin, Aerosmith Over Heaven.
+File:Static-assets-upload2848333477218470420.png|Aero's Second Skin, Cursed Aero Platinum.
+File:Higher Res Ms Aersosmith.png|Aero's Third Skin, Ms. Aerosmith
+File:Aerosmith's fourth skin, Aerosleigh.png|Aerosmith's fourth skin, Aerosleigh
+</gallery><br />
+
+[[Category:Stands]]
+[[Category:Non-Humanoid]]
+[[Category:Red]]
+[[Category:Long-Ranged]]
+[[Category:Yellow]]
+[[Category:Part 5]]
+[[Category:Pilot]]

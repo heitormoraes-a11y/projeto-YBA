@@ -1,0 +1,197 @@
+{{tab2|link1=Killer Queen|tab1=Killer Queen|link2=Killer Queen: Bites the Dust|tab2=Killer Queen: Bites the Dust}}
+
+{{NEWSTANDTEMPLATE|stand_name=Killer Queen: Bites the Dust|aliases=-Deadly King: Bites the Dust <br />
+-DK:BTD <br />
+-Killer Queen: Bites the Dust <br />
+-KQ:BTD <br />
+-BTD|user=Yoshikage Kira|abilities=Bomb Transmutation
+Time Reversal|stand_type=Close Range
+Long Distance <br />
+Evolved|appearance=Roughly humanoid 
+appearance, along with features commonly found on cats; pink|namesake=[https://www.youtube.com/watch?v=2ZBtPf7FOoM: Killer Queen ] <br />
+[https://www.youtube.com/watch?v=rkHF_JMnB8o: Sheer Heart Attack] <br />[https://www.youtube.com/watch?v=rY0WxgSXdEE: Another One Bites the Dust] <br />|image1=<gallery>
+New bites the dust 2.webp|Current
+KQBTDTrelloImage.png|Old
+Stupid kqbtd old model.png|Oldest
+
+</gallery>|title1=|yba_name=Deadly King: Bites the Dust|eye_color=Red/Pink|gender=Male (User's)|stand_cry=[[File:btdstandsummon.mp3]]}}{{Quote|"Go ahead, corner me all you want! When I reach my absolute limit, I'll just activate Bites the Dust!"
+|-Yoshikage Kira}}
+
+== Overview ==
+Killer Queen: Bites The Dust, is a [[Stands|Stand]] obtained by using a [[Requiem Arrow]] on [[Killer Queen]]. This stand belonged to Yoshikage Kira, the main antagonist of JJBA Part 4, Diamond is Unbreakable. He obtained the ability "Bites the Dust" after being stabbed by The Arrow the second time. The ability gave him access to a 3rd bomb which re-winded time by an hour every time the victim exposed his identity and killed all those who learned it.
+
+Killer Queen: Bites the Dust is a humanoid cat that emits a purple-black aura. It features a crack on its face from the damage it took in its final battle with Josuke's [[Crazy Diamond]]. It also features Stray Cat, a separate stand that controls air, stowed away in its stomach chamber. Instead of red eyes, it has glowing pink eyes with white pupils.
+
+This Stand is most commonly paired with [[Hamon]] thanks to it's easy to use nature and damage increase. [[Boxing]] and [[Vampirism]] do make their appearances from time to time due to how bulky Boxing makes you, <s>and Vampirism's Vaporization Freeze Counte</s>r.
+
+Like it's pre-evolution, Killer Queen: Bites The Dust possesses a unique, offensive niche. Almost all of it's unique abilities are unblockable while ragdolling and most Stand Crash the opponent.  
+
+However, while the Stand has many unique qualities, it has multiple flaws to compensate for it. Unlike other Stands, Killer Queen: Bites The Dust's attacks are ''very'' vulnerable to invincibility frames thanks to the fact that they need to loop in order to play the game. This is most apparent with Sheer Heart Attack, who is commonly Time Skipped or stand jumped away from, resulting in no damage. The same applies for counters and damage redirection. All of it's attacks are cancellable, making it difficult to utilized in close combat. Bites The Dust looks good on paper, but it has an overly long startup to the point where dying while using it is common. It's immense cooldown prevents it from being of much use in any regard, even if your opponent doesn't walk out of it. Speaking of which, for a move with one of the longest cooldowns in the game, Bites The Dust does not deal enough damage nor heal enough HP to warrant it's cooldown (worse yet, it can be dealt with by Return to Zero, by far having the longest cooldown of any move affected by it). Killer Queen: Bites The Dust has one of the costliest skill trees in the game, costing 59 skill points in all.
+ Total Skill Points: 59 Points
+
+==Skills==
+{| class="fandom-table"
+|+
+!Move
+!DMG
+!Cooldown
+!Visualization
+|-
+|'''Passive - No One Will Know My Identity! -''' When Killer Queen's final blow to an opponent is an explosion, they will be completely incinerated and vaporized to an atomic level, leaving no trace of their corpse.
+| -
+| -
+|[[File:Passive-BTD.gif|thumb]]
+|-
+|'''LMB - Punch:''' Your simple punch (M1)
+|<nowiki>5.5 | 0 DP</nowiki>
+7.3 | Fully Upgraded DP
+| -
+|TBA
+|-
+|'''RMB - Heavy Punch:''' Your heavy punch (M2)
+|<nowiki>7.5 | 0 DP</nowiki>
+10 | Fully Upgraded DP
+| -
+|[[File:M2KQBTD.gif|none|thumb]]
+|-
+|'''E - Stand Barrage:''' Killer Queen releases a flurry of punches.
+|<nowiki>0.9 | 0 DP</nowiki>
+1.2 | Fully Upgraded DP
+|7s
+|[[File:BarrageKQBTD.gif|none|thumb]]
+|-
+|'''R - Stand Barrage Finisher:''' Killer Queen does a finishing punch. ''(Block Break, Parriable, Ragdolls)''
+|<nowiki>11 | 0 DP</nowiki>
+14.6 | Fully Upgraded DP
+|7s
+|TBA
+|-
+|'''T - Plant Bomb:''' This move has two Variants.
+'''Direct:''' Killer Queen plants its first bomb on a target, during detonation, target is put in an unique stun animation. <u>This action fails if the move gets parried.</u> 
+
+* Plant: ''(Parriable, Bypasses Block, Uncancelable)''
+* Explosion: ''(Ragdolls, Stun, Uncancelable)''
+
+'''Terrain:''' Killer Queen may also plant its bomb on any surface. ''Explosion: (Ragdolls, Unblockable)''
+|Plant:
+4 | 0 DP
+5.3 | Fully Upgraded DP
+Explosion:
+24 | 0 DP
+31.9 | Fully Upgraded DP
+|8s
+|[[File:PlantBombkqbtd.gif|thumb]][[File:PlantbombVARIANTKQBTD.gif|thumb]]
+|-
+|'''Y - Bomb Detonation:''' Open a wheel menu with 3 options:
+'''Coin:''' Detonate Coin Bomb. 
+'''Bubble:''' Detonate Stray Cat Bubble Bomb. 
+'''Bomb:''' Detonate First Bomb. 
+<u>You can also press any of the respective keybinds to detonate your bombs as long as they are on cooldown.</u><u>This move can be used in stun only if used before stun occures.</u>
+| -
+|1s
+|[[File:DetonationBTD.gif|thumb]]
+|-
+|'''H - Bomb Leap:''' Killer Queen uses a bomb to propel itself flying forward damaging anyone in its take off spot. ''(Blockable, Cancelable)''
+|<nowiki>16 | 0 DP</nowiki>
+21.3 | Fully Upgraded DP
+|30s
+|[[File:SuperJumpBTD.gif|thumb]]
+|-
+|Z - Coin Bomb: Killer Queen tosses a coin with a pre-planted bomb on it that stays on the ground until touched or detonated remotely. ''(Ragdolls, Break Block (if direct hit), Blockable, Cancelable)''
+<u>Coin Collector upgrades affect this move's cooldown.</u>
+<u>Coin will despawn after few seconds.</u>
+|<nowiki>24 | 0 DP</nowiki>
+31.9 | Fully Upgraded DP
+|<nowiki>25s | 15s Fully Upgraded CC</nowiki>
+|[[File:TossACoinToYourWitcherBTD.gif|thumb]]
+|-
+|'''X - Scattered Coin Bomb:''' The user throws out multiple coin bombs [7] at face level. ''(Blockable, Cancelable, Brief Stun)''
+|Singular:
+2.4 | 0 DP
+3.2 | Fully Upgraded DP
+Total:
+16.8 | 0 DP
+22.4 | Fully Upgraded DP
+|16s
+|[[File:ScatterBomb-BTD.gif|thumb]]
+|-
+|'''G - Stray Cat Bubble Bomb:''' Stray Cat releases a bubble bomb out of Killer Queen's stomach that flies forward until it collides with a target or gets detonated remotely. ''(Ragdolls, Break Block (if direct hit), Blockable, Cancelable)''
+<u>This move's cooldown is affected by Stray Cat Tame upgrade.</u>
+|Direct:
+16 | 0 DP
+21.3 | Fully Upgraded DP
+Indirect:
+24 | 0 DP
+31.9 | Fully Upgraded DP
+|<nowiki>20s | 11s Fully Upgraded SCT</nowiki>
+|[[File:Stray-BTD.gif|thumb]]
+|-
+|'''U - Bites The Dust:''' Killer Queen and its user will initiate a pose for about 4s following another animation of pressing a detonator with audio (Kirākuīn dai san no bakudan Bites Za Dusto), after which everyone in a short range will be put in a cutscene and will be dealt damage, additionally to that the user gets healed for 20% of their hp, everyone including the user will get set back in time to their positions from 20s ago.
+<u>This move can be used during stun.</u>
+<u>Targets affected by this ability will have a glowing eye effect after the first pose.</u><u>Bites The Dust won't go off if nobody was affected.</u>
+|<nowiki>60 | 0 DP</nowiki>
+79.9 | Fully Upgraded DP
+|2min 40s
+|[[File:KQULTIMATE-BTD.gif|thumb]]
+|}
+[[File:Activation of Bites the Dust.gif|alt=The player goes through a breif animation where their hand glows. A large explosion launches them into the air, and then they and their victims experience a cutscene. |thumb|The Activation and colorful cutscene during the usage of Bites the Dust. Notice how players must be nearby for its activation to work.|1x1px]]
+==Skill Tree==
+Destructive Power: 2, 3, and 4 Points
+
+Plant Bomb: 1 Point
+
+Detonate Bomb: 0 Points
+
+Bomb Leap: 2 Points
+
+Explosive Power: 2, 2, 2, 3, 4, 5, and 6 Points
+
+Bites The Dust: 6 Points
+
+Stray Cat Bubble Bomb: 1, 2, 3, and 4 Points
+
+Coin Bombs: 1, 2, 3, and 4 Points
+
+Scattered Coin Bombs: 2 Points
+
+== Combos and Tips ==
+[[Killer Queen: Bites the Dust/Combos and Tips]]
+
+==Trivia==
+
+*Killer Queen: Bites the Dust is a musical reference to "Another One Bites the Dust" by British rock band Queen.
+*Stray Cat's model was originally the model from Diamond Records, but as of an update it was changed to an actual model.
+*There was a period of time where Stray Cat was completely removed from KQ:BTD's chest cavity, but this was fixed in a later update.
+*Killer Queen was one of the first Stands added to Your Bizarre Adventure.
+*Rather than the stand being pierced by the arrow like SCR and GER, the arrow instead pierced the user, Yoshikage Kira.
+*Unlike the manga, The Hand's erasure cannot erase Stray Cat's bubble bomb.
+*Bites the Dust's mini Killer Queen that shows to everyone affected by a successful activation still uses the old model.
+*In v1.591, Killer Queen: Bites the Dust lost Sheer Heart Attack as apart of a lot of stand and specs losing moves to help balance the game and keep movesets more simple. Sheer Heart Attack still exists inside of base Killer Queen however.
+
+==Skins==
+<gallery>
+Creeper Queen ( Charged ).png|Charged Creeper Queen BTD
+Killer Queen- Bites the Ice (Killer Queen- Bites the Dust), Limited skin - Christmas 2022.png|Bites the Ice BTD (Limited Uncommon, Christmas 2022)
+File:Kqbtd.webp|SCP-049 (Legendary)
+</gallery>
+
+==Gallery==
+<gallery>
+File:NEW Stray Cat.png|Stray Cat's Appearance
+File:BitesTheDustIdle (2).png|BTD Idle/Pose
+File:Capture555555555.PNG|Killer Queen's Bomb Menu
+File:Activation of Bites the Dust.gif|Bites the Dust Cutscene
+</gallery>
+<br>
+[[Category:Stands]]
+[[Category:Evolved Stands]]
+[[Category:Close-Ranged]]
+[[Category:Part 4]]
+[[Category:Requiem Stands]]
+[[Category:Healers]]
+[[Category:Pink]]
+[[Category:Black]]
+[[Category:Humanoid]]
+
+{{NavigationBox}}
+[[Category:Evil]]

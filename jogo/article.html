@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YBA Wiki</title>
+  <meta name="description" content="Artigo da YBA Wiki, a enciclopédia brasileira não-oficial de Your Bizarre Adventure.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-content">
+      <a href="index.html" class="logo">YBA Wiki <small>não-oficial</small></a>
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="Buscar Stands, specs, bosses..." autocomplete="off">
+        <kbd>/</kbd>
+        <ul class="search-results" id="resultados" hidden></ul>
+      </div>
+      <nav class="main-nav">
+        <a href="article.html?page=stands">Stands</a>
+        <a href="article.html?page=specs">Specs</a>
+        <a href="article.html?page=bosses">Bosses</a>
+        <a href="article.html?page=itens">Itens</a>
+        <a href="article.html?page=guia">Guia</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container layout">
+    <aside class="sidebar">
+      <div class="sidebar-box">
+        <h3>Neste artigo</h3>
+        <ul class="nav-list" id="toc-lista"></ul>
+      </div>
+      <div class="sidebar-box">
+        <h3>Informações rápidas</h3>
+        <table class="infobox" id="infobox"></table>
+      </div>
+    </aside>
+
+    <main class="content">
+      <div class="article-header">
+        <h1 id="artigo-titulo">Carregando...</h1>
+        <p class="artigo-sub">De YBA Wiki, a enciclopédia de Your Bizarre Adventure</p>
+      </div>
+      <article class="artigo" id="artigo-conteudo"></article>
+      <div class="artigo-footer">
+        <a href="index.html" class="btn btn-outline">← Voltar para a página inicial</a>
+      </div>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <div class="container footer-content">
+      <p>YBA Wiki — feito por fãs, para fãs. Não afiliado à UzuKee/Roblox ou a Hirohiko Araki.</p>
+      <div class="footer-links">
+        <a href="index.html">Página inicial</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/stands.js"></script>
+  <script src="js/specs.js"></script>
+  <script src="js/bosses.js"></script>
+  <script src="js/itens.js"></script>
+  <script src="js/dados.js"></script>
+  <script src="js/comum.js"></script>
+  <script src="js/artigo.js"></script>
+</body>
+</html>
+
+
+
+

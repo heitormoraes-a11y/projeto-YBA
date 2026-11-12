@@ -1,0 +1,64 @@
+ '''JoJo's Bizarre Adventure Part 5 - Vento Aureo'''
+<br />{{NewestStandTemplate|image1 = <gallery> 
+BeachBoyNewModel2.png|Current
+BBclean.png|Old
+</gallery>|namesake = [https://en.wikipedia.org/wiki/The_Beach_Boys The Beach Boys]|stand_type = Close-range (With Long-range capabilities)|abilities = Hook Manipulation,
+Snatching, Pulling.|user = [[Pesci (Boss)|Pesci]]|stand_appearance = Fishing rod|destpower=|speed=|range=|persistence=|precision=|potential=|title1=Beach Boy}}{{Quote|..There's nothing you can do but wait until Beach Boy's hook crawls up your arm and snags your heart!|Pesci}}<br />
+== Overview ==
+Beach Boy is the [[Stands|Stand]] of [[Pesci (Boss)|Pesci]], featured in [https://jojowiki.com/Vento_Aureo Golden Wind], part 5 of JoJo's Bizarre Adventure. Beach Boy has a long-range, it is one of the most common stands in the game with a 7% chance of obtaining a [[Mysterious Arrow]]. 
+
+At first glance, Beach Boy seems to be an underwhelming stand. It lacks a barrage, and its ranged attacks are pointed in a straight line, which can be avoided with strafing. However, Beach Boy is considered to be an ''underrated'' stand, that has good niches but has some vital flaws that prevent it from being overpowered, one disadvantage being its small hitbox moves.
+
+Passively, every attack done via mouse clicking has increased range due to the user using the rod to attack. While it shouldn't be used as a replacement for a barrage, it will outrange humanoid stands.
+
+''Hook Pierce'' bleeds when upgraded and for an extended period when fully upgraded. The bleed [[Status Effects|status effect]] can bypass [[D4C: Love Train|Love Train]] if the Love Train user activates it during the bleed duration. It also can be used as a mini anti-heal attack, as bleed makes [[Posing]] regeneration redundant and ineffective. Bleed also still damages targets within [[Time Stop]].
+
+''Rod Slap'' can be used to finish a combo or to set up zoning as it inflicts knock down. It also has a niche of it being technically a barrage finisher, so it is one of the only stands with no barrage, yet a barrage finisher.
+
+''Rod Throw'' serves as a less damaging ''Hook Pierce'' that can give the stand more zoning capabilities, it is moderately fast. 
+
+''Rod Pull'' and ''Auto Rod Pull'' are 2 of Beach Boy's most useful tools. At first glance, they seem like the worst thing it has, seeing as it literally lets your opponent combo you. This, though, is what a player who has not used BB would think. They are actually the most overpowered part of BB, able to be used when opponents are ragdolled. If you time this right before they get up, they have slight stun when they get up, and don't have a stand, allowing you to combo the enemy. This is very effective against stands with barrages, as they are BB's 1 weakness, though they can't even barrage. 
+
+The stand is easily countered by Stands that excel in melee combat or has crowd control to prevent Beach Boy's rod pull. The stand lacking a barrage also makes it easy to stun lock and aside from Rod Slap, it lacks any AoE, and Rod Slap's AoE is limited, compared to [[The World]]'s Road Roller or [[King Crimson Requiem]]'s Dimensional Slash.
+ Total Skill Points: 44 Points
+
+== Skills ==
+E - '''Rod Pull:''' Cast out your hook where the cursor is, upon hitting an opponent it reels them into you, dealing 7.5 damage with a short stun. This move has a very small hitbox, so this move is not very effective when using it on moving opponents unless you have good aim. This move has a 17-second cooldown.
+
+R - '''Rod Slap:''' A simple slap with Beach Boy dealing 24 damage and ragdolling the opponent for a considerable amount of time. This also stand-crashes opponents with sturdiness 1 and can break blocks. Strangely, this move can be parried even though it doesnt look like a parriable move. can be confirmed off of hook pierce however.
+
+T - '''Hook Pierce:''' Cast out the line on Beach Boy's upon hitting the opponent, dealing 24 damage and making the victim bleed for a good amount of time. This move can break blocks and cannot be parried. This move, when upgraded, applies rapid 0.4 ticks of bleeding damage.
+
+Y - '''Auto Rod Pull: '''Automatically casts out your hook, reeling the nearest victim into you, dealing 7.5 damage with a short stun. This move has a 19-second cooldown. Can be parried.
+
+Z - '''Rod Throw:''' Throws out the fishing pole dealing 29.9 damage and having a long range that can knock out the other player. Breaks block and cannot be parried. 
+
+== Combos and Tips ==
+[[Beach Boy/Combos and Tips]]
+
+==Trivia==
+
+* Beach Boy, [[Anubis]], and [[White Album]] are currently the only stands to belong to a tertiary antagonist.
+*Anubis initially possessed Beach Boy's aura.
+*Although Beach Boy has long-range, it is a close-range type stand because it is summoned near the user as the user carries it.
+* 3-4 of these moves are based off of [https://rogue-lineage.fandom.com/wiki/Deep_Knight Deep Knight] from Rogue Lineage.
+*The M2 attack is based off of [https://rogue-lineage.fandom.com/wiki/Abyss_Walker?so=search Abyss Walker]'s M2 from Rogue Lineage.
+*Beach Boy's Limited skin,  Tākoizu Dragon, was based off of the chapter cover for Dragon Ball Chapter 519.
+
+== Gallery ==
+[[File:Thumb.png|thumb|274x274px|Beach Boy's Gummy Worm.  (Halloween 2026 Uncommon)]]
+<gallery>
+File:Bb 1st shiny.png|Beach Boy's 1st and only limited shiny, Tākoizu Dragon. (Christmas 2021) (Unobtainable)
+File:NonosamaBoBB.png|Beach Boy's 2nd shiny, Nonosama Bo from One Piece (Common).
+</gallery>
+<br />
+[[Category:Stands]]
+[[Category:Black]]
+[[Category:Non-Humanoid]]
+[[Category:Close-Ranged]]
+[[Category:Long-Ranged]]
+[[Category:Part 5]]
+[[Category:Green]]
+
+{{NavigationBox}}
+[[Category:Evil]]

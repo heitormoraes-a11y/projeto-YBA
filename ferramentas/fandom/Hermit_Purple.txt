@@ -1,0 +1,77 @@
+ '''JoJo's Bizarre Adventure, Part 3 - Stardust Crusaders''' 
+
+
+{{NewestStandTemplate|title1=|image1=755.png|caption1=|aliases=HP, Violet Vine (YBA name)|namesake=[https://en.wikipedia.org/wiki/The_Hermit_(Tarot_card) The Hermit (Tarot card)]|stand_type=Close-Ranged Stand|abilities=Spirit Photography, Grappling, Hamon Transmission|stand_cry=OH MY GOD!|user=Joseph Joestar|relatives=[[Star Platinum]] (Platinum Sun)
+[[Crazy Diamond]] (Shining Sapphire)|affiliation=The Joestars|stand_appearance=Purple Spiky vines|gender=|height=|eye_color=|image2=|caption2=}}{{Quote|"Everyone get in the car, we're leaving this town now!"|-Joseph Joestar}}<br />
+== Overview ==
+Hermit Purple is a Stand that is displayed as purple vines with thorns surrounding both hands. In the anime and manga, Hermit Purple is owned by Joseph Joestar. It can be used to find the location of people or things, as well as working as a grappling hook for faster travelling. The ability to find things or people is most commonly used on electronics, but can also be used on pretty much everything.
+
+Hermit Purple alone is not that great, but in combination with [[Hamon]], it can become one of the most consistent damaging stands in the game, letting you trap players and constantly damage them. It is notably easy to use and can deal out enormous amounts of damage without the use of quick reaction time or difficult combos, making it perfect if you find yourself struggling while using other Stands.
+ Total Skill Points: 40 points
+
+==Skills==
+E - '''Grapple:''' Grapples onto buildings or people with Hermit Purple's vines. This attack will then pull you towards that object rapidly, allowing for quick getaways. This, used on players, will launch you towards each other, making it easier for you to attack them doing 10 damage. There is a strange glitch that makes you unable to do anything if your opponent stops you from using the move. (8 seconds cooldown, parriable)
+
+E+R - '''Vine Trap:''' When someone is grappled by the vines, they will become trapped in it. They will be unable to move, leaving you able to attack them without being damaged yourself. Can no longer be parried in mid-air.
+
+R- '''Vine Trap 2:''' This is a variation of the original vine trap, but instead of using it when you grapple someone, you use it just like a regular old move. When this hits it does 18 damage. This also stuns the victim for a short amount of time. This can be blocked, but not parried. (16 seconds cooldown)
+
+T - '''Stand Barrage Finisher''': This is just like any other finisher, which is a big punch that knocks the opponent, dealing some damage and can break blocks or get parried. When using this move, Joseph Joestar's "OH MY GOD" voiceline will play. (7 seconds cooldown)
+
+Z - '''The Joestar Technique:''' Runs away using the secret [https://tenor.com/view/jojo-run-away-joseph-joestar-jojos-bizarre-adventures-gif-15566885 Joestar Technique]. This attack simply gives you a speed boost, which is great for running away or closing distance. (15 seconds cooldown) maximally for 5 seconds (Joestar technique III)
+
+Y - '''Double Vine Slap:''' This attack extends Hermit Purple's vines to whip twice in the direction you are facing. This deals 16 damage (!0 with William zeppeli Hamon) and has a high range. You can upgrade the vines so they deal more damage. Joseph Joestar's "YES! YES YES!" voiceline will play. 
+
+U - '''Spirit Photo''' (Divining Information)''':''' Every NPC and player in the map becomes highlighted with a camera icon to locate them, provides temporary buffs, as +20 Physical Defense, +3 Walk Speed and +20% Damage Buff. (Active for 10 seconds, 40 seconds cooldown)
+
+'''Hamon Combination''': If the user has [[Hamon]], every attack has a chance of setting the opponent on fire, dealing tick damage. You can upgrade to increase the chances of the burn.
+
+==Skill Tree==
+<tabber>
+|-|Passive=
+Hamon Efficiency: increases the chance of Hamon Combination activating, as well as increasing burn duration.
+*Hamon Efficiency I: 2 points
+*Hamon Efficiency 2: 3 points
+*Hamon Efficiency 3: 4 points
+|-|Active=
+Joestar Technique: increases length of The Joestar Technique
+*The Joestar Technique: 1 point
+*Joestar Technique I: 2 points
+*Joestar Technique II: 3 points
+*Joestar Technique III: 3 points
+Vine Mastery: increases length of Grapple and damage of Vine Slap
+*Vine Mastery I: 2 points
+*Vine Mastery II: 2 points
+*Vine Mastery III: 2 points
+*Vine Mastery IV: 2 points
+*Vine Mastery V: 2 points
+Double Vine Slap: 1 point, slaps twice, dealing 16x2 damage and stunning the enemy.
+|-|Skills=
+*'''Grapple:''' Uses Hermit Purple's vines to grapple onto buildings and players. 2 points
+
+*'''Hamon Combination:''' 3 points, if the player has Hamon then they will be able to have a chance of their attacks doing burning damage
+
+*'''Vine Trap:''' 1 point, allows the user to ensnare targets after grappling them.
+
+*'''Divining Information:''' 3 point, allows user to see nearby lifeforms in large radius and temporarily buff themselves.
+</tabber><br />
+
+==Combos and Tips==
+[[Hermit Purple/Combos and Tips]]
+
+==Trivia== 
+
+*The E and R combination is a reference to the [https://rogue-lineage.fandom.com/wiki/Shinobi '''Grapple'''] and [https://rogue-lineage.fandom.com/wiki/Shinobi '''Owl Slash'''] from Shinobi in [https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki Rogue Lineage].
+
+==Gallery==
+<gallery>
+File:Holy Sickness.png|[[File:Hermit Purple's Limited time Third shiny, Holiday Tangle (Epic).png|thumb]]Hermit Purple's First Shiny, Holly's Sickness (Uncommon)
+File:Anti Umbral by ArcerosRBLX.png|Hermit Purple's Second Shiny, Anti-Umbral (Uncommon)
+</gallery>
+
+[[Category:Stands]]
+[[Category:Non-Humanoid]]
+[[Category:Close-Ranged]]
+[[Category:Part 3]]
+[[Category:Part 4]]
+[[Category:Purple]]

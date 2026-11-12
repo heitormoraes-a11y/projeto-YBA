@@ -1,0 +1,120 @@
+
+
+ JoJo's Bizarre Adventure, Part 8 - JoJolion
+
+
+{{Quote|Soft & Wet... when my soap bubble touches something and breaks, I take something from there.	|-Josuke Higashikata Part 8}}{{NEWSTANDTEMPLATE|image1=<gallery>
+Soft&WetTrelloImage.png|Base
+Soft&WetGOBEYOND.png|Go Beyond
+</gallery>|abilities=Bubble Generation, Plunder, and Explosive Bubbles|aliases=|stand_name=Soft & Wet|yba_name=Soft & Wet|user=Josuke Higashikata (JJL)|stand_type=Close-Ranged|stand_cry=Ora|caption1=A picture of Soft & Wet from a teaser.}}
+==Overview==
+'''Soft & Wet''' is the [[Stands|Stand]] of Josuke Higashikata, the main protagonist from Part 8 of JoJo's Bizarre Adventure JoJolion. Soft & Wet's main ability is to create bubbles that can steal properties and objects. Soft & Wet is similar to both [[Tusk (Act 4)|Tusk Act 4]] and [[Killer Queen]] in terms of playstyle, which involves zoning your opponents with quick bursts of melee moves.
+
+Soft & Wet can be obtained from [[Rib Cage of the Saint's Corpse|Ribcages of the Saint's Corpse]] with a 20% chance. It can be evolved into Soft & Wet: Go Beyond by talking to [[Jesus (NPC)|Jesus]] with [[Spin]], [[Killer Queen]] and a [[Rokakaka Fruit|Rokakaka]]. You must first acquire Soft & Wet and [[Spin]],  then speak to [[Jesus (NPC)|Jesus]]. He will take it, then you have to go back to Jesus with [[Killer Queen]] while still having [[Spin]] and a [[Rokakaka Fruit|Rokakaka]]. He will then give you Soft & Wet: Go Beyond and Josefumi's Hat cosmetic in return.
+ Total Skill Points: 52 Points
+==Skills==
+
+E - '''Stand Barrage''' Soft & Wet unleashes a quick barrage of punches, each punch dealing 0.9-1.5 damage. This move can be blocked.
+
+R - '''Stand Barrage Finisher''' Soft & Wet throws a heavy punch, dealing 14.5 damage and ragdolling the enemy. This move block breaks and can be parried.
+
+T - '''Shovel Barrage''' Soft & Wet uses a shovel to hit the opposing enemy several times, each hit dealing 5 damage. The hits are blockable and the last hit block breaks and knocks opponent back, but doesn't ragdoll. It cannot be canceled.
+
+Y - '''Bubble Prison''' After a fairly long windup, Soft & Wet creates a bubble, trapping the victim inside it, this move deals 30 damage and pops after a short duration, the bubble pops earlier if the victim takes any damage. This move can be parried and block breaks.
+
+Z - '''Vision Plunder''' Soft & Wet throws a bubble at the cursor, if it lands it deals 30 damage and blinds the victim temporarily, the blind simply causes your screen to go extremely dark. This move can be blocked and grants decent stun.
+
+U - '''Bubble Generation''' Soft & Wet creates a bubble around the user, floating up and momentarily being self stuned and healing after a short time. If an enemy hits the bubble in any way then it will pop, causing the user to fall down, be stunned and no longer get healed.
+
+X - '''Moisture Plunder''' After a short windup, Soft & Wet creates a barrier of bubbles in front of you, if the opponent walks through it they will take rapid 1.3 damage and get stunned. After some time, the bubbles pop, having small AOE. This move is blockable and can be used as a combo extender. (1.7 fully upgraded, 2.1 with Hamon)
+
+C - '''Friction Beatdown''' Soft & Wet performs a punch, if connected, the user will throw a small bubble, dealing 5 damage and knocking the opponent down. Soft & Wet will proceed to uppercut the opponent into the air, dealing 10 damage and perform a barrage, with each punch dealing 0.8, finishing it off by uppercutting them again, and throwing a gut punch at them, finishing the beatdown. The amount of damage done depends on Execute, this move can be parried and bypasses block. Deals approximately 41 damage plus execute.
+
+==Skill Tree==
+<tabber>
+|-|Passive=
+N/A
+|-|Moves=
+
+Vision Plunder - 1 Skill Point
+
+Moisture Plunder - 1 Skill Point
+
+Bubble Prison - 1 Skill Point
+
+Bubble Generation - 1 Skill Point
+
+Shovel Barrage - 1 Skill Point
+
+Friction Beatdown - 1 Skill Point
+|-|Upgrades=
+
+Plundering: Increases Vision Plunder's damage and blind duration (Each upgrade increases blind by 1 second and damage by 3)
+*Plundering I - 3 Skill Points
+*Plundering II - 3 Skill Points
+*Plundering III - 3 Skill Points
+*Plundering IV - 3 Skill Points
+*Plundering V - 3 Skill Points
+
+Moisture: Increases Moisture Plunder's bubbles' lifetime and damage (Each upgrade increases the bubble duration by 4 seconds and damage by 0.1/0.2)
+*Moisture I - 3 Skill Points
+*Moisture II - 3 Skill Points
+*Moisture III - 3 Skill Points
+*Moisture IV - 3 Skill Points
+*Moisture V - 3 Skill Points
+
+Persistence: Increases Bubble Prison's duration and Damage (Each upgrade increases Bubble Prison's damage by 3.3 and the duration by 1/0.5)
+*Persistence I - 3 Skill Points
+*Persistence II - 3 Skill Points
+*Persistence III - 3 Skill Points
+*Persistence IV - 3 Skill Points
+*Persistence V - 3 Skill Points
+
+Precision: Increases Bubble Generation's shield and healing (Each upgrade increases bubbles' shield and healing by 6)
+*Precision I - 3 Skill Points (increases bubbles' shield and healing by 6)
+*Precision II - 3 Skill Points (increases bubbles' shield and healing by 6)
+*Precision III - 3 Skill Points (increases bubbles' shield and healing by 6)
+*Precision IV - 3 Skill Points (increases bubbles' shield and healing by 6)
+*Precision V - 3 Skill Points (increases bubbles' shield and healing by 6)
+
+</tabber>
+
+== Combos and Tips ==
+[[Soft & Wet/Combos and Tips]]
+
+==Trivia==
+*Soft & Wet was first teased on the November 12th, 2022, where a picture of its bubbles was leaked by the developer Snaliel.
+*Soft & Wet is the first Stand with a dynamic summon animation.
+*Soft & Wet's "Friction Beatdown" is directly based off of Josuke (Part 8)'s Great Heat Attack from All Star Battle.
+*Soft & Wet is the 5th stand to have the stand cry "Ora!". The others are [[Star Platinum]], [[Star Platinum: The World]], [[Tusk (Act 4)|Tusk Act 4]], and [[Stone Free]].
+*Soft & Wet's shovel move is a reference to the Blue Hawaii arc in Chapter 61 Part 8: Jojolion, in which Josuke uses a shovel to attack someone under the effects of the stand "Blue Hawaii".
+* Soft & Wet's first skin Golden & Wet is based off it's color pallet in the video games JoJo's Bizarre Adventure: All Star Battle and Jojo's Bizarre Adventure: Eyes of Heaven, which is the game [[Heaven Ascension DIO]] comes from.
+*When you get Soft & Wet Go Beyond, [[Jesus (NPC)]] calls it the "strongest fighting spirit." However this was never confirmed in the manga.
+*Soft & Wet: Go Beyond cannot go into Casual SBR Servers, when just released, it was able to.
+*Using '''Bubble Generation''' while on a horse in SBR slows the rider down by 10 speed, similar to other healing moves.
+*You are not forced to complete the entire Go Beyond quest in the same server, if you rejoin to a random one and talk to a new [[Jesus (NPC)|Jesus]], that one will have the stands/rokakaka you gave him. In other words, the quest saves.
+*When Soft & Wet released, Paragon uploaded on the discord server of the game an image of him with an unobtainable skin of Mew from Pokemon Red and Blue as Soft & Wet.
+*Soft & Wet's skill tree's BGM is taken from the "Horimiya" anime, the track name is Opened Door, by Masaru Yokoyama.
+*Soft & Wet's canon destructive power is C, which is equivalent to a human, making it weaker than most humanoid stands.  
+
+==Skins==
+<gallery>
+File:Golden & Wet.png|Golden & Wet (Common)
+File:Spongebob Soft and Wet Skin.jpeg|Spongebob (Legendary)
+File:S&W-GB.png|Sailor S&W "GB" (Uncommon)
+File:Dood.png|Doodle Bop "GB" (Legendary)
+File:Soft & Starry (Common).png|Soft & Starry (Common)
+File:Pillage & Plunder.png|thumb|Pillage & Plunder (Epic)
+</gallery>
+==Gallery==
+<gallery>
+File:Soft & Wet Beatdown.gif|Soft & Wet Beatdown
+File:Golden & Wet Behind.png|The backside of Golden & Wet
+</gallery>{{NavigationBox}}
+[[Category:Stands]]
+[[Category:Part 8]]
+[[Category:Close-Ranged]]
+[[Category:Blue]]
+[[Category:Humanoid]]
+[[Category:Healers]]
+[[Category:Corpse Part Stands]]

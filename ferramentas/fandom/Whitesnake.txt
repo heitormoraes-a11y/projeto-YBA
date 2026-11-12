@@ -1,0 +1,115 @@
+{{NewestStandTemplate|image1 = <gallery> 
+Whitesnakeee.png|Current
+Whitesnake7.png|2022
+New_WhiteSnake.png|Late 2021
+NEW WS IMAGE PAGE.png|Mid 2021
+Screenshot 2021-02-12 at 11.10.15.png|Early 2021
+Whitesnake Old IDLE.png|2020
+</gallery>|namesake = [https://en.wikipedia.org/wiki/Whitesnake Whitesnake]|stand_type = Medium-Distance Stand (Most attacks are short ranged however aside from pilot attacks)|abilities = Produce "Discs" of people's Memories and Stand
+Acid Production, Creating Illusions and Melting Hearts|stand_cry =Koregajinrenotamenanoda!|user = [https://jojo.fandom.com/wiki/Enrico_Pucci Enrico Pucci]|stand_appearance = White and black, with a black crown. "GΔCT" written on the black lines of its body with white eyes full of acid.|eye_color = White|title1=|caption1=|relatives=|affiliation=|gender=|image2=|caption2=White Poison|sound of summoning=Campekinana (Cumpekinana)}}
+ JoJo's Bizarre Adventure Part 6 - Stone Ocean
+{{Quote|"You were one move too late... Jotaro Kujo, I've been waiting for this moment."|-Enrico Pucci speaking, while possessing Whitesnake, to Jotaro Kujo}}
+<br />
+==Overview==
+Whitesnake is the [[Stands|Stand]] of [[Pucci|Enrico Pucci]], the main antagonist of Jojo's Bizarre Adventure: Stone Ocean. Its primary ability is to extract or insert DISCs, primarily Stand and Memory DISCs; however, DISC insertion is currently not in the game, and is unlikely to be added. Whitesnake also has an ability to excrete an acid that slowly melts its opponents and puts them into a dream-like, hallucinatory state, known as "Melt Your Heart". 
+
+Whitesnake is the first of a trilogy of Stands that were used by Enrico Pucci. The other two are also in the game, [[C-Moon]] and [[Made in Heaven]].  
+
+Upon using a [[Green Baby]], [[Whitesnake]] will evolve into [[C-Moon]].  
+
+The chance to receive Whitesnake from an arrow is 1%, competing with [[Stone Free]] in being the rarest arrow Stand in game.  
+ Total Skill Points: 47 Points
+
+==Skills==
+M1 - '''Punch:'''  Whitesnake punches, dealing 5.0 damage
+
+E - '''Stand Barrage''': Throws a flurry of fast punches that deal 0.8 damage per hit.
+
+R - '''Stand Barrage Finisher''': Whitesnake throws a heavy punch, dealing 12 damage and knocking down the opponent.
+
+T - '''Spirit Disc Steal''': Whitesnake swipes at the opponent, dealing 10 damage and removing a limb. However, it does not let you deal more damage to your opponent if you remove an arm, nor does it slow them down if you remove a leg. This disables the opponent's [[Stands|Stand]] abilities for 5-10 seconds. This move can be blocked normally.
+
+Y - '''Memory Disc Steal''': Whitesnake swipes at the opponent, dealing 20 damage and removing a limb. This disables the opponent's [[Specialities|Speciality]] for 5-10 seconds. This move will not break blocks but can be parried. This move does disable [[Specialities|Spec]] passives (such as the damage reduction from [[Boxing]])
+
+Z - '''Burst Fire''': Whitesnake draws a pistol and fires 3 bullets that deal 3.5 damage each toward the direction of the user's cursor. Unlike [[The World (Alternate Universe)]] and [[Dirty Deeds Done Dirt Cheap]]'s revolvers, Whitesnake's pistol cannot cause smoke clouds to explode. All 3 bullets from this move block break. Every bullet causes slight stun. 
+
+X - '''Acidic Spew''': Whitesnake sprays acid at the opponent. This deals 10 damage, poisons, deafens, and partially blinds them. This move can be blocked normally, but with the effects still being able to bypass block. 
+
+H- '''[[Pilot]]''': Manually control Whitesnake's positioning and attack from afar. This move sprints like [[Chariot Requiem]] but slower. 
+
+==Skill Tree==
+<tabber>
+|-|Active=
+
+
+'''Spirit Disc'''/'''Memory Disc''': Contains the victim's [[Stands|Stand]]/[[Specialities|Speciality]] in a disc for a few seconds, removing one of the victim's limb in the process. '''Disc Upgrade''' increases the duration of the attack's effects.
+*Spirit Disc: 1 point (4 Second Duration)
+*Memory Disc: 1 point (4 second duration)
+**Disc Upgrade I: 2 points (5.2 Second Duration)
+**Disc Upgrade II: 3 points (6.4 Second Duration) 
+**Disc Upgrade III: 3 points (7.4 Second Duration)
+**Disc Upgrade IV: 4 points (8.8 Second Duration)
+**Disc Upgrade V: 5 points (10 Second Duration)
+
+'''Burst Fire''': Makes White Snake fire a gun three times.
+*Burst Fire: 1 point
+
+'''Acidic Spew''': Attack that poisons and blinds the victim for a few seconds. '''Poisoning''' increases the duration of the poison's effect
+*Acidic Spew: 1 point 
+**Poisoning I: 2 points 
+**Poisoning II: 3 points
+**Poisoning III: 4 points
+
+'''Pilot''': Allows you to manually control White Snake. '''Stand Range''' increases the distance that Whitesnake can be from the user. '''Stand Speed''' increases Whitesnake's movement speed during pilot mode.
+*Pilot: 1 point
+**Stand Range I: 2 points
+**Stand Range II: 3 points
+**Stand Range III: 3 points
+***Stand Speed I: 2 points
+***Stand Speed II: 3 points
+***Stand Speed III: 3 points
+
+Total Skill Points: 47 Points
+</tabber>
+
+<br />
+
+==Combos and Tips==
+[[Whitesnake/Combos and Tips]]
+
+==Trivia==
+
+*Whitesnake's Pilot used to allow the stand to fly.
+*This Stand was renamed "White Poison" in-game in order to avoid [[YBA Renames|copyright issues]], but this has been overturned as of V1.3. Pucci still says this in his dialogue when you complete the Green Baby quest.
+*When the game was first updated, Whitesnake was misspelled as "Whitsnake" and "Whit3snake". This was done due to "Whitesnake" being blocked by Roblox's chat filter.
+* Whitesnake's Z move is a reference to Chapter 50 of Stone Ocean, where Whitesnake grabs a pistol to shoot down [https://jojowiki.com/Savage_Garden Savage Garden].
+* Whitesnake first reveals itself away from the user, which inspired its Pilot move, also because Whitesnake's effective range is about 20 meters.
+*Whitesnake is the first Stand to have a 1% chance of obtaining from an arrow (The other being [[Stone Free]]), making it one of the hardest stand to get in-game via a Stand Arrow.
+*This is the first Stand in its evolution chain, with the second Stand being [[C-Moon]] and the final evolution being [[Made in Heaven|Made In Heaven]].
+*Canonically, Whitesnake's Acid Spit actually makes people fall asleep. This is called "Melt Your Heart". This is used very differently than how it is used in the game, as Whitesnake uses it to run away, disguise as someone else, and as a trap.
+*This Stand is widely considered one of the best for new players to complete the storyline, due to its ability of removing boss Stands for 10 seconds, and its Pilot mode allows you to get somewhere safe and fight from range. This works well because bosses will go after the user, not the Stand. Whitesnake is incredibly useful for defeating [[Heaven Ascension DIO|DIO]] or [[Jotaro Kujo Part 6 (Boss)|Jotaro]].
+*On the release of the Halloween 2022 update, Whitesnake's model was changed, and the GACT symbols removed. However, both All-Star Whitesnake and Green Whitesnake use the previous version of the model. With the Christmas 2022 update, it was returned with Whitesnake's new model.
+*Whitesnake had a problem in an older model, where one of the boots was differently colored.
+*The pattern on Whitesnake is actually G'''△'''CT, which likely hints to Pucci's evolution. In game however, the pattern says GACT. C-Moon shares the G'''△'''CT pattern, which appears on its upper chest and the top of its head.
+*Nearly the 1.0 update, both All-Star and Greensnake skins model's bugged making their heads wider
+*Whitesnake's skin, Candy Corn Whitesnake (CC WS), dropped by a significant amount after the 2022 Halloween event, it dropped from the Highest S tier all the way to mid A.
+
+==Gallery==
+<gallery>
+Wtsnk.webp|Whitesnake's 1st skin, All-Star Whitesnake.
+Grnsnk.webp|Whitesnake's 2nd skin, Mintsnake.
+candysnakelol.png|Whitesnake's 3rd skin and limited, Cornsnake. (Halloween 2021)
+deimoswhitesnakelol.png|Whitesnake's 4th skin, Deimos Whitesnake.
+SOCP.png|Whitesnake's 5th skin, Snake of Christmas Past. (Christmas 2022)
+thegrinch.png|Whitesnake's 6th skin, and limited, The Grinch. (Christmas 2024)
+</gallery>
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:White]]
+[[Category:Black]]
+[[Category:Close-Ranged]]
+[[Category:Long-Ranged]]
+[[Category:Pilot]]
+[[Category:Part 6]]
+
+{{NavigationBox}}

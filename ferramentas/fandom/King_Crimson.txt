@@ -1,0 +1,123 @@
+{{Tab2|link1=King Crimson|tab1=King Crimson|link2=King Crimson Requiem|tab2=King Crimson Requiem}}
+
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo (A.K.A Golden Wind)'''
+
+
+
+{{NewestStandTemplate|image1 = <gallery>
+King Crimson Remodel 2022.png|Current
+NEW KC IMAGE PAGE.png|Old
+Second_KC_model.png|Older
+Old KC model.png|Oldest
+</gallery>|aliases = KC
+Emperor Crimson (Localized Name)|namesake = [https://en.wikipedia.org/wiki/King_Crimson King Crimson]
+[https://en.wikipedia.org/wiki/Epitaph_(song) Epitaph (Song)]|stand_type = Close-range|abilities = Time Skipping/Erasure
+Future Predictions|user = [[Diavolo (Boss)|Diavolo]]|stand_appearance = Red, White, Grey, Pink, and Green|eye_color = Green & Black
+|stats = {{Stats|power=A|speed=A|range=E|persistence=C|precision=A|potential=A|color=crimson|note={{*}}range: range of direct attack}}
+|destpower = A
+|speed = A
+|range = E
+|persistence = C
+|precision = A
+|potential = A
+}}
+{{Quote|''You from a few seconds from the past witnessed yourself in the future. This is my King Crimson's ability. I erased time and leapt past it!"
+"This Is... King Crimson."|~ Diavolo}}<br />
+==Overview==
+King Crimson is the [[Stands|Stand]] of [[Diavolo (Boss)|Diavolo]], the main antagonist of [https://jojowiki.com/Vento_Aureo JJBA Part 5: Vento Aureo]. King Crimson is a melee-based short-ranged Stand that has a 2.5% chance of getting obtained from a [[Mysterious Arrow]], making it one of the rarer Stands in-game. This Stand was renamed Scarlet King, in order to avoid [[YBA Renames|copyright issues]] until the 1.3 update.  
+
+King Crimson's main advantage is its damage output. It has access to Impale, which induces bleeding damage, and is an [[Executes|Execute]] move. It also has Epitaph to teleport behind whoever hits the user (or guarantees a chop if you get the Chop Passive, though not recommended as it ragdolls and doesn't allow combos.) - this can shut down piloting Stands, though Epitaph has a fairly short range limit. King Crimson can also use Time Skip to engage or disengage from combat, and traverse in [[Steel Ball Run]]. It's key ability, Time Erase, makes the user immune to damage and invisible for around 9 seconds.
+
+Despite all this, King Crimson's main flaw is that Epitaph and Time Erasure can be baited out, and more skilled players can respond to Time Erase if it is used offensively. When on cooldown, King Crimson lacks any major abilities to help it. [[Gold Experience Requiem]] can also cancel out Time Erase via Return to Zero.
+
+Using a [[Requiem Arrow]], King Crimson can be evolved into [[King Crimson Requiem]]. 
+
+ Total Skill Points: 51 Points
+
+==Skills==
+M1 - '''Punch''': King Crimson does a fast punch for 8.9 damage. This can be chained up to 5 times, doing 44.5 damage if they all hit and ragdolls by the fifth (1 second cooldown or to be separated from previous m1 combo)
+
+M2: double tapping m2 initiates a block breaking move with finisher animation, working as a spare finisher, does 12.1 damage and ragdolls (5 seconds cooldown)
+
+E - '''Stand Barrage''': King Crimson does a fast barrage that deals 1.5 damage per hit at max Destructive Power.
+
+R - '''Stand Barrage Finisher''': King Crimson throws a heavy punch which can break blocks and ragdolls the opponent. This move deals 17.7 damage at max Destructive Power and has decent end lag.
+
+T - '''Epitaph''': The user's screen and King Crimson's head glow red. If you are hit during this time, you will negate the incoming damage and teleport behind the attacker. ''Keep in mind that the attacker will receive little to '''no stun. Thus you should prepare a move, ideally impale'''''. (Counter)
+
+T (If upgrade is unlocked) - '''Chop Passive''': If the user is hit by an opponent while Epitaph is active and the chop passive is unlocked in the skill tree, the user will teleport behind them and deliver a chop, dealing 12.9 damage and inflicting 3x0.2 bleed per second for 10 seconds "6", totally 18.9 to the attacker. The attacker will also get ragdolled and get their stand crashed. keep in mind this chop does '''Not''' use the separate chop move. chop gets canceled if a move was initiated before the counter or by endlag moves. 
+
+Y - '''Chop''': King Crimson delivers a heavy chop which deals 12.9 damage at max Destructive Power, applying bleed (0.3x3 per second for 10 seconds "9", (totally 21.9) and stuns the opponent for approximately a second and a half, making it a great combo starter/extender. Cannot be canceled upon being interrupted during startup sequence unless ragdolled. 
+
+G - '''Impale''': King Crimson thrusts its arm forward, donutting any target in front of the user, dealing sure 13.7 damage, and another 14.5 to 41.1 as King Crimson retract its hand (the damage is higher on target's lost HP) . This move can be parried and canceled, but ignores block. The victim of Impale will lie on the ground for around 3 seconds before getting up with iFrames. 
+
+Z (hold) - '''[[Time Erase]]''': King Crimson erases time, allowing the user to move freely within it, avoiding any source of damage. It resets anyone caught in it back to their original state a few seconds before, giving you the opportunity to close the distance between you and your opponent, as long as you keep pressing the button (just as you'd do with barrage), as much seconds as your skill tree allows, as in what appears above the base time erase 30 seconds cooldown (3-10). The cooldown isn't reduced by using erase for less seconds. this move is unable to be cancelled unless a Golden Experience Requiem uses their "Return to Zero" Move or if MIH times their "Universe Reset" Move perfectly.  
+
+X - '''Time Skip''': Teleports the user in the direction of their cursor. It has a similar range to [[Star Platinum]] and [[The World]]'s Time Skip. 
+== Skill Tree==
+<tabber>
+|-|Passive=
+Destructive Power: Increases the damage of King Crimson.
+*Destructive Power I - 1 point
+*Destructive Power II - 2 point
+Chop - 3 points
+*Destructive Power III - 2 points
+*Destructive Power IV - 3 points
+Impale - 3 points
+*Destructive Power V - 4 points
+Epitaph - 2 points
+Future Sight: Prolongs epitaph counter window by 0.5 second each, maximally 4 seconds.
+*Future Sight I - 1 point
+*Future Sight II - 2 point
+*Future Sight III - 2 point
+*Future Sight IV - 3 points
+*Future Sight V - 3 points
+Chop Passive: Chops after epitaph
+* Chop Passive: 3 points
+Time skip - 3 points
+
+Erase Time - 4 points
+Erase Time Mastery: Increases the duration of Time Erasure.
+*Erase Time Mastery I - 2 points (+1 second)
+*Erase Time Mastery II - 2 points  (+2 seconds)
+*Erase Time Mastery III - 3 points (+1 second)
+*Erase Time Mastery IV - 3 points (+2 seconds)
+*Erase Time Mastery V - 3 points (+1 second)
+
+
+</tabber>
+
+== Combos and Tips==
+[[King Crimson/Combos and Tips]]
+
+Kc boxing : Blok break + livershot + 1 click + chop + impale is true
+
+==Trivia==
+*Within the fanbase of Jojo, King Crimson's ability was infamous for being confusing due to the poorer translations at the time. This coined the term "it just works" when talking about King Crimson's ability.
+*The final boss of the YBA Storyline, Diavolo, uses this stand, except the Time Skip has infinite range and his Chop Passive for Epitaph is replaced by Raging Demon, the upgraded Epitaph move of [[King Crimson Requiem]]. Raging Demon deals a lot more damage, stand crashes, and ragdolls you in place, similar to Impale. In exchange, Diavolo cannot use Impale or Time Erase in game.
+*This Stand can also be used by Diavolo's Split Identity, Vinegar Doppio. The drawback with this is that Diavolo must communicate with Doppio and allow Doppio to use certain parts of KC. Doppio is not aware of King Crimson's full potential.
+*This Stand was temporarily renamed "Scarlet King" in-game in order to avoid [[YBA Renames|copyright issues]]. The name "[https://villains.fandom.com/wiki/Scarlet_King Scarlet King]" is a reference to the antagonistic SCP deity of the same name.
+*The sound effect when summoning King Crimson is King Crimson yelling "It's over!"
+*Tyrant Crimson is the most expensive King Crimson skin.
+*The NPC, Diavolo's Epitaph(A.K.A Raging Demon), breaks occasionally, meaning that sometimes you wouldn't get hit by the Raging Demon if you trigger the counter.
+
+== Gallery ==
+<tabber>
+|-|Skins=
+<gallery widths="185">
+File:Higher Res Queen Crimson.png|King Crimson's first skin, Scarlet Queen (Uncommon)
+File:RobloxScreenShot20210522 103204790 (2).png|King Crimson's second skin, Cookies & Crimson, AKA Manga King Crimson (Uncommon)
+Vinegar crimnson.jpg|King Crimson's third skin, Vinegar Crimson (Common)
+File:EnderCrimson.jpeg|King Crimson's fourth skin, King of the End (Legendary)
+Nexus Crimson.JPG|King Crimson's 1st limited skin, Vexus Crimson (Uncommon) (Halloween 2021)
+Drain Tyrant KC.png|King Crimson's 2nd limited skin, Tyrant Crimson (Epic) (Halloween 2021)
+King Peppermint.png|King Crimson's 3rd limited skin, King Peppermint (Epic) (Christmas 2021)
+jesterkc.png|King Crimson's 4th limited skin, Jester Crimson (Uncommon) (Halloween 2022)
+</gallery>
+</tabber>
+[[Category:Stands]]
+[[Category:Close-Ranged]]
+[[Category:Part 5]]
+[[Category:Humanoid]]
+[[Category:Red]]
+[[Category:Evil]]

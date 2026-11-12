@@ -1,0 +1,212 @@
+
+
+ '''JoJo's Bizarre Adventure, Part 4 - Diamond Is Unbreakable'''
+<br />
+{{Tab2|link1=Crazy Diamond|tab1=Crazy Diamond|tab2=Crazy Diamond Requiem|link2=Crazy Diamond Requiem}}{{NewestStandTemplate|title1=Crazy Diamond|image1=<gallery>
+Crazy Diamond New Pose.png|Current
+Cd new model (sfr update).png|Old
+Shine on You Crazy Diamond.png|Older
+Screenshot 2021-02-12 at 15.40.18.png|Oldest
+</gallery>|caption1=|aliases=CD
+Shining Sapphire (former YBA name)|namesake=[https://en.wikipedia.org/wiki/Shine_On_You_Crazy_Diamond Shine On You Crazy Diamond]|stand_type=Close-Ranged Stand|abilities=Restoration,  High Speed, Immense Strength|stand_cry=Dora|user=[https://jojo.fandom.com/wiki/Josuke_Higashikata Josuke Higashikata]|relatives=[[Hermit Purple]]
+[[Star Platinum]] |affiliation=The Joestars|stand_appearance=Pink and Turquoise|gender=|height=|eye_color=Blue|image2=|caption2=|precision=6}}{{Quote|"This is just great!"|~Josuke Higashikata}}<br /><h2>Overview</h2>
+Crazy Diamond is a [[Stands|Stand]] from JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable. It is wielded by the main protagonist, Josuke Higashikata. During this part, the Stand is seen repairing objects such as a motorcycle, a pipe, and broken debris like sidewalks and broken glass. In-game, Crazy Diamond has a 2.5% chance of obtainment.
+
+Crazy Diamond's main niche is its healing, which only ten other Stands have - [[Gold Experience]], [[Gold Experience Requiem]], [[Tusk]] (all acts), [[Killer Queen: Bites the Dust]],  [[Made in Heaven]], [[Mr. President]] and [[The World Over Heaven]]. However, Crazy Diamond's healing is effectively limitless, only bound by the stand speed (which is still very fast). This makes Crazy Diamond vital for teams within the [[Steel Ball Run]] gamemode. Crazy Diamond also has an excellent combo potential.
+
+Crazy Diamond is extremely unique in that its main abilities are extremely versatile. Yo Angelo can immobilize an enemy, allowing you to land brutal attacks. The Crazy Wall ability is extremely defensive, allowing you to block projectiles and other dangers, such as [[The Hand|The Hand's]] erasures, [[Hierophant Green|Hierophant Green's]] Emerald Splash,  [[The World|The World's]] knives, and basically any other projectile. Crazy Wall is good for zoning, and dealing free damage at times. Heal Mode allows for the healing of allies. Because of Crazy Diamond's ranged moves, it can easily distance itself from opponents while dealing damage.  
+
+Crazy Diamond has a requiem version called [[Crazy Diamond Requiem]].    
+
+ Total Skill Points: 46 Points
+== Skills ==
+LMB - '''Punch:''' This short move with one second cooldown deals 8.9 damage (11.1 in Rage Mode) at max destructive power and can be used 5 times, ultimately dealing 44.5 damage if all hit.
+
+RMB- Heavy punch: This move with 5 second cooldown deals 12.1 damage (15.1 in Rage Mode) . block breaking-can be Parried
+
+E '''-''' '''Stand''' '''Barrage: '''Crazy Diamond sends out a flurry of fast and strong punches that deals 1.5 points of damage (1.8 in Rage Mode) when Destructive Power is maxed. (Around 30 punches in total.) If your entire barrage hits, it does a total 45 damage (With maxed Destructive Power). In Rage Mode, it does 54 damage. 
+
+R '''- Stand Barrage Finisher: '''Crazy Diamond throws a strong punch that deals 16.1 points of damage (22.1 in Rage Mode) when Destructive Power is maxed. (7 seconds cooldown)
+
+X '''-''' '''Rage Counter: '''The user sets themselves in a position of them combing their hair for 3 seconds, and if attacked in this state, the opponent's attack will be parried (Note: Even if the attack that activated the counter is unparriable, it will still stun the opponent and make a parry effect), and they will be stunned. Upon the counter activating it causes the user to enter [[Rage Mode]], and deal 25% more damage and healing than usual. Like other active rage modes, you'll also gain 20% damage reduction. These defensive and offensive buffs stack with spec passives, such as [[Hamon]] punch and tough skin for 40 seconds on full rage, making it very useful. However, if you are hit during rage counter while in rage mode, your bar will not be set to full. (28 second cooldown)
+
+T - '''Blood Slash:''' Crazy Diamond shoots a slash of blood pointed to your cursor dealing 16.1 damage (20.1 in Rage Mode). The move is blockable but the will still mark if it lands. (10 seconds cooldown)
+
+T (Again) - '''Homing Shard:''' If Bloodslash is on cooldown, press T again to use Shard Shoot to to shoot a projectile that auto aims where the Bloodslash hits, if it is on player it will automically aim at the player who got hit by Blood Slash
+
+Z '''- ''Crazy Wall'': '''Crazy Diamond punches the ground in front of it and the flying debris creates a wall. It deals 24.2 damage (30.2 in Rage Mode) to anyone who is caught in it. This move breaks block and cannot be parried.
+
+Y - '''Yo Angelo:''' Crazy Diamond does a barrage of seven hits to the ground, with each of the first six punches doing 1.8 damage to anyone who is caught in them, and with the final hit doing 12.9 damage, while trapping the opponent in the rocks from the destroyed ground, the rocks will crumble after a short moment. Cancelable-Bypass block  (15 seconds cooldown)
+
+G - '''Crazy Beatdown:'''  Crazy diamond throws a punch in a way similar to most beatdowns, and heals the opponent to full health after they land on the ground. Both the user and opponent enter a 17-second-animation where the opponent attempts to attack the user, not until Crazy Diamond throws an uppercut dealing 8.1 damage immediately followed by a barrage of punches dealing 0.5 damage each, Crazy Diamond ends it with two punches dealing 6.4 damage each and a final blow. Because this move is an [[Executes|execute]], the damage dealt by the final blow will depend on the victim's health before the move landed, the minimum being 6.4 (Dealing a ''minimum'' of 16 damage ''overall''). This has an 80 seconds cooldown. 
+
+H - '''Healing Mode:''' Upon activating this move, the user will enter a small start-up animation of them and Crazy Diamond equipping a yellow aura while saying "Naosu!". In Healing Mode, your Barrage, Stand Barrage Finisher, and both the M1 and M2 buttons heal for finisher and M2 for 10% more value of their damage, M1 and barrage for 90% more. healing block bypasses and stuns as their respective move (1 second switch cooldown) 
+
+'''Crazy Diamond Healing Mode'''
+
+<tabber>
+|-|Normal= 
+{{#tag:tabber|
+No Upgrade=
+LMB: +1.4
+
+RMB: +1.9
+
+R: +2.7
+
+E: +0.2
+
+{{!}}-{{!}}
+Precision I=
+LMB: +2.9
+
+RMB: +3.9
+
+R: +5.8
+
+E: +0.5
+
+{{!}}-{{!}}
+Precision II=
+LMB: +4.4
+
+RMB: +6
+
+R: +8.8
+
+E: +0.7
+
+{{!}}-{{!}}
+Precision III=
+LMB: +5.9
+
+RMB: +8.1
+
+R: +11.8
+
+E: +1
+
+{{!}}-{{!}}
+Precision IV=
+LMB: +7.4
+
+RMB: +10.1
+
+R: +14.8
+
+E: +1.2
+
+{{!}}-{{!}}
+Precision V=
+LMB: +8.9
+
+RMB: +12.2
+
+R: +17.9
+
+E: +1.5
+
+}}
+|-|Rage Mode=
+{{#tag:tabber|
+No Upgrade=
+LMB: +1.7
+
+RMB: +2.3
+
+R: +3.4
+
+E: +0.3
+
+{{!}}-{{!}}
+Precision I=
+LMB: +3.6
+
+RMB: +4.9
+
+R: +7.2
+
+E: +0.6
+
+{{!}}-{{!}}
+Precision II =
+LMB: +5.5
+
+RMB: +7.5
+
+R: +11
+
+E: +0.9
+
+{{!}}-{{!}}
+Precision III=
+LMB: +7.4
+
+RMB: +10.1
+
+R: +14.8
+
+E: +1.2
+
+{{!}}-{{!}}
+Precision IV=
+LMB: +9.3
+
+RMB: +12.7
+
+R: +18.6
+
+E: +1.5
+
+{{!}}-{{!}}
+Precision V=
+LMB: +11.2
+
+RMB: +15.2
+
+R: +22.3
+
+E: +1.9
+
+}}
+</tabber>
+
+== Combos and Tips ==
+[[Crazy Diamond/Combos and Tips]]
+
+== Trivia ==
+*Some moves come from All Star Battle, and some come from the anime and manga itself.
+*This stand previously had more moves, however it was nerfed. These removed moves included: You're In My Range, Blood Slash, and Bearing Shot,
+*Back when Blood Slash was a move, landing it on an opponent before using Shard Shot would cause it to auto-track and block break.
+*On August 16th, 2021, Uzu released a video on his YouTube channel detailing why he has been away and some leaks for an upcoming YBA update. It showed the current skin known as Jade Peace. There were many debates on if this is either a requiem, skin, or over heaven, with the outcome being a skin.
+*Crazy Diamond's stand-summon voice-line is Josuke saying, "This is just great!"
+*Crazy Diamond's Heal Mode voice-line is Josuke saying, "Naosu!" (written 治す or 直す) which means heal/repair.
+*Similar to many other stands, the Crazy Ruby and Jade Peace skins still use Crazy Diamond's old model.
+*Uzu once suggested that crazy diamond would have a 'rock' ability like [https://hunterxhunter.fandom.com/wiki/Gon_Freecss?so=search Gon] from [https://hunterxhunter.fandom.com/wiki/Hunter_×_Hunter Hunter X Hunter], but he never gave another update to this statement, this turned out to be crazy diamond's old Rage Heavy attack.
+*The programming for the beatdown has an odd quirk; when hitting someone with low enough health that the normal beatdown hits would finish off, they instead take damage as normal and do not die until the beatdown finishes. This means that rather than being completely cosmetic, it actually does heal them to full, and only adds on any damage once the move finishes.
+
+
+== Gallery ==
+<tabber>
+|-|Skins=
+<gallery widths="185">
+Screenshot 2021-05-04 171451.png|Crazy Diamond's first skin, Crazy Ruby.
+Jade Peace temporary picture.png|Crazy Diamond's second skin, Jade Peace.
+Drain Elizabeth Liones.png|Crazy Diamond's third skin, Elizabeth Liones from 7 Deadly Sins (Epic).
+CrazyDiamondTsunade.png|Crazy Diamond's fourth skin, Tsunade Senju from Naruto (Uncommon)
+No Image Avaiable.png|Crazy Diamond's fifth skin, Sakura Haruno from Naruto (Epic).
+CrazyIdolMietekMT.png|Crazy Diamond's sixth skin, Crazy Idol (Epic).
+NeonAscensionMietekMT.png|Crazy Diamond's seventh skin, Neon Ascension Diamond (Legendary)
+Crazy Overseer.png|Crazy Diamond's First (Halloween) Limited Skin, Crazy Overseer.
+</gallery>
+</tabber>
+
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:Healers]]
+[[Category:Pink]]
+[[Category:Blue]]
+[[Category:Close-Ranged]]
+[[Category:Part 4]]
+
+{{NavigationBox}}

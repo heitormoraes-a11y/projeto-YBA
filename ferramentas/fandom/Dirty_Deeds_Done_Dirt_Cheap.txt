@@ -1,0 +1,118 @@
+{{Tab2|link1=Dirty Deeds Done Dirt Cheap|tab1=D4C|link2=D4C: Love Train|tab2=D4C: Love Train}}
+
+
+ '''JoJo's Bizarre Adventure, Part 7 - Steel Ball Run'''
+
+
+{{NewestStandTemplate|title1 = Dirty Deeds Done Dirt Cheap (D4C)|image1 = <gallery>
+NEWD4C_Trello.png|Current
+NEW D4C IMAGE PAGE.png|Old 
+D4C 2.0.png|Older
+D4c.png|Oldest
+</gallery>|aliases = D4C
+
+
+Filthy Acts At A Reasonable Price (FA3RP) (Localized name)
+
+Criminal Tasks Done Cunningly (CTDC) (YBA Name)|namesake = [https://en.wikipedia.org/wiki/Dirty_Deeds_Done_Dirt_Cheap Dirty Deeds Done Dirt Cheap]|stand_type = Close-Ranged Stand|abilities = Dimension Travelling|user = Funny Valentine|affiliation = President of the United States|stand_appearance = Humanoid type stand, resembles a Cyan and Pink stitched up rabbit|gender =|eye_color = Pink|caption1=|stand_cry=|relatives=|height=|image2=|caption2=|Stand Cry=DOJYAAN..!}}{{quote|''“My heart and actions are utterly unclouded...! They are all those of 'Justice'."|~ Funny Valentine}}<br />
+==Overview==
+Dirty Deeds Done Dirt Cheap or D4C is the Stand of President Funny Valentine, the main antagonist of JoJo's Bizarre Adventure: Steel Ball Run. This [[Stands|Stand]] has a 20% chance of being obtained in-game from a [[Saint's Corpse Parts|Rib Cage of The Saints Corpse]]. 
+
+''Dirty Deeds Done Dirt Cheap'' is great at zoning. Its pocket revolver can detonate smoke clouds from [[The World (Alternate Universe)]], allowing it to utilize the crowd control effect of the explosion. The gun itself, when upgraded, is also quicker than [[The World (Alternate Universe)|TWAU]]'s Revolver. Aside from the gun, a D4C user also relies on ''Dimensional Victim Clone'' for damage at longer ranges and ''Dimensional Clones'' to overwhelm their opponent with M1s and M2s. This can be used in tandem with Clone Swap to punish opponents barraging or to give some (albeit unreliable) mobility.  
+
+D4C's main advantage is ''Dimensional Hop'', which can be compared to [[Gold Experience Requiem|Gold Experience Requiem's]] ''[https://your-bizarre-adventure.fandom.com/wiki/Gold_Experience_Requiem#Return_To_Zero_.28RTZ.29 Return to Zero]'', as it has the possibility to nullify time related attacks when timed properly. This is harder to utilize in a serious fight, however, due to it being rather slow and not easily done in the short windup of [[Time Stop]]. 
+
+This stand has only 2 melee attacks, the standard barrage and barrage finisher. Despite this, it has rather high Destructive Power and can be used at close range without too much trouble. However, using a barrage to stun, then a finisher to knock down opponents in order to dash away and maintain distance is more effective than engaging in a melee fight. D4C also lacks any sort of attack that inflicts a [[Status Effects|Status Effect]], which gives it no way to stall out its enemy.      
+
+This stand can be evolved into [[D4C: Love Train]] with the use of [[Saint's Corpse Parts|Heart of The Saints Corpse]].
+ Total Skill Points: 50 Points
+<br />
+==Skills==
+LMB - '''Punch:''' D4C does a punch that deals 9.9 damage at max Destructive Power.
+
+E - '''Stand Barrage: '''D4C does a flurry of punches that deals 1 base damage per punch; 1.6 damage with max destructive power and 2.1 if charged with [[Hamon]]. 
+
+R - '''Stand Barrage Finisher: '''D4C throws a strong punch, dealing 13.5 dmg (19.8 dmg when destructive power is maxed out).
+
+T - '''Pocket Revolver:''' The user brings out a pistol, and shoots wherever their cursor is located (in front of you if you're Mobile) dealing 22 damage with max Destructive Power. The speed of this move can be determined by the upgrades of ''Quick Draw''. This move can be used when D4C isn't out, but will do less damage.
+
+Z - '''Dimension Hop:''' D4C waves an American flag at the user for a few seconds, then the user gets transported to a different dimension where they can move around freely. You can also bring other players in the dimension by having the other player stand next to you while D4C is waving the American flag. Other players in the radius of the dimension cannot interact with the player inside of the dimension. While another player is inside of the dimension, moves such as [[Time Stop|Timestop]], Reality Marble, and Conqueror's Will do not work. Gold Experience Requiem's ''Return To  Zero'' can cancel D4C's dimension hop. Like all its other Dimension moves, the speed of this can be determined/upgraded by getting ''Quick Draw'' upgrades. 
+
+U - '''Dimensional Clones: '''D4C waves an American flag towards the direction the user is facing for a few seconds and then a clone NPC that looks just like the player's avatar will spawn and fight the nearest NPC/Player. The number of clones spawned depends on how much Dimension Traveler is upgraded, the number of clones is increased by up to 3 when maxed out and the damage that the clones inflict is scaled with destructive power.
+
+Y - '''Chop:''' D4C throws a chop to the neck. if this lands, the move will apply bleed to the opponent and stun them for a bit. 
+
+*'''Hemorrhaging Strike''': Makes the chop stronger, bypass block and ragdoll the opponent, but makes the move parriable.
+
+X - '''Clone Swap:''' Swap places with one of your clones (requires your cursor to be on one) you can swap places with another D4C's victim clone of yourself.    
+
+== Skill Tree==
+<tabber>
+|-|Passive=
+Quick Draw: increases how fast the Pocket Revolver and Flag are drawn
+*Quick Draw I: 1 points
+*Quick Draw II: 2 points
+*Quick Draw III: 2 points
+*Quick Draw IV: 2 points
+*Quick Draw V: 2 points
+
+Dimensional Traveler: Spawns one more clone to fight for you
+*Dimensional Traveler I: 2 points
+*Dimensional Traveler II: 3 points
+Dimensional Searcher: 3 point, increases the health and strength of your clones.
+|-|Active=
+Destructive Power: increases Stand damage
+*Destructive Power I: 1 points
+*Destructive Power II: 2 points
+*Destructive Power III: 2 points
+*Destructive Power IV: 3 points
+
+Dimension Control: extends how long a player can stay in the dimension
+*Dimension Control I: 1 points
+*Dimension Control II: 2 points
+*Dimension Control III: 2 points
+*Dimension Control IV: 2 points
+*Dimension Control V (Allows you to enter the dimension uninterrupted. If someone ragdolls you, the move will still be cancelled): 3 points
+|-|Skills=
+*Pocket Revolver: 2 point
+*Dimensional Self-Clones: 3 points
+*Dimension Hop: 3 point
+</tabber>
+
+== Combos and Tips ==
+[[Dirty Deeds Done Dirt Cheap/Combos and Tips]]
+
+== Trivia==
+
+*Its M1's do the most damage out of all the non-evolved stands in game, good for starter players.
+*Sometimes, using Dimension Hop and coming back will make everyone seem invisible unless they get of their horse.
+*It was one of the first Part 7 Stands to be added to the game, along with Scary Monsters.
+*Dirty Deeds Done Dirt Cheap initially had a more bulky model, though this was changed to be more modest due to the lag it gave off.
+*The player used to be able to kill their own clones for blood with the [[Vampire (Race)|vampire]] race.
+*D4C's user is able to trigger TWAU's smoke bomb explosion by shooting it with D4C's T move (Pocket Revolver).
+*According to Stand stats in Part 7, D4C's strength is an A, meaning that the raw physical power of D4C is on the same level as [[The World (Alternate Universe)]]. Both have been shown to easily tear off limbs with a simple chop. It would also mean that the physical power of D4C is on par with that of [[Star Platinum]] from the main universe.
+*Both D4C and D4C:LT can use Dimension Victim Clone to see invisible player's avatars and usernames by aiming the move at the invisible player's stand. This is one of two stand moves that can see an invisible player's avatar and username, the other being GER's counter Nullification: Zero.
+*Clones can actually damage their user, this is most evident if you were to use the cheesing strategy against Jotaro Kujo (6) and use your clones while he's in the dimension.
+*If you are using vampirism and have a zombie alive, the dimensional clones will target the zombie despite not being able to damage it. This can be useful to have your dimensional clones follow you around similar to the zombies rather than remaining on a dead enemy after they are summoned.
+
+<br/>
+
+=='''Skins'''==
+[[File:D4C Skin in YBA- L.png|thumb|2x2px]]
+<gallery>
+File:D4she.png|D4C's first shiny, D4-She (Epic).
+File:Devil4C.png|D4C's second shiny, Devil4C (Common)
+File:4DC.png|D4C 3rd shiny: Triangle Guard (Uncommon)
+File:Hidden Leaf Hero (D4C).png|D4C's fourth shiny, Hidden Leaf Hero (Legendary)
+</gallery>
+=='''Gallery'''==
+<gallery>
+Screen Shot 2021-05-27 at 14.48.53.png|D4C's Dimension near Fugo
+File:D4C Skin in YBA- L.png|Skin D4C in YBA: L 
+</gallery>
+{{NavigationBox}}
+[[Category:Stands]]
+[[Category:Close-Ranged]]
+[[Category:Part 7]]
+[[Category:Corpse Part Stands]]
+[[Category:Evil]]

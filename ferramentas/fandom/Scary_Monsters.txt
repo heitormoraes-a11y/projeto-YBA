@@ -1,0 +1,197 @@
+ '''JoJo's Bizarre Adventure, Part 7 - Steel Ball Run'''
+
+{{NewestStandTemplate|image1 = {{!}}image  = <gallery>
+Scarymonsters_nobackground.png|Current
+Scary Monsters, Humanoid Ver.png|Current (Humanoid)
+NEW SM IMAGE PAGE-removebg-preview.png|Old
+</gallery>|aliases = Frightening Monsters (localised name)
+Horrorsaur (Old YBA anti copyright name)
+SM|namesake = [https://en.wikipedia.org/wiki/Scary_Monsters_(and_Super_Creeps) Scary Monsters (And Super Creeps)]|stand_type = Integrated Stand|abilities = Dinosaur Transformation, Close-Ranged Attacks, Minion Summoning|stand_cry = |user = Dr. Ferdinand (original user)
+Diego "Dio" Brando|stand_appearance = Utahraptor|eye_color = Dark grey|image2 = scary monsters.jpg|title1=Scary Monsters|gender=Male}}{{Quote|"I will stand far above that flock of pigeons, and I will control them!"|-Diego, commenting about humanity}}<br />
+== Overview==
+
+Scary Monsters is the dinosaur-like stand of Diego Brando from Jojo's Bizarre Adventure: Steel Ball Run. The stand has a 1/5, or in other words, 20% chance to be obtained from a [https://your-bizarre-adventure.fandom.com/wiki/Rib_Cage_of_the_Saint's_Corpse Rib Cage Of the Saint's Corpse], with Worthiness 5 (to have a "guaranteed" use), of course.      
+
+Scary Monsters is very powerful, and versatile. By default, it has a low destructive power. Its skill tree takes a lot of points, (71 points to max everything) and has a lot of upgrades. However, not all of these upgrades are needed for the stand to be versatile and worth using in combat. 
+
+Scary Monsters is the first (and only at the moment) stand to have two different forms. One is the humanoid version, the other is the dinosaur version. In general, the humanoid version is better for applying pressure onto enemies, and the dinosaur version is better for damage output, defense and mobility. Due to all the buffs the dinosaur version provides to the user, you are unable to use any fighting-style moves when in full (dinosaur) form. 
+
+It has the abilities any dinosaur would have - utilizing its claws as its main weapon, accompanying its tail. Despite how basic it may sound, the stand also has unique abilities, for example, putting enemies in a fossilized state, stunning them for a long time. Scary Monsters may also summon mini-dinosaur minions using a projectile. Scary Monsters has more variety than most stands and is more versatile than most other stands. Despite this, it is able to keep a fair balance between combat, mobility, and defense.  
+
+ Total Skill Points: 71 Points
+<br />
+==Skills==
+'''Passive - Dino-Virus:''' People hit by Scary Monsters' abilities are marked by a virus icon. When opponent has 3 virus icons and is below 5%-21% (upgradable), the will die and be converted into a dino minion similar to  [[Vampirism]]'s zombies. If the user gets below 20% HP, all virus icons will disappear from their enemies.
+
+E - '''Barrage''' Scary Monsters performs a fast barrage of slashes that deal 1.1 damage in Base Form and 2.0 damage in Full Form.
+
+R - '''Barrage Finisher''' Scary Monsters performs a heavy attack that does 12.5 damage in Base Form and 22.5 in Full Form.
+
+{| class="article-table"
+!Skill Name
+!Description
+!Damage
+!Properties
+!Showcase
+|-
+|T - Tail Whip
+|User leaps forward and delivers a spin attack with their tail.
+|3 x 4.7 + 14 
+|Blockable
+|[[File:Smtail.gif|thumb|Hybrid Form Tail Whip]]
+|-
+|Y - Fossilization
+|After a quick windup, user rushes with high speed and immobilizes anyone hit for up to 5 seconds. The fossilization also ends upon taking damage.
+|5 + 25 
+|Blockable
+|[[File:Smfossil.gif|thumb|Hybrid Form Fossilization]]
+|-
+|Z - Dino Dash
+|User dashes forward block breaking anyone caught in it.
+|25
+|Guardbreak
+|[[File:Smdash.gif|thumb|Hybrid Form Dino Dash]]
+|-
+|X - Dino Army
+|User raises their hand to launch flock of birds at the enemy, which turn into dinosaur minions upon hit.
+|6 every minion's hit
+|Blockable // Auto track
+|[[File:Smarmy.gif|thumb|Hybrid Form Dino Army]]
+|-
+|C - Dino Barrage
+|Upon activating the skill, user performs a slash attack that moves you slightly in the direction you're facing, followed by 5 quick slashes that stun the enemy for short time. Upon activating the skill again during next 6 seconds, the user will perform Second Phase of the attack, which delivers 3 strong slashes dealing equal damage.
+|9 + 1.8-2.1 x 5 (random) // 2nd phase: 7 + 7 + 7
+|1st phase: Blockable, True Extender // 2nd phase: Blockable, Last hit Guardbreaks
+|[[File:Smbarrage.gif|thumb|Hybrid Form Dino Barrage (1st phase)]] [[File:Smbarrage2.gif|thumb|Hybrid Form Dino Barrage (2nd phase)]]
+|-
+|G - Transformation
+|User flips into the air, turning into full form, or turning into hybrid form again.
+|
+|Requires 10% of Dino Bar to change into Full Form.
+|[[File:Smtransform.gif|thumb|Scary Monsters Transformation]]
+|-
+|T - Tail Whip (Requires Transformation)
+|User performs 360° tail swipe dealing massive damage.
+|40
+|Blockable
+|[[File:Smfulltail.gif|thumb|Full Form Tail Whip]]
+|-
+|Y - Fossilization (Requires Transformation)
+|User charges with high speed, sending anyone hit in the air, biting back into the ground, fossilizing them.
+|35
+|Blockable
+|[[File:Smfullfossil.gif|thumb|Full Form Fossilization]]
+|-
+|Z - Dino Dash (Requires Transformation)
+|User leaps into the air before slamming into the ground dealing AOE damage.
+|15 + 25 
+|Guardbreak
+|[[File:Smfulldash.gif|thumb|Full Form Dino Dash]]
+|-
+|X - Dino Army (Requires Transformation)
+|User roars, summoning 10 birds each dealing light damage, creating up to 3 dino minions.
+|4 x 10 / 6 every minion's hit
+|Blockable // Autotrack
+|[[File:Smfullarmy.gif|thumb|Full Form Dino Army]]
+|-
+|C - Dino Barrage (Requires Transformation)
+|User dashes forward with bite intent, if anyone is hit, the beatdown cutscene will play dealing medium damage.
+|~40
+|Bypasses block // Beatdown
+|[[File:PlaceHolder.png|thumb|]]
+|}
+
+==Combos and Tips==
+[[Scary Monsters/Combos and Tips]]
+
+==Skill Tree==
+[[File:Scary Monsters - Skill Tree.jpg|thumb|Scary Monsters (Rework) - Skill Tree]]
+<tabber>
+|-|Passive=
+Dino Virus: Infects opponents with the Dino Virus if hit by any abilities which turns them into a Dino minion if they are below 5% HP with 3 marks. (The Dino Virus will disappear if the opponent hasn't been damaged from 30s or the user is at 20% HP). 1 Point
+*Potent Virus: Increases the HP execute threshold of Dino Virus by +2%
+**Potent Virus I: 4 Points
+**Potent Virus II: 4 Points
+**Potent Virus III: 3 Points
+**Potent Virus IV: 3 Points
+**Potent Virus V: 2 Points
+**Potent Virus VI: 2 Points
+**Potent Virus VII: 2 Points
+**Potent Virus VIII: 1 Point
+|-|Skills=
+*'''Dino Full Form''' 1 Point
+
+*'''Fossilization''' 1 Point
+
+*'''Dino Dash''' 1 point
+
+*'''Tail Whip''' 1 Point
+
+*'''Dino Barrage''' 1 Point
+
+*'''Dino Army''' 1 Point
+|-|Upgrades=
+Form Mastery: Increases the duration of Dino Full Form by 7s and charges the bar faster.
+*Form Mastery I: 1 Point
+*Form Mastery II: 1 Point
+*Form Mastery III: 1 Point
+*Form Mastery IV: 1 Point
+*Form Mastery V: 1 Point
+
+Persistence: Increases the duration of Fossilization's stun and the duration of its charge-up run.
+*Persistence I: 1 Point
+*Persistence II: 3 Points
+*Persistence III: 2 Points
+*Persistence IV: 1 Point
+*Persistence V: 1 Point
+
+Dash Mastery: Increases damage and reduces cooldown of Dino Dash
+*Dash Mastery I: 4 Points
+*Dash Mastery II: 4 Points
+
+Tail Mastery: Increases damage and reduces cooldown of Tail Whip
+*Tail Mastery I: 4 Points
+*Tail Mastery II: 4 Points
+
+Sharper Claws: Increases Damage of Dino Barrage
+*Sharper Claws I: 1 Point
+*Sharper Claws II: 1 Point
+
+Dino Army Upgrades
+*New Recruit: Infects 1 extra bird with Dino Virus when summoning Dino Army. 4 Points
+*Bird Whisperer: Decreases the cooldown of Dino Army. 4 Points
+*Precision: Increases the bird dino minion's HP
+**Precision I: 1 Point
+**Precision II: 1 Point
+*Speed: Increases the bird's speed.
+**Speed I: 1 Point
+**Speed II: 1 Point
+</tabber>
+
+
+==Trivia==
+*Contrary to almost every other beat-down, excluding [[Stone Free|Stone]] [[Stone Free|Free's]] "[[Stone Free|Homerun]]", and the [[vampirism]] spec's "Oblivion Of Death", the damage of Scary Monsters' beat-down is unaffected by the health of the victim.
+*Scary Monsters has the highest destructive power in the game, tied with [[D4C: Love Train]]. Scary Monsters is the first stand to have a different set of moves in an Awakening.
+*It is the 3rd most expensive stand in terms of skill points, requiring 71 to learn all the moves. It is behind [[Soft & Wet|Soft and Wet]] (72) and [[The World Over Heaven|The World: Over Heaven.]] (75)
+*Scary Monsters (at release) had a weird bug, where if you used "Dino Full Form" and used the command "/e sit" it would fling you extremely high
+*Scary monsters is apart of the current YBA meta, due to the low windup, long range, and low end-lag of all the moves, not to mention the insane damage, (especially in the full-dino form.)
+*Scary Monsters has maxed out sturdiness, when in its Full Dino Form.
+*Scary Monsters’ skill tree resembles it’s full form.
+
+==Skins==
+[[File:Smtwauhumanoid.png|alt=Scary Monsters: The World Alternate Universe (Legendary) Hybrid Form.|thumb|Scary Monsters: The World Alternate Universe (Legendary) Hybrid Form.]]
+[[File:Screenshot 2024-01-29 091549.png|thumb|Scary Monsters: Retro The World (Epic) Hybrid Form.|left]]
+[[File:Screenshot 2024-01-29 092009.png|thumb|Scary Monsters: Retro The World (Epic) Dino Form.|center|298x298px]]
+[[File:Reversemonster.png|thumb|Reverse Monsters (Common) Hybrid Form|left]]
+[[File:ReverseMonstersDinoForm.png|center|thumb|283x283px|Reverse Monsters (Legendary ) Dino Form]]
+[[File:Scary Monsters- The World Alternate Universe (Legendary) Dinosaur Form.png|thumb|Scary Monsters- The World Alternate Universe (Legendary) Dino Form.|396x396px]]
+[[File:SM-TW.png|thumb|Scary monsters: The world (uncommon)]]
+[[File:SM-TW-Man.png|thumb|Scary monsters: The World hybrid form]]
+{{NavigationBox}}
+
+[[Category:Stands]]
+[[Category:Non-Humanoid]]
+[[Category:Blue]]
+[[Category:Close-Ranged]]
+[[Category:Part 7]]
+[[Category:Corpse Part Stands]]

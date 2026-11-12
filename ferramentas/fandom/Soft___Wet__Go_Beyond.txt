@@ -1,0 +1,104 @@
+ {{tab2|link1=Soft & Wet|tab1=Soft & Wet|link2=Soft & Wet: Go Beyond|tab2=Soft & Wet: Go Beyond}}
+ JoJo's Bizarre Adventure, Part 8 - JoJolion
+{{Quote|My name... is 'Josuke Higashikata'... and my memories from when I was born are long gone from this world, and they'll never come back. But even so... there's something I'm certain of. I am your son. No matter where I go, or what era I live in, that's something certain that I can believe in, mom.... I'll save you. I swear it.|-Josuke Higashikata Part 8}}{{NEWSTANDTEMPLATE|image1=<gallery>
+Soft&WetGOBEYOND.png|Current
+</gallery>|abilities=Bubble Generation, Plunder, and Explosive Bubbles|aliases=|stand_name=Soft & Wet: Go Beyond|yba_name=Soft & Wet: Go Beyond|user=Josuke Higashikata (JJL)|stand_type=Close-Ranged|stand_cry=Ora}}
+
+== Overview ==
+'''Soft & Wet: Go Beyond''' is the evolved [[Stands|Stand]] of Josuke Higashikata, the main protagonist from Part 8 of JoJo's Bizarre Adventure JoJolion, which he obtained by fusing with Yoshikage Kira's body. Soft & Wet: Go Beyond is a powerful stand with long-ranged attacks comparable to that of [[Tusk (Act 4)|Tusk Act 4]] and [[Killer Queen: Bites the Dust]].
+
+Soft & Wet: Go Beyond is able to manipulate bubbles in a similar way Killer Queen: Bites The Dust can manipulate Stray Cat's bubbles, as Josefumi fused with Kira's body. This essentially makes it a similar type of stand as Bites The Dust, paired with the damage from the Bubble Erasure effect. This is what makes this stand strong, paired with the fact that it has multiple stuns, opening up combos to [[Specialities|specs]]. However, the main problem with this stand is that sometimes the target will ragdoll to the point they start flying, giving them an opportunity to escape the user. Soft & Wet is also extremely vulnerable to aggressive type stands such as [[Shadow The World]], and time manipulating stands like [[Star Platinum: The World]]. Nonetheless, Soft & Wet: Go Beyond is a powerful stand that can rival high tier evolved stands when used correctly.
+
+== Obtainment ==
+First, the player needs to obtain [[Soft & Wet]] from [[Rib Cage of the Saint's Corpse|Ribcages of the Saint's Corpse]] with a 20% chance. It can be evolved into Soft & Wet: Go Beyond by talking to [[Jesus (NPC)|Jesus]] with [[Spin]], [[Killer Queen]] and a [[Rokakaka Fruit|Rokakaka]]. '''Reminder''' DO NOT roka Killer Queen, You must first acquire Soft & Wet and [[Spin]],  then speak to [[Jesus (NPC)|Jesus]]. He will take it, then you have to go back to Jesus with [[Killer Queen]] while still having [[Spin]] and a [[Rokakaka Fruit|Rokakaka]]. He will then give you Soft & Wet: Go Beyond and Josefumi's Hat cosmetic in return.
+ Total Skill Points: 55 Points
+
+== Skills ==
+E - '''Stand Barrage''' Soft & Wet unleashes a quick barrage of punches, each punch dealing 0.9-1.5 damage. This move can be blocked.
+
+R - '''Stand Barrage Finisher''' Soft & Wet throws a heavy punch, dealing 14.5 damage and ragdolling the enemy. This move block breaks and can be parried.
+
+Y - '''Bubble Prison''' After a fairly long windup, Soft & Wet creates a bubble, trapping the victim inside it, this move deals 30 damage and pops after a short duration, the bubble pops earlier if the victim takes any damage. This move can be parried and block breaks.
+
+T - '''Vision Plunder''' Soft & Wet throws a bubble at the cursor, if it lands it deals 30 damage and blinds the victim temporarily, the blind simply causes your screen to go extremely dark. This move can be blocked and grants decent stun.
+
+Z - '''Moisture Plunder''' After a short windup, Soft & Wet creates a barrier of bubbles in front of you, if the opponent walks through it they will take rapid 1.3 damage and get stunned. After some time, the bubbles pop, having small AOE. This move is blockable and can be used as a combo extender. (1.7 fully upgraded, 2.1 with Hamon)
+
+H - '''Friction Plunder''' After a long windup, Soft & Wet steals the friction of everyone within a medium radius around you and unleashes it in a AoE shockwave, dealing 30 damage. This move can be blocked and has hyperarmor.
+
+X - '''Go Beyond''' Soft & Wet shoots an auto tracking projectile that detonates a large explosion, dealing 38 damage. This move does ''true damage, bleeds, removes a limb, goes through walls, bypasses counters, and has hyper armor''. This move bypasses block but deals less damage if the opponent is blocking. The projectile only detonates if the target is successfully locked on, if not it will just pierce through them. Spin will buff this with or without charge. Spin's buff is actually more than Hamon's. (38 > 47.5 with Hamon active.) 43 second cooldown.
+
+C - '''Friction Beatdown''' Soft & Wet performs a punch, if connected, the user will throw a small bubble, dealing 5 damage and knocking the opponent down. Soft & Wet will proceed to uppercut the opponent into the air, dealing 10 damage and perform a barrage, with each punch dealing 0.8, finishing it off by uppercutting them again, and throwing a gut punch at them, finishing the beatdown. The amount of damage done depends on Execute, this move can be parried and bypasses block. Deals approximately 41 damage plus execute.
+
+== Skill Tree ==
+<tabber>
+|-|Passive=
+N/A
+|-|Moves=
+Friction Plunder - 1 Skill Point
+
+Go Beyond - 5 Skill Points
+
+Vision Plunder - 1 Skill Point
+
+Moisture Plunder - 1 Skill Point
+
+Bubble Prison - 1 Skill Point
+
+Friction Beatdown - 1 Skill Point
+|-|Upgrades=
+
+Plundering: Increases Vision Plunder's damage and blind duration (Each upgrade increases blind by 1 second and damage by 3)
+*Plundering I - 3 Skill Points
+*Plundering II - 3 Skill Points
+*Plundering III - 3 Skill Points
+*Plundering IV - 3 Skill Points
+*Plundering V - 3 Skill Points
+
+Moisture: Increases Moisture Plunder's bubbles' lifetime and damage (Each upgrade increases the bubble duration by 4 seconds and damage by 0.1/0.2)
+*Moisture I - 3 Skill Points
+*Moisture II - 3 Skill Points
+*Moisture III - 3 Skill Points
+*Moisture IV - 3 Skill Points
+*Moisture V - 3 Skill Points
+
+Persistence: Increases Bubble Prison's duration and Damage (Each upgrade increases Bubble Prison's damage by 3.3 and the duration by 1/0.5)
+*Persistence I - 3 Skill Points
+*Persistence II - 3 Skill Points
+*Persistence III - 3 Skill Points
+*Persistence IV - 3 Skill Points
+*Persistence V - 3 Skill Points
+
+
+</tabber>
+
+== Combos and Tips ==
+[[Soft & Wet: Go Beyond/Combos and Tips]]
+
+== Trivia ==
+
+* When summoned, Soft & Wet: Go Beyond will give the user the Joestar Birthmark. 
+* Go Beyond's "Friction Beatdown" is directly based off of Josuke (Part 8)'s Great Heat Attack from All Star Battle.
+* Soft & Wet is the 5th stand to have the stand cry "Ora!". The others are [[Star Platinum]], [[Star Platinum: The World]], [[Tusk (Act 4)|Tusk Act 4]], and [[Stone Free]].
+* When you get Soft & Wet Go Beyond, [[Jesus (NPC)]] calls it the "strongest fighting spirit." However this was never confirmed in the manga.
+* Soft & Wet: Go Beyond cannot go into Casual SBR Servers, when just released, it was able to.
+* You are not forced to complete the entire Go Beyond quest in the same server, if you rejoin to a random one and talk to a new [[Jesus (NPC)|Jesus]], that one will have the stands/rokakaka you gave him. In other words, the quest saves.
+* Soft & Wet: Go Beyond is one of the few stands that do not change in physical appearance after evolution lore-wise, along with stands like [[Killer Queen: Bites the Dust]] and [[Star Platinum: The World]].
+
+== Skins ==
+<gallery>
+File:S&W-GB.png|Sailor S&W "GB" (Uncommon)
+File:Dood.png|Doodle Bop "GB" (Legendary)
+</gallery>
+
+== Gallery ==
+<gallery>
+File:Soft_&_Wet_Beatdown.gif|Soft & Wet Beatdown
+</gallery>
+[[Category:Stands]]
+[[Category:Part 8]]
+[[Category:Close-Ranged]]
+[[Category:Blue]]
+[[Category:Humanoid]]
+[[Category:Evolved Stands]]
+[[Category:Corpse Part Stands]]

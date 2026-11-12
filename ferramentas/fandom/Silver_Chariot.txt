@@ -1,0 +1,72 @@
+{{tab2|link1=Silver Chariot|tab1=Silver Chariot|link2=Chariot Requiem|tab2=Chariot Requiem}}
+
+
+ '''JoJo's Bizarre Adventure, Part 3 - Stardust Crusaders'''
+
+
+<br />{{NewestStandTemplate|namesake = [https://en.wikipedia.org/wiki/The_Chariot_(Tarot_card) The Chariot (Tarot card)]|stand_type = Close-range|abilities = Fencing, increasing speed, Immense Power, Armor On/Off, Precision|stand_cry = 
+|user = Jean Pierre Polnareff|stand_appearance = Silver|eye_color = Black|height =|image1 = <gallery>
+SilverChariotNew.png|New
+NEW SC IMAGE PAGE.png|Old
+silver chariot new.png|Older
+</gallery>|aliases=Grey Rapier (Former YBA name)
+SC (Shortened)}}
+{{Quote|My stand, Silver Chariot symbolizes "Invasion" and "Victory". "Hora!".|Jean Pierre Polnareff}}<br />
+== Overview ==
+Silver Chariot is a close-ranged  [[Stands|Stand]] based off [https://en.wikipedia.org/wiki/The_Chariot_(Tarot_card) The Chariot], a Tarot card. Silver Chariot is used by [https://jojowiki.com/Jean_Pierre_Polnareff Jean Pierre Polnareff] in [https://jojowiki.com/Stardust_Crusaders Stardust Crusaders]. The Stand also appears later on in the series in [https://jojowiki.com/Vento_Aureo Golden Wind.] At first glance, Silver Chariot appears to be similar to a medieval knight. Its pupils are blue, and its irises are yellow. Silver Chariot has 2 rapiers (1 is used to attack and the other is for "Last shot".
+
+This Stand has very fast, unpredictable moves with very little windup and extremely short cooldowns. Its skill tree is also dirt cheap, allowing you to max out both your fighting style and your Stand completely. However, all of its moves are blockable. This can be countered by its '''Shed Armor''' ability, which makes your barrage finisher and M2 come out much quicker, block breaking the opponent.
+ Total Skill Points: 35 Points
+
+== Skills ==
+
+'''M1:''' Chariot uses its rapier to hit the victim, dealing 7.3 damage at max destructive power. Blockable.
+
+'''M2:''' Chariot stabs the opponent with more force, dealing 14.6 damage at max destructive power. It is recommended to use this for block breaking opponents because it has very little windup(even faster with armor off) and it also has no voiceline. Block breaks, but is parriable.
+
+'''E — Stand Barrage:''' This is one of the more unique barrages in the game. Chariot rapidly stabs the victim multiple times with its rapier, dealing 1.1 damage per hit at max destructive power. Its low barrage damage is compensated for by its much faster attack speed, which becomes even faster with armor off. Blockable. 7-second cooldown.
+
+'''R — Stand Barrage Finisher:''' A unique finisher where Chariot stabs the opponent, dealing 18.3 damage at max destructive power. Like the barrage, this has a unique animation. Block breaks, but is parriable. 7-second cooldown.
+
+'''Z — Last Shot:''' Chariot launches its rapier as a projectile, dealing 25 damage at max destructive power. The projectile can ricochet off walls and floors up to 15 times. This move redirects to the nearest player upon ricocheting. It also deals significant stun on hit, making it good for starting combos or applying pressure if an opponent tries to pose. Blockable. 10-second cooldown.
+
+'''H — Shed Armor:''' This removes Chariot's armor for 20 seconds. While armor is off, the user moves significantly faster, and all of Chariot's moves have much less windup and end-lag. However, this move lowers the user's defense by 20, making it risky to use. Despite the risk, the buffs are very significant. Avoid using this at low health. It has a 40-second cooldown, but a downtime of only 20 seconds because the cooldown begins immediately upon activation. 
+
+'''T — Million Pricks:''' Strikes the opponent with a slash that deals 3 damage (at max destructive power and upgrades), followed by multiple 1.5 damage strikes that are extremely fast. At max destructive power, this move deals approximately 30 damage total. The attack lasts for a long duration; the opponent can't attack back during the animation but can still barrage or block the strikes. This move has a lot of stun, and you are even able to stack other moves while the victim is being struck, making it amazing for extending combos. While it has a small hitbox and is blockable, the ability to stack moves compensates for these weaknesses. 16-second cooldown.
+
+'''Y — Cycle Slash:''' A 360-degree slash that hits 4 times and deals 8 damage per hit at max destructive power (32 damage total). It has hyper-armor and can be upgraded for increased reach. This move pulls any caught opponents closer to the user, making it excellent for starting combos. It also features a very large, generous hitbox. Blockable. 12-second cooldown.
+
+== Combos and Tips ==
+[[Silver Chariot/Combo and Tips]]
+
+== Trivia ==
+
+*Silver Chariot's Stand Cry "Hora" Means "Come On" or "Bring It On!"
+*You Used to have the same defense with armor off, but now your defense is decreased.
+*Silver Chariot’s skill tree resembles a rapier.
+*Contrary to YBA, Silver Chariot does not actually use two rapiers. However, in the second opening of Stardust Crusaders, "JoJo Sono Chi no Kioku ~end of THE WORLD~", it does have two rapiers.
+*It's Million Pricks move is heavily based on [https://rogue-lineage.fandom.com/wiki/Whisperer Whisperer] from [https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki Rogue Lineage].
+*In the anime and manga, Silver Chariot looks much different without its armor, and it comes with the drawback of not having any protection. In YBA, the only armor removed is its shoulder pads, but the defense still drops.
+*If you use either R or RMB and hit someone it will make a unique "stabbing" sound and have a blood effect, this is just for cosmetic purposes as neither of these serves any purpose and the blood does not make the opponent bleed.
+*The infinite damage glitch with million pricks has been patched so you can no longer one shot bosses.
+
+== Gallery ==
+<gallery widths="185">
+File:Uber Spy.jpg|Uber Spy (Uncommon)
+File:RobloxScreenShot20221015 172327418 (2).png|Asuna (1.3.6 Without Face)
+File:Asuna 1.3.7.png|Asuna (1.3.7 With Face) (Legendary)
+File:Scovanew.png|Silver Chariot OVA (Common)
+File:Smelter Chariot Better View.png|Smelter Chariot (Uncommon) (Halloween 2026 Limited)
+</gallery><gallery>
+
+</gallery>
+
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:Silver]]
+[[Category:Grey]]
+[[Category:Close-Ranged]]
+[[Category:Part 5]]
+[[Category:Part 3]]
+
+{{NavigationBox}}

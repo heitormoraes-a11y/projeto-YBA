@@ -1,0 +1,70 @@
+
+
+ '''JoJo's Bizarre Adventure, Part 5 - Vento Aureo'''
+
+
+{{Character|name = Six Pistols|image = <gallery>
+SixPistolsRemodel.png|Current
+NEW_6P_IMAGE_PAGE.png|Old
+</gallery>|aliases = Sex Pistols (original name)
+Six Bullets (Localized Name)
+
+Six Pistols (YBA Localized Name)
+
+6P (Commonly known as)|affiliation = Guido Mista (Stand Master)
+Passione|birthDate =|birthPlace = |species = Colony Stand
+Long-range Stand|eyes = Black (not shown in-game)|imagecaption=sixpistols2|relatives=|marital=|deathDate=|deathPlace=|gender=|height=|weight=}}{{Quote|"We'll end it right here, right now. Time to bust a cap in his mouth!"|~Guido Mista''}}<br />
+==Overview==
+Six Pistols is the [[Stands|Stand]] of [[Mista|Guido Mista]], a core ally in Part 5: Golden Wind and a part of Bruno Bucciarati's gang. Six Pistols consists of a purple revolver, with 6 bullet slots in its cylinder. When equipped, the user's arm that holds Six Pistols has a purple/blue aura. Six Pistols in Golden Wind is shown to be 6 numbered bullet-like entities with numbers labeled on them (skipping no. 4.). In-game, Six Pistols is shown to be merely a gun with omnidirectional bullets, similar to [https://jojowiki.com/Emperor The Emperor]. However, in some of its moves (Multi Shot, Redirection Barrage) if you look closely you may see some of the Pistols appear and redirect bullets.
+
+ Total Skill Points: 53 Points
+<p/>
+==Skills==
+'''Ammo Bound (Passive):''' The user has 6 shots in the cylinder. When all 6 shots are fired, the user cannot use Six Pistols until they reload.
+
+'''Improved Dashes (Passive):''' The user can dash out of stuns, allowing them to get out of combos easily.
+
+E - '''Single Shot: '''The user shoots a bullet at the cursor, which bounces around, and deals 10 damage. This takes up one bullet and bypasses block. (0.9 Second cooldown)
+
+Z- '''Stand Barrage Finisher: '''Six Pistols user does a heavy attack with their right arm, doing 10 damage and ragdolling the opponent with little to no knockback. Like a normal Barrage Finisher, this will break block but can be parried. 
+
+T - '''Redirection Barrage: '''The user fires a bullet that redirects multiple times in front of them, acting like a barrage. Does 2 damage per hit, and can last longer depending on the upgrades. Despite acting like a barrage, the user cannot use this when they are stunned, unlike most Stand Barrages. This is blockable, and using it will consume one bullet.  
+
+G - '''Multi Shot: '''The user shoots a bullet. On contact with a person, it redirects around them multiple times, dealing a lot of damage and stunning them in place for some good time. Can be blocked, and takes one bullet to use. This is mainly used as a combo starter. Deals 10 damage first then 0.8 damage per hit. Multi Shot Upgrade increases the duration of Multi shot. Hit targets can only be further hit by the user of Multi Shot while the move is redirecting.
+
+X - '''Prone Shot:''' The user lays down on their stomach and fires three unique bullets first deals 16 with the other two dealing 8 which do not have a bullet speed, because it is instant, similar to Space Ripper Stingy Eyes from [[Vampirism]]. This move applies rapid ticks of 1.5x10s bleeding.
+
+== Combos and Tips ==
+[[Six Pistols/Combos and Tips]]
+
+==Trivia==
+
+*Six Pistols was the first Stand renamed within Your Bizarre Adventure. Within the series of Jojo's Bizarre Adventure: Golden Wind, it was called ''Sex Pistols'' after the band but due to Roblox censoring the word ''sex'', it was named to Six Pistols. This was done before any of the other [[YBA Renames]].
+*When you use Redirection Barrage, you can see 1 of the Six Pistols before it gets redirected. This also applies to the Multi Shot move.
+*Multi Shot used to deal 1.2 damage per hit, but was nerfed to 0.8 damage.
+*Most of it's skins reference other guns in fiction, and even the JoJo's Bizarre Adventure franchise:
+**Headhunter is a reference to a Valorant's [https://valorant.fandom.com/wiki/Chamber Chamber], with one of his abilities being to draw the headhunter.
+**Emperor is a reference to Part 3's Hol Horse.
+**The Glock-18 series of skins is a reference to the CS:GO skin system, with fade being a relatively expensive skin. This is also supported by fade being far higher rarity then the generic Glock-18. The Glock-18 | Fade is very expensive which corelates to the rarity.
+**The Whisper gun skin is [https://leagueoflegends.fandom.com/wiki/Jhin/LoL Jhin]'s gun from League of Legends.
+**Casull is a reference to Alucard's gun from Hellsing.<ref>https://hellsing.fandom.com/wiki/Hellsing_ARMS_Casull</ref>
+*While using [[Vampirism|Vampirism]] and 6p, you used to be able to use blood suck and then dash out of it with improved dash, rapidly sending the user back and forth until the move ends, flinging them a random distance. 
+==Gallery==
+[[Category:Stands]]
+[[Category:Non-Humanoid]]
+[[Category:Purple]]
+[[Category:Long-Ranged]]
+[[Category:Part 5]]
+<gallery widths="185">
+File:Prone.png|The animation during Prone Shot.
+File:Screenshot (391).png|Six Pistols first shiny, Glock-18.
+File:Six Pistols Shiny 2.png|Six Pistols second shiny, Factory New Glock - 18 Fade.
+File:Nerf pistol.png|Six Pistols third shiny, Nerf Gun.
+File:ElfPistols.png|Six Pistols fourth, and Christmas Event limited shiny, Elf Pistols.
+File:Emperor.png|Six Pistols fifth shiny, Emperor.
+File:Emperor OVA.png|Six Pistols sixth shiny, OVA Emperor.
+File:Drain Casull.png|Six Pistols seventh shiny, Casull.
+File:Headhunter.png|Six Pistols eight shiny, Headhunter,
+File:Screenshot 2021-03-19 at 8.39.17 AM.png|Stand form.
+File:Screenshot 2025-04-30 at 10.35.40 AM.png|Six pistols ninth shiny, Whisper.
+</gallery>{{NavigationBox}}

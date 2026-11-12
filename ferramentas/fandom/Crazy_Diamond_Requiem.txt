@@ -1,0 +1,143 @@
+{{Tab2|link1=Crazy Diamond|tab1=Crazy Diamond|tab2=Crazy Diamond Requiem|link2=Crazy Diamond Requiem}}{{NewestStandTemplate|title1=Crazy Diamond Requiem|image1=CrazyDRequiemYBA.png|caption1=|aliases=CDR|namesake=[https://en.wikipedia.org/wiki/Shine_On_You_Crazy_Diamond Shine On You Crazy Diamond]<br>[https://en.wikipedia.org/wiki/Requiem_(Mozart) Requiem]|stand_type=Close-Ranged Stand|abilities=Restoration, High Speed, Immense Strength|stand_cry=Dora|user=[https://jojo.fandom.com/wiki/Josuke_Higashikata Josuke Higashikata]|relatives=[[Hermit Purple]]<br>[[Star Platinum]]<br>[[Crazy Diamond]] (precursor) |affiliation=The Joestars|stand_appearance=Pink and Turquoise|gender=|height=|eye_color=Blue|image2=|caption2=|precision=6}}{{Quote|"This is just great!"|~Josuke Higashikata}}
+
+== Overview ==
+'''Crazy Diamond Requiem''' is a hypothetical Requiem Stand based on [[Crazy Diamond]], the stand of ''JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable's'' Josuke Higashikata. It is one of few non-canon stands in the game, and the first Requiem stand to be locked behind a questline. It was added in the 1.8 Patch on September 25th, 2026, after a long time spent in development.
+
+== Obtainment ==
+Prior to obtaining this stand, you must have completed [[Isabelle the Arrowsmith|Arrowsmith Quest]] and gained the ability to make requiem arrows. You must then talk to the Arrowsmith with Crazy Diamond equipped and ask him if you are able to evolve it.
+
+For the first quest, you must heal 3000 player HP with H - Heal Mode active. It is recommended to have another player or a friend let you damage and heal them repeatedly.
+
+For the second quest, you must beat 40 criminals (e.g. Alpha Thugs, Corrupt Police).
+
+For the third quest, you must defeat 25 players with villain abilities (e.g. The World, Killer Queen, Made In Heaven, etc.)
+
+The fourth and final quest requires you to defeat [[Yoshikage Kira]] (new boss) with Crazy Diamond. This is not difficult to do on your own, but having the help of a friend and a spec (such as Vampirism) is recommended.
+
+You must talk to the Arrowsmith in between each quest and after completing every objective, and then you will unlock the ability to evolve Crazy Diamond into this stand.<pre>Total Skill Points: 59 Points</pre>
+
+== Skills ==
+'''Destructive Power:''' Increases the destructive power of your Stand.
+
+* '''Destructive Power I''' (1 point)
+* '''Destructive Power II''' (2 points)
+* '''Destructive Power III''' (2 points)
+* '''Destructive Power IV''' (3 points)
+* '''Destructive Power V''' (4 points)
+
+'''Y - You're In My Range:''' Pin down and barrage an opponent. (1 point) XX damage. 15 second cooldown.
+
+'''G - Crazy Beatdown:''' Performs a healing punch, making the fight fair before starting a beatdown that deals damage based on the victim's initial missing health. (3 points) XX damage. 80 second cooldown.
+
+'''T - Diamond Slam:''' Slam down, reforming the debris into diamond spikes that seek out and stab the nearest victims. The initial slam's final spike is larger and stronger. (1 point) XX damage. 30 second cooldown.
+
+* '''Diamond Debris I''' (2 points): Increases the amount of debris and reduces the cooldown to 27 seconds.
+* '''Diamond Debris II''' (3 points): Increases the amount of debris and reduces the cooldown to 22 seconds.
+* '''Diamond Debris III''' (3 points): Increases the amount of debris and greatly reduces the cooldown to 15 seconds.
+
+'''Z - Blood Reformation:''' Launch your blood, using it to pull victims toward you. (2 points) 20 second cooldown.
+
+* '''Reformation Speed I''' (1 point): Increases the windup and projectile speed.
+* '''Reformation Speed II''' (2 points): Increases the windup and projectile speed.
+* '''Reformation Speed III''' (2 points): Increases the windup and projectile speed.
+
+'''X - Restoration Trap:''' Reform an opponent's body into diamond, trapping them in place. (2 points) 20 second cooldown.
+
+* '''Diamond Duration I''' (2 points): Increases the trap duration.
+* '''Diamond Duration II''' (2 points): Increases the trap duration.
+* '''Diamond Duration III''' (2 points): Increases the trap duration.
+
+'''H - Diamond is Unbreakable:''' Forms a field of restoration that prevents death for everyone inside it. Friends and gang allies in the field are healed once the field dissipates. Heals 20 HP with no upgrades. (4 points) 90 second cooldown.
+
+* '''Shine on You I''' (3 points): Increases the amount and range. Heals 30 HP.
+* '''Shine on You II''' (3 points): Increases the amount and range. Heals 40 HP.
+* '''Shine on You III''' (3 points): Increases the amount and range. Heals 50 HP.
+
+'''Passives:'''
+
+* '''Diamond Durability I''' (1 point): Increases your Physical Defense while your Stand is summoned (+3).
+* '''Diamond Durability II''' (2 points): Increases your Physical Defense while your Stand is summoned by another +3 (+6 total).
+* '''Self Reformation I''' (1 point): Increases your passive health regeneration while your Stand is summoned.
+* '''Self Reformation II''' (2 points): Increases your passive health regeneration while your Stand is summoned.
+
+'''Crazy Diamond Requiem Destructive Power'''<tabber>
+No Upgrade=
+LMB: 6
+
+R: 15
+
+E: 1.3
+|-|Destructive Power I=
+LMB: 6.6
+
+R: 16.5
+
+E: 1.3
+|-|Destructive Power II=
+LMB: 7.3
+
+R: 18.2
+
+E: 1.3
+|-|Destructive Power III=
+LMB: 8
+
+R: 20
+
+E: 1.3
+|-|Destructive Power IV=
+LMB: 8.8
+
+R: 22
+
+E: 1.3
+|-|Destructive Power V=
+LMB: 9.7
+
+R: 24.2
+
+E: 1.3
+</tabber>
+
+== Combos and Tips ==
+
+* Diamond  Slam → Blood Reformation → 2x LMB→ Restoration Trap → Crazy Beatdown
+* You're In My Range → Diamond Slam → Restoration Trap → Crazy BeatdownBeatdown
+* '''Hamon''' '''(Jonathan Joestar)'''
+* Scarlet Overdrive → 2x LMB → Metal Silver Overdrive → You're In My Range → Sunlight Yellow Overdrive → Diamond Slam → ...
+* '''Tips:'''
+* The skill called “Diamond Slam” is incredibly useful for initiating combos and controlling distance; we recommend leveling it up to the maximum in the skill tree.
+* The “Diamond Slam” skill can be used to stop enemy horses in the steel ball run mode; in addition to instantly stopping them, it also drains a lot of stamina.
+* When using the “Restoration Trap” skill on the opponent, try to break block as quickly as possible; players instinctively try to block all attacks while trapped.
+* If your priority is survivability, use CDR + Vampirism (or Jonathan with physical defence), while leveling up blood regeneration (Vampirism), physical defense (CDR), and passive regeneration (CDR); you can also level up HP regeneration (Human), but this may not be suitable for everyone.
+* This is obvious, but use “You’re in my range” to continue the combo during a blockbreak or perfect block.
+* (Please finish this page if you know any combos or tips)
+
+== Trivia ==
+
+* Crazy Diamond Requiem is the first Requiem stand locked behind a questline.
+* Crazy Diamond has no canon Requiem form, so this stand is hypothetical.
+* You're In My Range, a move removed from Crazy Diamond, returns as a skill for this stand.
+* The “Mecha Diamond” skin was taken directly from the first concept of the CDR and significantly improved.
+* As of October 2026, some skins on CDR have the highest value in the place.
+
+== Gallery ==
+<gallery>
+File:Crazy Overseer Requiem (Legendary) (Halloween 2026 Limited).webp|'''Crazy Overseer Requiem (Legendary) (Halloween 2026 Limited)'''
+File:Crazy Idol Requiem CDR.png|Crazy Idol Requiem (Legendary)
+File:Revenant Diamond CDR.png|Revenant Diamond (Epic) (Halloween 2026 Limited)
+File:Mecha Diamond 3.png|Mecha Diamond (epic)
+File:Crazy sapphire requiem.png.png|Crazy Sapphire Requiem (Uncommon)
+File:Volcanic Diamond (Common).png|Volcanic Diamond (Common)
+</gallery>
+
+[[Category:Stands]]
+[[Category:Humanoid]]
+[[Category:Healers]]
+[[Category:Pink]]
+[[Category:Blue]]
+[[Category:Close-Ranged]]
+[[Category:Part 4]]
+[[Category:Non-Canon]]
+[[Category:Requiem Stands]]
+[[Category:Evolved Stands]]
