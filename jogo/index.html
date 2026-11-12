@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YBA Wiki - Your Bizarre Adventure</title>
+    <meta
+      name="description"
+      content="Wiki brasileira não-oficial de Your Bizarre Adventure (YBA): Stands, Specs, Bosses, Itens & Drops e guia do jogo."
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Cabeçalho: uma barra só, sem enfeite -->
+    <header class="header">
+      <div class="container header-content">
+        <a href="index.html" class="logo"
+          >YBA Wiki <small>não-oficial</small></a
+        >
+        <div class="search-box">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Buscar Stands, specs, bosses..."
+            autocomplete="off"
+          />
+          <kbd>/</kbd>
+          <ul class="search-results" id="resultados" hidden></ul>
+        </div>
+        <nav class="main-nav">
+          <a href="article.html?page=stands">Stands</a>
+          <a href="article.html?page=specs">Specs</a>
+          <a href="article.html?page=bosses">Bosses</a>
+          <a href="article.html?page=itens">Itens</a>
+          <a href="article.html?page=guia">Guia</a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Layout principal (clean, sem sidebar) -->
+    <div class="container layout">
+      <main class="content">
+        <section class="hero">
+          <h1>Your Bizarre <em>Adventure</em>, em português</h1>
+          <p>
+            Dados de <strong id="contador">…</strong> páginas coletados da
+            comunidade: raridades, movesets, combos, bosses e caminhos de
+            evolução — tudo em um lugar só.
+          </p>
+        </section>
+
+        <!-- Stands em destaque -->
+        <section id="stands" style="margin-top: 26px">
+          <div class="section-head">
+            <h2 class="section-title">Stands em destaque</h2>
+            <a class="section-link" href="article.html?page=stands">ver todos →</a>
+          </div>
+          <div class="wiki-grid" id="wiki-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <footer class="footer">
+      <div class="container footer-content">
+        <p>
+          YBA Wiki — feito por fãs, para fãs. Não afiliado à UzuKee/Roblox ou a
+          Hirohiko Araki.
+        </p>
+        <div class="footer-links">
+          <a href="article.html?page=guia">Guia do Jogo</a>
+          <a href="article.html?page=itens">Itens & Drops</a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/stands.js"></script>
+    <script src="js/specs.js"></script>
+    <script src="js/bosses.js"></script>
+    <script src="js/itens.js"></script>
+    <script src="js/dados.js"></script>
+    <script src="js/comum.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
