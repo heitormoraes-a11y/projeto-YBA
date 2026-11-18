@@ -1,4 +1,31 @@
-// ===== Dados da wiki: Your Bizarre Adventure (YBA - Roblox / JoJo) =====`n`n// Helper de stats (usado pelos stands em stands.js)`nconst S = (p, v, a, d, pr, po) => ({ Poder: p, Velocidade: v, Alcance: a, Durabilidade: d, Precis�o: pr, Potencial: po });`n`n// STANDS, SPECS, BOSSES e ITENS foram movidos para arquivos separados:`n//   stands.js, specs.js, bosses.js, itens.js`n`n
+// ===== Dados da wiki: Your Bizarre Adventure (YBA - Roblox / JoJo) =====
+// STANDS, SPECS, BOSSES e ITENS foram movidos para arquivos separados:
+//   stands.js, specs.js, bosses.js, itens.js
+// O helper S() agora vive em stands.js (necess�rio no momento da leitura do objeto).
+// ===== Skins de Stands =====
+const SKINS_INFO = {
+  oque: "Skins (ou 'shinies') são variações cosméticas de um Stand já obtido: mudam a aparência, mas não o moveset nem os atributos. A maioria vem da Lucky Arrow, das skin crates e de eventos.",
+  formas: [
+    { titulo: "Lucky Arrow", texto: "Flecha especial que, ao acertar um Stand que você já possui, pode entregar uma skin dele. Se a skin não existir para aquele Stand, a flecha devolve o Stand genérico." },
+    { titulo: "Skin crates e eventos", texto: "Caixas de skins vendidas na loja ou distribuídas em eventos e códigos. Stands mais antigos costumam ter mais skins disponíveis." },
+    { titulo: "Trocas", texto: "Skins podem ser negociadas entre jogadores; skins limitadas de evento costumam ter valor alto no mercado."
+    }
+  ],
+  pity: "O sistema de pity (garantia após várias tentativas sem skin) é citado pela comunidade, mas os números oficiais mudam de atualização para atualização — A confirmar.",
+  raridades: [
+    "Comum — skins básicas de Lucky Arrow",
+    "Épica — skins mais raras, geralmente temáticas",
+    "Lendária / Mítica — skins de evento e coleções especiais",
+    "Limitada — skins de tempo/evento que não voltam para a roleta"
+  ],
+  exemplos: [
+    { stand: "Star Platinum", skins: "9 skins no total (página Skins da Fandom), incluindo Action Figure, Gold Platinum, Stone Platinum e Star Platinum OVA." },
+    { stand: "Cream", skins: "Vanilla Ice Cream (Comum) e Nocturne (Épica)." },
+    { stand: "White Album", skins: "Versões temáticas como Frozone; não havia variante shiny quando o Stand foi adicionado." },
+    { stand: "The World", skins: "A skin Shadow The World clássica deu origem ao Stand separado Shadow The World." }
+  ]
+};
+
 // ===== Paragon skins obtíveis =====
 const PARAGONS_INFO = {
   oque: "IMPORTANTE: os 'Paragon Platinum' (Paragon Platinum, Paragon Platinum: The World e Paragon Platinum: Over Heaven) são Stands CUSTOM dos desenvolvedores/contribuidores — nenhum jogador comum consegue por flecha ou quest. O que o jogador comum consegue são as PARAGON SKINS: skins inspiradas no Paragon com nomes tipo 'Platinum Sun', 'Cursed Aero Platinum', 'Sumo Platinum' etc.",

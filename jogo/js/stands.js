@@ -1,3 +1,6 @@
+// Helper de stats (Poder, Velocidade, Alcance, Durabilidade, Precisão, Potencial)
+const S = (p, v, a, d, pr, po) => ({ Poder: p, Velocidade: v, Alcance: a, Durabilidade: d, Precisão: pr, Potencial: po });
+
 const STANDS = {
   // ==================== LENDÁRIOS / MÍTICOS ====================
   starplatinum: {
@@ -561,8 +564,8 @@ const STANDS = {
   mrpresident: {
   nome: "Mr. President", cor: "#8a5a3a", raridade: "Comum", tier: "D",
   usuario: "Coco Jumbo (tartaruga)", tipo: "Stand de sala segura", anime: "Golden Wind (Parte 5)",
-  stats: S("D", "D", "C", "A", "D", "B"),
-    img: "img/stands/stickyfingers.png",
+    stats: S("D", "D", "C", "A", "D", "B"),
+    img: "",
   descricao: "Uma tartaruga com uma sala secreta nas costas. Segurança absoluta.",
   moveset: [
   "Enter Room (E) — entra na sala segura (invulnerável)",
@@ -805,7 +808,7 @@ const STANDS = {
       "Chance de <strong>2,5%</strong> na roleta da Mysterious Arrow (fonte: wiki Fandom — a página Stands lista Stone Free e Whitesnake como os stands de 2,5%)."
     ],
     curiosidades: [
-      "É um dos dois Stands mais raros do jogo (1% de chance, junto com Whitesnake).",
+      'É um dos Stands mais raros do jogo (chance citada entre 1% e 2,5% — valor exato <span class="aconfirmar">A confirmar</span> em fontes oficiais).',
       "No anime, a Jolyne usa as cordas para desmontar o próprio corpo — no YBA isso vira o String Barrier e Lasso."
     ]
   },

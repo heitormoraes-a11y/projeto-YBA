@@ -23,7 +23,7 @@ const SPECS = [
   ],
   forteContra: "Lutas longas (sustain alto)", fracoContra: "Hamon e luz solar" },
   { id: "spec-spin", nome: "Spin", cor: "#1a6a8a", raridade: "Raro",
-  img: "img/stands/tusk4.png",
+  img: "",
   desc: "Rotação dourada baseada no Golden Spin. Projéteis de longa distância e dano em área.",
   como: "Complete a questline de Gyro Zeppeli na Corrida de Cavalos.",
   skills: [
@@ -55,7 +55,7 @@ const SPECS = [
   ],
   forteContra: "Stands de curto alcance", fracoContra: "Defesa/counter-play" },
   { id: "spec-sword", nome: "Sword-Style", cor: "#8a8a9a", raridade: "Raro",
-  img: "img/specs/pluck.png",
+  img: "",
   desc: "Estilo de espada com o maior dano bruto do jogo. Requer prática para dominar.",
   como: "Obtido via NPC espadachim (ver Trello oficial do YBA).",
   skills: [

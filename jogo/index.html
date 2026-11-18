@@ -11,10 +11,10 @@
   <!-- Barra superior -->
   <div class="topbar">
     <div class="container topbar-content">
-      <span>Wiki não-oficial de Your Bizarre Adventure • Conteúdo colaborativo</span>
+      <span>Wiki brasileira não-oficial de Your Bizarre Adventure • Conteúdo feito por fãs</span>
       <div class="topbar-links">
-        <a href="#">Entrar</a>
-        <a href="#" class="btn-registrar">Registrar</a>
+        <a href="article.html?page=stands">Todas as páginas</a>
+        <a href="article.html?page=guia">Guia do jogo</a>
       </div>
     </div>
   </div>
@@ -22,19 +22,23 @@
   <!-- Cabeçalho -->
   <header class="header">
     <div class="container header-content">
-      <a href="index.html" class="logo">
-        <span class="logo-icon">YBA</span>
-        <span class="logo-text"><span class="highlight">Wiki</span></span>
+      <a href="index.html" class="logo" aria-label="YBA Wiki — Página inicial">
+        <span class="mark">YBA</span>
+        <span class="word">Wiki<span class="highlight">.</span></span>
       </a>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menu" aria-expanded="false">☰</button>
       <div class="search-box">
-        <input type="text" id="search-input" placeholder="Buscar Stands, specs, bosses...">
+        <input type="text" id="search-input" placeholder="Buscar Stands, specs, bosses..." aria-label="Buscar">
         <button id="search-btn">Buscar</button>
       </div>
-      <nav class="main-nav">
+      <nav class="main-nav" id="main-nav">
         <a href="index.html" class="active">Início</a>
-        <a href="#">Jogos</a>
-        <a href="#">Comunidade</a>
-        <a href="#">Discussões</a>
+        <a href="article.html?page=stands">Stands</a>
+        <a href="article.html?page=specs">Specs</a>
+        <a href="article.html?page=bosses">Bosses</a>
+        <a href="article.html?page=itens">Itens &amp; Drops</a>
+        <a href="article.html?page=guia">Guia</a>
+        <a href="article.html?page=sbr">Steel Ball Run</a>
       </nav>
     </div>
   </header>
@@ -46,11 +50,13 @@
       <div class="sidebar-box">
         <h3>Navegação</h3>
         <ul class="nav-list">
-          <li><a href="#">Página principal</a></li>
-          <li><a href="#">Todas as páginas</a></li>
-          <li><a href="#">Categorias</a></li>
-          <li><a href="#">Páginas aleatórias</a></li>
-          <li><a href="#">Mudanças recentes</a></li>
+          <li><a href="index.html">Página principal</a></li>
+          <li><a href="article.html?page=stands">Todos os Stands</a></li>
+          <li><a href="article.html?page=specs">Specs</a></li>
+          <li><a href="article.html?page=bosses">Bosses</a></li>
+          <li><a href="article.html?page=itens">Itens &amp; Drops</a></li>
+          <li><a href="article.html?page=guia">Guia do Jogo</a></li>
+          <li><a href="article.html?page=sbr">Steel Ball Run</a></li>
         </ul>
       </div>
       <div class="sidebar-box">
@@ -69,16 +75,14 @@
         <h3>Guias</h3>
         <ul class="nav-list">
           <li><a href="article.html?page=guia">Guia do Jogo</a></li>
-          <li><a href="article.html?page=bosses">Bosses</a></li>
-          <li><a href="article.html?page=specs">Specs</a></li>
-          <li><a href="article.html?page=itens">Itens & Drops</a></li>
-          <li><a href="article.html?page=stands">Todos os Stands</a></li>
+          <li><a href="article.html?page=sbr">Steel Ball Run</a></li>
+          <li><a href="article.html?page=skins">Skins</a></li>
+          <li><a href="article.html?page=paragons">Paragons</a></li>
         </ul>
       </div>
       <div class="sidebar-box ad-box">
         <h3>Apoie a wiki</h3>
-        <p>Contribua editando artigos e ajudando outros jogadores!</p>
-        <a href="#" class="btn">Criar conta</a>
+        <p>Conteúdo colaborativo feito por fãs. Contribua editando artigos e ajudando outros jogadores.</p>
       </div>
     </aside>
 
@@ -87,15 +91,14 @@
       <!-- Banner -->
       <section class="hero">
         <h1>Your Bizarre Adventure Wiki</h1>
-        <p>A enciclopédia brasileira de YBA, o jogo de Roblox inspirado em JoJo.
-        Atualmente com <strong id="contador">66</strong> páginas escritas por fãs.</p>
+        <p>A enciclopédia brasileira de YBA, o jogo de Roblox inspirado em JoJo. Atualmente com <strong id="contador">0</strong> páginas escritas por fãs.</p>
         <div class="hero-actions">
-          <a href="#stands" class="btn">Explorar Stands</a>
-          <a href="#" class="btn btn-outline">Começar a editar</a>
+          <a href="article.html?page=stands" class="btn">Explorar Stands</a>
+          <a href="article.html?page=guia" class="btn btn-outline">Guia do jogo</a>
         </div>
       </section>
 
-      <!-- Categorias da wiki (5 partes) -->
+      <!-- Categorias da wiki -->
       <section>
         <h2 class="section-title">Explore por categoria</h2>
         <div class="categorias-grid" id="categorias-grid">
@@ -103,7 +106,7 @@
         </div>
       </section>
 
-      <!-- Grid de wikis -->
+      <!-- Grid de stands -->
       <section id="stands">
         <h2 class="section-title">Stands em destaque</h2>
         <div class="wiki-grid" id="wiki-grid">
@@ -111,7 +114,7 @@
         </div>
       </section>
 
-      <!-- Destaque: boss da semana -->
+      <!-- Destaque: boss -->
       <section class="destaque-boss" id="destaque-boss">
         <!-- Preenchido por JS -->
       </section>
@@ -124,14 +127,16 @@
     </main>
   </div>
 
+  <button id="back-to-top" aria-label="Voltar ao topo">▲</button>
+
   <!-- Rodapé -->
   <footer class="footer">
     <div class="container footer-content">
       <p>© 2026 YBA Wiki — Feito por fãs, para fãs. Não afiliado à UzuKee/Roblox ou Hirohiko Araki. Conteúdo sob licença CC-BY-SA.</p>
       <div class="footer-links">
-        <a href="#">Termos de uso</a>
-        <a href="#">Privacidade</a>
-        <a href="#">Fale conosco</a>
+        <a href="article.html?page=guia">Termos de uso</a>
+        <a href="article.html?page=guia">Privacidade</a>
+        <a href="article.html?page=guia">Fale conosco</a>
       </div>
     </div>
   </footer>
@@ -146,7 +151,3 @@
   <script src="js/fundo.js"></script>
 </body>
 </html>
-
-
-
-

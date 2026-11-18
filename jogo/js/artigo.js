@@ -23,9 +23,11 @@ const ROTEADOR = {
 if (Object.hasOwn(ROTEADOR, page)) {
   ROTEADOR[page]();
 } else {
+  document.title = "Página não encontrada - YBA Wiki";
   document.getElementById("artigo-titulo").textContent = "Página não encontrada";
   document.getElementById("artigo-conteudo").innerHTML =
     `<p>Essa página ainda não existe na wiki.</p>
+     <p>Use a busca ou volte para a página inicial para encontrar o artigo desejado.</p>
      <a href="index.html" class="btn">Voltar para a página inicial</a>`;
 }
 
@@ -53,255 +55,236 @@ function montarAbas(catAtiva) {
   div.innerHTML = abas.map(a =>
     `<a href="article.html?page=${a.id}" class="aba ${a.id === catAtiva ? "ativa" : ""}">${a.nome}</a>`
   ).join("");
-  if (nomeEntidade) div.innerHTML += `<span class="aba aba-crumb">${nomeEntidade}</span>`;
+  if (nomeEntidade) div.innerHTML += `<span class="aba aba-crumb">${esc(nomeEntidade)}</span>`;
   document.querySelector(".article-header").prepend(div);
 }
 
-// ============================================================
-// GALERIA OFICIAL (imagens da wiki, estáticas — sem upload)
-// ============================================================
-function galeriaOficial(galeria) {
-  if (!galeria || !galeria.length) return "";
+// Preenche título, subtítulo, infobox e abas de uma vez (evita repetição em cada página)
+function prepararPagina({ titulo, sub, aba, infobox = "" }) {
+  document.title = `${titulo} - YBA Wiki`;
+  document.getElementById("artigo-titulo").textContent = titulo;
+  const subEl = document.querySelector(".artigo-sub");
+  if (subEl && sub) subEl.textContent = sub;
+  document.getElementById("infobox").innerHTML = infobox;
+  montarAbas(aba);
+}
+
+
+
+// Cabeçalho visual do artigo (imagem + descrição + selo), com a cor da entidade
+function headerEntidade({ item, selo }) {
+  const img = item.img
+    ? `<img class="stand-header-img" src="${esc(item.img)}" alt="${esc(item.nome)}" loading="lazy">`
+    : `<div class="stand-header-img stand-header-img-missing">${esc((item.nome || "?").charAt(0))}</div>`;
   return `
-    <h2 id="x-galeria">Galeria</h2>
-    <div class="galeria-oficial">
-      ${galeria.map(g => `
-        <figure class="galeria-item">
-          <img src="${g.src}" alt="${g.legenda}" loading="lazy">
-          <figcaption>${g.legenda}</figcaption>
-        </figure>`).join("")}
+    <div class="stand-header cap-cor" style="--cor: ${esc(item.cor || "#6b3fa0")}">
+      ${img}
+      <div>
+        <div class="stand-raridade">${esc(selo)}</div>
+        <p>${esc(item.descricao || item.desc || "")}</p>
+      </div>
     </div>`;
 }
 
-// ============================================================
-// VÍDEOS DE SKILLS + EXPLICAÇÃO (definidos no dados.js pelo dono)
-// ============================================================
-function secaoVideos(videos, skillsExplicacao, moveset, standNome) {
-  // Vídeos: os IDs antigos eram inválidos e o embed de busca do YouTube foi descontinuado.
-  // Agora cada bloco é um link que abre a busca no YouTube em nova aba (sem "indisponível").
-  const titulos = (videos && videos.length)
-    ? videos.map(v => v.titulo)
-    : ["Showcase de " + standNome + " (YBA)"];
-  const lista = titulos.map(t => ({ titulo: t }));
-  return `
-    <h2 id="x-videos">Vídeos de skills</h2>
-    <div class="skills-media">
-      ${lista.map(v => {
-        let texto = null;
-        const ex = (skillsExplicacao || []).find(e =>
-          v.titulo.toLowerCase().includes(e.nome.replace(/\s*\(.*\)/, "").toLowerCase().trim())
-        );
-        if (ex) texto = ex.texto;
-        if (!texto && moveset) {
-          const chave = v.titulo.replace(/\s*\(.*\)/, "").toLowerCase().trim().split(" ")[0];
-          const linha = (moveset || []).find(m => m.toLowerCase().includes(chave));
-          if (linha) texto = linha.replace(/^[^-]+—\s*/, "").replace(/\s*\([^)]*\)/, "");
-        }
-        const query = encodeURIComponent((standNome + " " + v.titulo + " YBA").trim());
-        const url = `https://www.youtube.com/results?search_query=${query}`;
-        return `
-          <div class="skill-video-bloco">
-            <a class="video-link" href="${url}" target="_blank" rel="noopener noreferrer" title="Abrir busca no YouTube">
-              <div class="video-frame video-frame-link">
-                <div class="video-play">▶</div>
-                <span class="video-link-text">Assistir no YouTube</span>
-              </div>
-            </a>
-            <h3 class="skill-video-titulo">${v.titulo}</h3>
-            <p class="skill-video-exp">${texto || "Demonstração da skill em jogo. A explicação detalhada está no moveset acima."}</p>
-          </div>`;
-      }).join("")}
-    </div>`;
+// Lista <ul> com estado vazio (A confirmar)
+function listaItens(arr, fn) {
+  if (!arr || !arr.length) return `<p class="vazio">A confirmar.</p>`;
+  return `<ul class="curiosidades">${arr.map(fn).join("")}</ul>`;
 }
 
 // ============================================================
-// PÁGINA DE STAND
+// PÁGINAS DE ENTIDADE (Stand, Boss, Spec, Item)
 // ============================================================
 function renderStand(s, id) {
-  document.title = `${s.nome} - YBA Wiki`;
-  document.getElementById("artigo-titulo").textContent = s.nome;
-  montarAbas("stands");
+  const stats = Object.entries(s.stats || {})
+    .map(([k, v]) => `<tr><th>${esc(k)}</th><td class="stat-valor">${esc(v)}</td></tr>`).join("");
+  prepararPagina({
+    titulo: s.nome, aba: "stands",
+    infobox: `
+      <tr><th colspan="2" class="info-title">${esc(s.nome)}</th></tr>
+      <tr><th colspan="2" class="info-sub">Raridade: <strong>${esc(s.raridade || "A confirmar")}</strong> • Tier: <strong>${esc(s.tier || "A confirmar")}</strong></th></tr>
+      ${s.img ? `<tr><th colspan="2" class="info-img"><img src="${esc(s.img)}" alt="${esc(s.nome)}" loading="lazy"></th></tr>` : ""}
+      ${stats}
+      ${s.usuario ? `<tr><th>Usuário</th><td>${esc(s.usuario)}</td></tr>` : ""}
+      ${s.tipo ? `<tr><th>Tipo</th><td>${esc(s.tipo)}</td></tr>` : ""}
+      ${s.anime ? `<tr><th>Obra</th><td>${esc(s.anime)}</td></tr>` : ""}`
+  });
 
-  document.getElementById("infobox").innerHTML = `
-    <tr><th colspan="2" class="info-title">${s.nome}</th></tr>
-    <tr><th colspan="2" class="info-sub">Raridade: <strong>${s.raridade}</strong> • Tier: <strong>${s.tier}</strong></th></tr>
-    <tr><th colspan="2" class="info-img"><img src="${s.img}" alt="${s.nome}" loading="lazy"></th></tr>
-    ${Object.entries(s.stats || {}).map(([k, v]) => `<tr><th>${k}</th><td><strong style="color:var(--accent)">${v}</strong></td></tr>`).join("")}
-    ${s.usuario ? `<tr><th>Usuário</th><td>${s.usuario}</td></tr>` : ""}
-    ${s.tipo ? `<tr><th>Tipo</th><td>${s.tipo}</td></tr>` : ""}
-    ${s.anime ? `<tr><th>Anime</th><td>${s.anime}</td></tr>` : ""}`;
+  // Explicação das skills: as registradas em skillsExplicacao vêm primeiro; o resto sai do moveset
+  const jaExplicadas = s.skillsExplicacao || [];
+  const movermeto = (s.moveset || []).filter(m =>
+    !jaExplicadas.some(e => m.toLowerCase().startsWith(e.nome.toLowerCase().split("(")[0].trim()))
+  ).map(m => {
+    const partes = m.split(" — ");
+    return { nome: partes[0], texto: partes.slice(1).join(" — ") };
+  });
+
+  const relacionados = Object.entries(STANDS)
+    .filter(([cid, c]) => cid !== id && c.anime === s.anime)
+    .slice(0, 4);
 
   document.getElementById("artigo-conteudo").innerHTML = `
-    <div class="stand-header" style="background: linear-gradient(135deg, ${s.cor}, #1a1526);">
-      <img class="stand-header-img" src="${s.img}" alt="${s.nome}" loading="lazy">
-      <div>
-        <div class="stand-raridade">${s.raridade} • Tier ${s.tier}</div>
-        <p>${s.descricao}</p>
-      </div>
-    </div>
+    ${headerEntidade({ item: s, selo: `${s.raridade || "Raridade A confirmar"} • Tier ${s.tier || "A confirmar"}` })}
 
     <h2 id="s-move">Moveset</h2>
-    <ul class="curiosidades">${(s.moveset || []).map(m => `<li>${m}</li>`).join("")}</ul>
+    ${listaItens(s.moveset, m => `<li>${esc(m)}</li>`)}
 
-    ${(s.combos && s.combos.length) ? `
+    ${s.combos && s.combos.length ? `
     <h2 id="s-combos">Combos</h2>
-    <ul class="curiosidades">${s.combos.map(c => `<li>${c}</li>`).join("")}</ul>
-    ${s.dica ? `<blockquote><strong>Dica da comunidade:</strong> ${s.dica}</blockquote>` : ""}` : ""}
+    ${listaItens(s.combos, c => `<li>${esc(c)}</li>`)}
+    ${s.dica ? `<blockquote><strong>Dica da comunidade:</strong> ${esc(s.dica)}</blockquote>` : ""}` : ""}
 
     <h2 id="s-skill">Como cada skill funciona</h2>
     <div class="skills-exp">
-      ${(s.skillsExplicacao || []).map(e => `
+      ${jaExplicadas.map(e => `
         <div class="skill-exp-item">
-          <h3>${e.nome}</h3>
-          <p>${e.texto}</p>
+          <h3>${esc(e.nome)}</h3>
+          <p>${esc(e.texto)}</p>
         </div>`).join("")}
-      ${(s.moveset || [])
-        .filter(m => !(s.skillsExplicacao || []).some(e => m.toLowerCase().startsWith(e.nome.toLowerCase().split("(")[0].trim())))
-        .map(m => {
-          const nome = m.split(" — ")[0];
-          const texto = m.split(" — ").slice(1).join(" — ");
-          return `
+      ${movermeto.map(m => `
         <div class="skill-exp-item">
-          <h3>${nome}</h3>
-          <p>${texto || "Ataque do moveset do Stand. Veja o vídeo de skill correspondente para a demonstração em jogo."}</p>
-        </div>`;
-        }).join("")}
+          <h3>${esc(m.nome)}</h3>
+          <p>${esc(m.texto || "A confirmar — descrição detalhada ainda não registrada; veja o vídeo de skill correspondente.")}</p>
+        </div>`).join("")}
     </div>
 
     ${secaoVideos(s.videos, s.skillsExplicacao, s.moveset, s.nome)}
 
     <h2 id="s-como">Como obter</h2>
     <div class="como-obter">
-      ${s.comoObter.map((p, i) => `<div class="passo"><span class="passo-num">${i + 1}</span><p>${p}</p></div>`).join("")}
+      ${listaItens(s.comoObter, (p, i) => `<div class="passo"><span class="passo-num">${i + 1}</span><p>${esc(p)}</p></div>`)}
     </div>
 
     ${galeriaOficial(s.imgGaleria)}
 
     <h2 id="s-curio">Curiosidades</h2>
-    <ul class="curiosidades">${(s.curiosidades || []).map(c => `<li>${c}</li>`).join("")}</ul>
+    ${listaItens(s.curiosidades, c => `<li>${esc(c)}</li>`)}
+
+    ${relacionados.length ? `
+    <h2 id="s-relacionados">Artigos relacionados</h2>
+    <div class="wiki-grid grid-relacionados">
+      ${relacionados.map(([cid, c]) => criarCard(c, cid)).join("")}
+    </div>` : ""}
   `;
 
   montarToc();
 }
 
-// ============================================================
-// PÁGINA DE BOSS
-// ============================================================
 function renderBoss(b) {
-  document.title = `${b.nome} - YBA Wiki`;
-  document.getElementById("artigo-titulo").textContent = b.nome;
-  montarAbas("bosses");
-  document.getElementById("infobox").innerHTML = `
-    <tr><th colspan="2" class="info-title">${b.nome}</th></tr>
-    <tr><th colspan="2" class="info-img"><img src="${b.img}" alt="${b.nome}" loading="lazy"></th></tr>
-    <tr><th>Dificuldade</th><td>${"★".repeat(b.dificuldade)}${"☆".repeat(5 - b.dificuldade)}</td></tr>
-    <tr><th>Localização</th><td>${b.local}</td></tr>
-    <tr><th>Respawn</th><td>${b.resp}</td></tr>
-    <tr><th>Vida</th><td>${b.hp}</td></tr>
-    <tr><th>XP</th><td>${b.xp}</td></tr>
-    <tr><th>Drops</th><td>${b.drops.join(", ")}</td></tr>`;
+  prepararPagina({
+    titulo: b.nome, aba: "bosses",
+    infobox: `
+      <tr><th colspan="2" class="info-title">${esc(b.nome)}</th></tr>
+      ${b.img ? `<tr><th colspan="2" class="info-img"><img src="${esc(b.img)}" alt="${esc(b.nome)}" loading="lazy"></th></tr>` : ""}
+      <tr><th>Dificuldade</th><td>${"★".repeat(b.dificuldade || 0)}${"☆".repeat(Math.max(0, 5 - (b.dificuldade || 0)))}</td></tr>
+      ${b.local ? `<tr><th>Localização</th><td>${esc(b.local)}</td></tr>` : ""}
+      ${b.resp ? `<tr><th>Respawn</th><td>${esc(b.resp)}</td></tr>` : ""}
+      ${b.hp ? `<tr><th>Vida</th><td>${esc(b.hp)}</td></tr>` : ""}
+      ${b.xp ? `<tr><th>XP</th><td>${esc(b.xp)}</td></tr>` : ""}
+      ${b.drops && b.drops.length ? `<tr><th>Drops</th><td>${b.drops.map(d => esc(d)).join(", ")}</td></tr>` : ""}`
+  });
 
   document.getElementById("artigo-conteudo").innerHTML = `
-    <div class="stand-header" style="background: linear-gradient(135deg, ${b.cor}, #1a1526);">
-      <img class="stand-header-img" src="${b.img}" alt="${b.nome}" loading="lazy">
-      <div>
-        <div class="stand-raridade">Boss • Dificuldade ${"★".repeat(b.dificuldade)}</div>
-        <p>${b.desc}</p>
-      </div>
-    </div>
+    ${headerEntidade({ item: b, selo: `Boss • Dificuldade ${"★".repeat(b.dificuldade || 0)}` })}
 
     <h2 id="b1">Informações da luta</h2>
-    <p><strong>Onde encontrar:</strong> ${b.local}</p>
-    <p><strong>Respawn:</strong> ${b.resp} após ser derrotado.</p>
-    <p><strong>Vida:</strong> ${b.hp} • <strong>XP:</strong> ${b.xp}</p>
+    ${b.local ? `<p><strong>Onde encontrar:</strong> ${esc(b.local)}</p>` : ""}
+    ${b.resp ? `<p><strong>Respawn:</strong> ${esc(b.resp)} após ser derrotado.</p>` : ""}
+    <p><strong>Vida:</strong> ${esc(b.hp || "A confirmar")} • <strong>XP:</strong> ${esc(b.xp || "A confirmar")}</p>
 
     <h2 id="b2">Drops</h2>
-    <div class="boss-drops">${b.drops.map(d => `<span class="drop-tag">${d}</span>`).join("")}</div>
+    ${(b.drops && b.drops.length)
+      ? `<div class="boss-drops">${b.drops.map(d => `<span class="drop-tag">${esc(d)}</span>`).join("")}</div>`
+      : `<p class="vazio">A confirmar.</p>`}
 
-    <blockquote><strong>Dica da comunidade:</strong> ${b.dica}</blockquote>`;
+    ${b.dica ? `<blockquote><strong>Dica da comunidade:</strong> ${esc(b.dica)}</blockquote>` : ""}
+
+    <h2 id="b3">Artigos relacionados</h2>
+    <div class="abas-nav abas-inline">
+      <a href="article.html?page=bosses" class="aba">Todos os bosses</a>
+      <a href="article.html?page=itens" class="aba">Itens &amp; Drops</a>
+      <a href="article.html?page=guia" class="aba">Guia do jogo</a>
+    </div>`;
 
   montarToc();
 }
 
-// ============================================================
-// PÁGINA DE SPEC
-// ============================================================
 function renderSpec(sp) {
-  document.title = `${sp.nome} - YBA Wiki`;
-  document.getElementById("artigo-titulo").textContent = sp.nome;
-  montarAbas("specs");
-  document.getElementById("infobox").innerHTML = `
-    <tr><th colspan="2" class="info-title">${sp.nome}</th></tr>
-    <tr><th colspan="2" class="info-img"><img src="${sp.img || ""}" alt="${sp.nome}" loading="lazy"></th></tr>
-    <tr><th>Raridade</th><td>${sp.raridade}</td></tr>
-    <tr><th>Como obter</th><td>${sp.como}</td></tr>
-    <tr><th>Forte contra</th><td>${sp.forteContra}</td></tr>
-    <tr><th>Fraco contra</th><td>${sp.fracoContra}</td></tr>`;
+  prepararPagina({
+    titulo: sp.nome, aba: "specs",
+    infobox: `
+      <tr><th colspan="2" class="info-title">${esc(sp.nome)}</th></tr>
+      ${sp.img ? `<tr><th colspan="2" class="info-img"><img src="${esc(sp.img)}" alt="${esc(sp.nome)}" loading="lazy"></th></tr>` : ""}
+      <tr><th>Raridade</th><td>${esc(sp.raridade || "A confirmar")}</td></tr>
+      ${sp.como ? `<tr><th>Como obter</th><td>${esc(sp.como)}</td></tr>` : ""}
+      ${sp.forteContra ? `<tr><th>Forte contra</th><td>${esc(sp.forteContra)}</td></tr>` : ""}
+      ${sp.fracoContra ? `<tr><th>Fraco contra</th><td>${esc(sp.fracoContra)}</td></tr>` : ""}`
+  });
 
   document.getElementById("artigo-conteudo").innerHTML = `
-    <div class="stand-header" style="background: linear-gradient(135deg, ${sp.cor}, #1a1526);">
-      <img class="stand-header-img" src="${sp.img || ""}" alt="${sp.nome}" loading="lazy">
-      <div>
-        <div class="stand-raridade">Spec • ${sp.raridade}</div>
-        <p>${sp.desc}</p>
-      </div>
-    </div>
+    ${headerEntidade({ item: sp, selo: `Spec • ${sp.raridade || "A confirmar"}` })}
 
     <h2 id="sp1">Habilidades</h2>
-    <ul class="curiosidades">${sp.skills.map(sk => `<li>${sk}</li>`).join("")}</ul>
+    ${listaItens(sp.skills, sk => `<li>${esc(sk)}</li>`)}
 
     <h2 id="sp2">Como obter</h2>
-    <div class="como-obter">
-      <div class="passo"><span class="passo-num">1</span><p>${sp.como}</p></div>
-    </div>
+    ${sp.como
+      ? `<div class="como-obter"><div class="passo"><span class="passo-num">1</span><p>${esc(sp.como)}</p></div></div>`
+      : `<p class="vazio">A confirmar.</p>`}
 
-    <blockquote><strong>Matchups:</strong> forte contra <em>${sp.forteContra}</em> • fraco contra <em>${sp.fracoContra}</em></blockquote>`;
+    ${(sp.forteContra || sp.fracoContra)
+      ? `<blockquote><strong>Matchups:</strong> forte contra <em>${esc(sp.forteContra || "A confirmar")}</em> • fraco contra <em>${esc(sp.fracoContra || "A confirmar")}</em></blockquote>`
+      : ""}`;
 
   montarToc();
 }
 
-// ============================================================
-// PÁGINA DE ITEM
-// ============================================================
 function renderItem(it) {
-  document.title = `${it.nome} - YBA Wiki`;
-  document.getElementById("artigo-titulo").textContent = it.nome;
-  montarAbas("itens");
-  document.getElementById("infobox").innerHTML = `
-    <tr><th colspan="2" class="info-title">${it.nome}</th></tr>
-    <tr><th colspan="2" class="info-img"><img src="${it.img || ""}" alt="${it.nome}" loading="lazy"></th></tr>
-    <tr><th>Raridade</th><td>${it.raridade}</td></tr>
-    <tr><th>Como obter</th><td>${it.preco}</td></tr>
-    <tr><th>Como usar</th><td>${it.uso}</td></tr>`;
+  prepararPagina({
+    titulo: it.nome, aba: "itens",
+    infobox: `
+      <tr><th colspan="2" class="info-title">${esc(it.nome)}</th></tr>
+      ${it.img ? `<tr><th colspan="2" class="info-img"><img src="${esc(it.img)}" alt="${esc(it.nome)}" loading="lazy"></th></tr>` : ""}
+      <tr><th>Raridade</th><td>${esc(it.raridade || "A confirmar")}</td></tr>
+      ${it.preco ? `<tr><th>Como obter</th><td>${esc(it.preco)}</td></tr>` : ""}
+      ${it.uso ? `<tr><th>Como usar</th><td>${esc(it.uso)}</td></tr>` : ""}`
+  });
 
   document.getElementById("artigo-conteudo").innerHTML = `
-    <div class="stand-header" style="background: linear-gradient(135deg, ${it.cor}, #1a1526);">
-      <img class="stand-header-img" src="${it.img || ""}" alt="${it.nome}" loading="lazy">
-      <div>
-        <div class="stand-raridade">Item • ${it.raridade}</div>
-        <p>${it.desc}</p>
-      </div>
-    </div>
+    ${headerEntidade({ item: it, selo: `Item • ${it.raridade || "A confirmar"}` })}
 
     <h2 id="i1">Detalhes</h2>
-    <p><strong>Como obter:</strong> ${it.preco}</p>
-    <p><strong>Como usar:</strong> ${it.uso}</p>
-    ${it.taxas && it.taxas !== "—" ? `<blockquote><strong>Taxas / chance:</strong> ${it.taxas}</blockquote>` : ""}`;
+    <p><strong>Como obter:</strong> ${esc(it.preco || "A confirmar")}</p>
+    <p><strong>Como usar:</strong> ${esc(it.uso || "A confirmar")}</p>
+    ${it.taxas && it.taxas !== "—" ? `<blockquote><strong>Taxas / chance:</strong> ${esc(it.taxas)}</blockquote>` : ""}`;
 
   montarToc();
 }
+
+
+
 
 // ============================================================
 // Helpers
 // ============================================================
 function montarToc() {
   const toc = document.getElementById("toc-lista");
+  if (!toc) return;
   toc.innerHTML = "";
   document.querySelectorAll("#artigo-conteudo h2").forEach(h2 => {
+    if (!h2.id) return;
     const li = document.createElement("li");
-    li.innerHTML = `<a href="#${h2.id}">${h2.textContent}</a>`;
+    li.innerHTML = `<a href="#${h2.id}">${esc(h2.textContent)}</a>`;
     toc.appendChild(li);
   });
+  if (!toc.children.length) toc.parentElement.style.display = "none";
+}
+
+// Página de conteúdo temático (guia, skins, paragons, SBR): título + abas + HTML pronto
+function paginaTopica({ titulo, sub, aba, html, infobox = "" }) {
+  prepararPagina({ titulo, sub, aba, infobox });
+  document.getElementById("artigo-conteudo").innerHTML = html;
+  montarToc();
 }
 
 // ============================================================
@@ -315,11 +298,7 @@ function paginaLista(tipo) {
     itens:  { titulo: "Itens & Drops", sub: "Itens de progressão, raridades e taxas", dados: ITENS.map(i => ({ id: i.id, ...i })) }
   }[tipo];
 
-  document.title = `${cfg.titulo} - YBA Wiki`;
-  document.getElementById("artigo-titulo").textContent = cfg.titulo;
-  document.querySelector(".artigo-sub").textContent = cfg.sub;
-  document.getElementById("infobox").innerHTML = "";
-  montarAbas(tipo);
+  prepararPagina({ titulo: cfg.titulo, sub: cfg.sub, aba: tipo });
 
   const lista = document.getElementById("artigo-conteudo");
   lista.innerHTML = "";
@@ -356,9 +335,11 @@ function paginaLista(tipo) {
 
   function desenhar() {
     const termo = semAcento(busca.value.trim());
-    const itens = cfg.dados.filter(d =>
-      (!termo || semAcento(d.nome).includes(termo)) &&
-      Object.entries(selects).every(([campo, sel]) => !sel.value || String(d[campo]) === sel.value));
+    const itens = cfg.dados
+      .filter(d =>
+        (!termo || semAcento(d.nome).includes(termo)) &&
+        Object.entries(selects).every(([campo, sel]) => !sel.value || String(d[campo]) === sel.value))
+      .sort((a, b) => semAcento(a.nome).localeCompare(semAcento(b.nome), "pt-BR"));
     grade.innerHTML = "";
     itens.forEach(d => grade.appendChild(criarCard(d, d.id)));
     if (!itens.length) grade.innerHTML = `<p class="cards-vazio">Nenhum resultado com esses filtros.</p>`;
@@ -438,20 +419,27 @@ function gerarPaginaSBR() {
 // ============================================================
 function gerarPaginaGuia() {
   const j = INFO_JOGO;
-  document.title = "Guia do Jogo - YBA Wiki";
-  document.getElementById("artigo-titulo").textContent = "Guia do Jogo";
-  document.querySelector(".artigo-sub").textContent = "Tudo o que você precisa saber para começar em YBA";
-  document.getElementById("infobox").innerHTML = "";
-  montarAbas("guia");
-
-  document.getElementById("artigo-conteudo").innerHTML = `
-    <p>${j.oque}</p>
+  paginaTopica({
+    titulo: "Guia do Jogo",
+    sub: "Tudo o que você precisa saber para começar em YBA",
+    aba: "guia",
+    html: `
+    <p>${esc(j.oque)}</p>
     <h2 id="g1">Mecânicas principais</h2>
-    ${j.mecanicas.map(m => `<h3 class="guia-sub">${m.titulo}</h3><p>${m.texto}</p>`).join("")}
+    ${j.mecanicas.map(m => `<h3 class="guia-sub">${esc(m.titulo)}</h3><p>${esc(m.texto)}</p>`).join("")}
     <h2 id="g2">Roteiro de progressão</h2>
     <div class="como-obter">
-      ${j.progressao.map((p, i) => `<div class="passo"><span class="passo-num">${i + 1}</span><p>${p}</p></div>`).join("")}
-    </div>`;
+      ${j.progressao.map((p, i) => `<div class="passo"><span class="passo-num">${i + 1}</span><p>${esc(p)}</p></div>`).join("")}
+    </div>
+    <h2 id="g3">Continue explorando</h2>
+    <div class="abas-nav abas-inline">
+      <a href="article.html?page=stands" class="aba">Stands</a>
+      <a href="article.html?page=specs" class="aba">Specs</a>
+      <a href="article.html?page=bosses" class="aba">Bosses</a>
+      <a href="article.html?page=itens" class="aba">Itens &amp; Drops</a>
+      <a href="article.html?page=sbr" class="aba">Steel Ball Run</a>
+    </div>`
+  });
 }
 
 
