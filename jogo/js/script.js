@@ -38,7 +38,9 @@ if (catGrid) {
 if (grid) {
   Object.entries(STANDS).slice(0, 8).forEach(([id, g]) => grid.appendChild(criarCard(g, id)));
 
-  const total = Object.keys(STANDS).length + BOSSES.length + SPECS.length + ITENS.length + 4; // guia, skins, paragons, sbr
+  const categoriasCount = CATEGORIAS.length;
+  const entidadesCount = Object.keys(STANDS).length + BOSSES.length + SPECS.length + ITENS.length;
+  const total = categoriasCount + entidadesCount;
   document.getElementById("contador").textContent = total;
 }
 
