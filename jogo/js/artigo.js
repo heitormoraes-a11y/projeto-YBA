@@ -96,15 +96,18 @@ function listaItens(arr, fn) {
 // PÁGINAS DE ENTIDADE (Stand, Boss, Spec, Item)
 // ============================================================
 function renderStand(s, id) {
-  const stats = Object.entries(s.stats || {})
+  const statsRows = Object.entries(s.stats || {})
     .map(([k, v]) => `<tr><th>${esc(k)}</th><td class="stat-valor">${esc(v)}</td></tr>`).join("");
+  const statsTable = statsRows
+    ? `<table class="stats-table">${statsRows}</table>`
+    : `<p class="vazio">Estatísticas não registradas.</p>`;
+
   prepararPagina({
     titulo: s.nome, aba: "stands",
     infobox: `
       <tr><th colspan="2" class="info-title">${esc(s.nome)}</th></tr>
       <tr><th colspan="2" class="info-sub">Raridade: <strong>${esc(s.raridade || "A confirmar")}</strong> • Tier: <strong>${esc(s.tier || "A confirmar")}</strong></th></tr>
       ${s.img ? `<tr><th colspan="2" class="info-img"><img src="${esc(s.img)}" alt="${esc(s.nome)}" loading="lazy"></th></tr>` : ""}
-      ${stats}
       ${s.usuario ? `<tr><th>Usuário</th><td>${esc(s.usuario)}</td></tr>` : ""}
       ${s.tipo ? `<tr><th>Tipo</th><td>${esc(s.tipo)}</td></tr>` : ""}
       ${s.anime ? `<tr><th>Obra</th><td>${esc(s.anime)}</td></tr>` : ""}`
@@ -125,6 +128,8 @@ function renderStand(s, id) {
 
   document.getElementById("artigo-conteudo").innerHTML = `
     ${headerEntidade({ item: s, selo: `${s.raridade || "Raridade A confirmar"} • Tier ${s.tier || "A confirmar"}` })}
+
+    ${statsTable}
 
     <h2 id="s-move">Moveset</h2>
     ${listaItens(s.moveset, m => `<li>${esc(m)}</li>`)}
@@ -176,7 +181,7 @@ function renderBoss(b) {
     infobox: `
       <tr><th colspan="2" class="info-title">${esc(b.nome)}</th></tr>
       ${b.img ? `<tr><th colspan="2" class="info-img"><img src="${esc(b.img)}" alt="${esc(b.nome)}" loading="lazy"></th></tr>` : ""}
-      <tr><th>Dificuldade</th><td>${"★".repeat(b.dificuldade || 0)}${"☆".repeat(Math.max(0, 5 - (b.dificuldade || 0)))}</td></tr>
+      <tr><th>Dificuldade</th><td>★${"★".repeat(b.dificuldade || 0)}${"☆".repeat(Math.max(0, 5 - (b.dificuldade || 0)))}</td></tr>
       ${b.local ? `<tr><th>Localização</th><td>${esc(b.local)}</td></tr>` : ""}
       ${b.resp ? `<tr><th>Respawn</th><td>${esc(b.resp)}</td></tr>` : ""}
       ${b.hp ? `<tr><th>Vida</th><td>${esc(b.hp)}</td></tr>` : ""}
@@ -185,7 +190,7 @@ function renderBoss(b) {
   });
 
   document.getElementById("artigo-conteudo").innerHTML = `
-    ${headerEntidade({ item: b, selo: `Boss • Dificuldade ${"★".repeat(b.dificuldade || 0)}` })}
+    ${headerEntidade({ item: b, selo: `Boss • Dificuldade ★${"★".repeat(b.dificuldade || 0)}` })}
 
     <h2 id="b1">Informações da luta</h2>
     ${b.local ? `<p><strong>Onde encontrar:</strong> ${esc(b.local)}</p>` : ""}
@@ -278,6 +283,28 @@ function montarToc() {
     toc.appendChild(li);
   });
   if (!toc.children.length) toc.parentElement.style.display = "none";
+}
+
+// ===== Seção de vídeos (placeholder compatível com dados existentes) =====
+function secaoVideos(videos, skillsExplicacao, moveset, nomeStand) {
+  if (!videos || !videos.length) return "";
+  return `
+    <h2 id="videos">Vídeos</h2>
+    <div class="videos-grid">
+      ${videos.map(v => `
+        <div class="video-chip" title="${esc(v.titulo || "Vídeo")}">${esc(v.titulo || "Vídeo")}</div>
+      `).join("")}
+    </div>`;
+}
+
+// ===== Galeria oficial de imagens (placeholder) =====
+function galeriaOficial(imgGaleria) {
+  if (!imgGaleria || !imgGaleria.length) return "";
+  return `
+    <h2 id="galeria">Galeria</h2>
+    <div class="galeria">
+      ${imgGaleria.map(img => `<img src="${esc(img)}" alt="${esc(nomeStand)}" loading="lazy">`).join("")}
+    </div>`;
 }
 
 // Página de conteúdo temático (guia, skins, paragons, SBR): título + abas + HTML pronto

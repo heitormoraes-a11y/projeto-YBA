@@ -1,6 +1,8 @@
 // ===== Página inicial — Your Bizarre Adventure Wiki =====
 const grid = document.getElementById("wiki-grid");
 const lista = document.getElementById("mudancas-lista");
+const sidebarStands = document.getElementById("sidebar-stands");
+const sidebarBosses = document.getElementById("sidebar-bosses");
 
 // ===== Categorias da YBA (5 partes) =====
 const CATEGORIAS = [
@@ -42,6 +44,24 @@ if (grid) {
   const entidadesCount = Object.keys(STANDS).length + BOSSES.length + SPECS.length + ITENS.length;
   const total = categoriasCount + entidadesCount;
   document.getElementById("contador").textContent = total;
+}
+
+// ===== Sidebar: Stands populares (primeiros 7) ====
+if (sidebarStands) {
+  Object.entries(STANDS).slice(0, 7).forEach(([id, g]) => {
+    const li = document.createElement("li");
+    li.innerHTML = `<a href="article.html?page=${id}">${esc(g.nome)}</a>`;
+    sidebarStands.appendChild(li);
+  });
+}
+
+// ===== Sidebar: Bosses ====
+if (sidebarBosses) {
+  BOSSES.forEach(b => {
+    const li = document.createElement("li");
+    li.innerHTML = `<a href="article.html?page=${b.id}">${esc(b.nome)}</a>`;
+    sidebarBosses.appendChild(li);
+  });
 }
 
 // ===== Destaque: Boss da semana (DIO, com imagem real da wiki) =====

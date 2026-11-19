@@ -164,6 +164,41 @@ function criarCard(d, id) {
   return a;
 }
 
+// ===== Card para listas de entidades (stands, bosses, specs, itens) ====
+function criarCardLista(d, id, tipo) {
+  const a = document.createElement("a");
+  a.href = `article.html?page=${id}`;
+  a.className = "wiki-card card-item";
+  a.style.setProperty("--card-cor", d.cor || "#b98aff");
+
+  const selos = [];
+  if (d.raridade) {
+    let rarityClass = "comum";
+    const r = String(d.raridade).toLowerCase();
+    if (r.includes("incomum")) rarityClass = "incomum";
+    else if (r.includes("raro")) rarityClass = "raro";
+    else if (r.includes("lendário")) rarityClass = "lendario";
+    else if (r.includes("mitico")) rarityClass = "mitico";
+    selos.push(`<span class="wiki-card-badge badge-rarity ${rarityClass}">${esc(d.raridade)}</span>`);
+  }
+  if (d.tier) selos.push(`<span class="wiki-card-badge">Tier ${esc(d.tier)}</span>`);
+  if (d.dificuldade) selos.push(`<span class="wiki-card-badge">${"★".repeat(d.dificuldade)}${"☆".repeat(Math.max(0, 5 - d.dificuldade))}</span>`);
+  if (tipo) selos.push(`<span class="wiki-card-badge">${esc(tipo)}</span>`);
+
+  const imagem = d.img
+    ? `<img src="${esc(d.img)}" alt="${esc(d.nome)}" loading="lazy">`
+    : `<div class="wiki-card-img-missing">${(d.nome || "").charAt(0)}</div>`;
+
+  a.innerHTML = `
+    <div class="wiki-card-img">${imagem}</div>
+    <div class="wiki-card-body">
+      <div class="card-selos">${selos.join("")}</div>
+      <h3>${esc(d.nome)}</h3>
+      <p>${esc(d.descricao || d.desc || "")}</p>
+    </div>`;
+  return a;
+}
+
 // ===== Menu mobile, voltar ao topo e cabeçalho ao rolar =====
 (function () {
   const toggle = document.getElementById("menu-toggle");

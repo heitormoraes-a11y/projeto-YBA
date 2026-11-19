@@ -21,3 +21,6 @@ npm-debug.log*
 
 # Backups
 _backup/
+
+# Cache de scraping da Fandom (regenerável pelas ferramentas)
+ferramentas/fandom/
